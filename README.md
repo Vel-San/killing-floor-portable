@@ -15,6 +15,7 @@ This guide assumes that you are already familiar with setting up a dedicated ser
 - [Steam](https://steamcommunity.com/id/Vel-San/)
 - Discord: **.Vel-San.#7468**
 - [Twitter](https://twitter.com/Vel__San)
+- [Other Guides](https://steamcommunity.com/id/Vel-San/myworkshopfiles/?section=guides&appid=1250)
 
 ## What is included
 
