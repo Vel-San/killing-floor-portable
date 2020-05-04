@@ -1,0 +1,66 @@
+[Setup]
+LocalProduct="Killing Floor"
+DefaultFolder="C:\KillingFloor"
+ReadMe=Help\ReadMe.int.txt
+SetupWindowTitle=Killing Floor Setup
+AutoplayWindowTitle="Killing Floor Options"
+ProductURL=http://www.killingfloorthegame.com/
+VersionURL=http://www.killingfloorthegame.com/
+Developer="Tripwire Interactive LLC"
+DeveloperURL=http://www.tripwireinteractive.com/
+Logo=Help\ROInstallerLogo.bmp
+License=License.int
+
+[General]
+PlayLevelCommand="&Play this Killing Floor level"
+OpenLinkCommand="&Open this Killing Floor link"
+InstallModuleCommand="&Install this Killing Floor module"
+EditLevelCommand="&Edit this Killing Floor level"
+
+[UnrealGameContentGroup]
+Caption="Game Content"
+Description="Installation is required"
+
+[GameGroup]
+Caption="Killing Floor Game"
+Description="Installation is required."
+
+[DirectXGroup]
+Caption="DirectX 9.0b"
+Description="Optional Microsoft DirectX 9.0b drivers for enhanced graphics, sound, and joystick support."
+
+[OpenALGroup]
+Caption="OpenAL"
+Description="Required for hardware accelerated 3D sound effects."
+
+[EditorGroup]
+Caption="Unreal Editor"
+Description="Unreal world editor, for creating your own 3D Unreal environments. For advanced users; installation is optional."
+
+[DesktopGroup]
+Caption="Desktop shortcut"
+Description="Create a desktop shortcut for playing Killing Floor"
+
+[DesktopShortcut]
+Caption="Play Killing Floor"
+
+[PlayShortcut]
+Caption="Play Killing Floor"
+
+[SafeModeShortcut]
+Caption="Killing Floor Safe Mode"
+
+[EditorShortcut]
+Caption="Killing Floor Editor"
+
+[DocumentationShortcut]
+Caption="Release Notes"
+
+[ManualShortcut]
+Caption="Killing Floor Manual"
+
+[WebShortcut]
+Caption="Killing Floor Web Page"
+
+[UninstallShortcut]
+Caption="Uninstall Killing Floor"

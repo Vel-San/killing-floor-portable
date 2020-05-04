@@ -1,0 +1,38 @@
+[KFMusicTrigger1]
+CombatSong="KFh4_Ground"
+WaveBasedSongs=((CombatSong="KFh2_Smiles",CalmSong="KFh4_NextAct"),(CombatSong="KFh2_StiltWalker",CalmSong="KFh2_OrganGrinder"),(CombatSong="KFh4_Thrills",CalmSong="KFh2_Carnivalous"),(CombatSong="KFh2_TerrorGoRound",CalmSong="KFh2_OrganGrinder"),(CombatSong="KFh2_StiltWalker",CalmSong="KFh2_Carnivalous"),(CombatSong="KFh2_Smiles",CalmSong="KFh4_NextAct"),(CombatSong="KFh4_Ground",CalmSong="KFh2_OrganGrinder"),(CombatSong="KFh2_StiltWalker",CalmSong="KFh4_NextAct"),(CombatSong="KFh4_Thrills",CalmSong="KFh2_Carnivalous"),(CombatSong="KFh2_TerrorGoRound",CalmSong="KFh2_OrganGrinder"))
+
+[KFUseTrigger0]
+Message="Press USE Key"
+
+[KFUseTrigger1]
+Message="Press USE Key"
+
+[KFUseTrigger10]
+Message="Press USE Key"
+
+[KFUseTrigger2]
+Message="Press USE Key"
+
+[KFUseTrigger4]
+Message="Press USE Key"
+
+[KFUseTrigger5]
+Message="Press USE Key"
+
+[KFUseTrigger6]
+Message="Press USE Key"
+
+[KFUseTrigger7]
+Message="Press USE Key"
+
+[KFUseTrigger9]
+Message="Press USE Key"
+
+[LevelInfo0]
+Title="KF-Hellride"
+
+
+[LevelSummary]
+Title="Hell Ride"
+Description="You hear that? That's the sweet sound of children screaming as they descend into the dark, fiery caverns. Demons with their scythes and daggers swinging, flames bursting up from the ground, bones and skulls decorate the walls - this is my home. I invite you to join me and take the ride, the ride to Hell."

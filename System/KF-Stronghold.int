@@ -1,0 +1,75 @@
+[KFMusicTrigger0]
+CombatSong="KF_Containment"
+WaveBasedSongs=((CombatSong="KF_Soldiers",CalmSong="KF_Abient_Asylum"),(CombatSong="KF_BledDry",CalmSong="KF_Abient_Asylum"),(CombatSong="KF_My_AK",CalmSong="KF_Abient_Asylum"),(CombatSong="KF_Defection",CalmSong="KF_Abient_Asylum"),(CombatSong="KF_Connections",CalmSong="KF_Abient_Asylum_Returns"),(CombatSong="KF_Soldiers",CalmSong="KF_Abient_Asylum_Returns"),(CombatSong="KF_BledDry",CalmSong="KF_Abient_Asylum_Returns"),(CombatSong="KF_My_AK",CalmSong="KF_Abient_Asylum_Returns"),(CombatSong="KF_Defection",CalmSong="KF_Abient_Asylum_Returns"),(CombatSong="KF_Connections",CalmSong="KF_Abient_Asylum")(CombatSong="KF_Connections",CalmSong="KF_Abient_Asylum"))
+
+
+[KFUseTrigger1]
+Message="Press USE Key"
+
+[KFUseTrigger11]
+Message="Press USE Key"
+
+[KFUseTrigger15]
+Message="Press USE Key"
+
+[KFUseTrigger16]
+Message="Press USE Key"
+
+[KFUseTrigger2]
+Message="Press USE Key"
+
+[KFUseTrigger23]
+Message="Press USE Key"
+
+[KFUseTrigger25]
+Message="Press USE Key"
+
+[KFUseTrigger27]
+Message="Press USE Key"
+
+[KFUseTrigger29]
+Message="Press USE Key"
+
+[KFUseTrigger31]
+Message="Press USE Key"
+
+[KFUseTrigger32]
+Message="Press USE Key"
+
+[KFUseTrigger33]
+Message="Press USE Key"
+
+[KFUseTrigger34]
+Message="Press USE Key"
+
+[KFUseTrigger38]
+Message="Press USE Key"
+
+[KFUseTrigger4]
+Message="Press USE Key"
+
+[KFUseTrigger40]
+Message="Press USE Key"
+
+[KFUseTrigger41]
+Message="Press USE Key"
+
+[KFUseTrigger43]
+Message="Press USE Key"
+
+[KFUseTrigger5]
+Message="Press USE Key"
+
+[KFUseTrigger6]
+Message="Press USE Key"
+
+[KFUseTrigger7]
+Message="Press USE Key"
+
+[LevelInfo0]
+Title="KF-Stronghold"
+
+[LevelSummary]
+Title="KF-Stronghold"
+Description="For over 400 years, this formidable fortress has weathered the onslaught of countless enemies and time itself. The remains of Frenchmen, Scots, and even a few tourists lie buried beneath the murky moat. Today, the castle serves as the summer residence of a shadowy figure - very rich, but soon to be very dead. For outside these walls, a new enemy approaches. An enemy that history has never witnessed, nor may ever record."
+

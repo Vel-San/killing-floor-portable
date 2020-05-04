@@ -1,0 +1,21 @@
+[KFMusicTrigger1]
+CombatSong="KFh2_TerrorGoRound"
+WaveBasedSongs=((CombatSong="KFh2_Smiles",CalmSong="KFh4_NextAct"),(CombatSong="KFh2_StiltWalker",CalmSong="KFh2_OrganGrinder"),(CombatSong="KFh4_Thrills",CalmSong="KFh2_Carnivalous"),(CombatSong="KFh2_TerrorGoRound",CalmSong="KFh2_OrganGrinder"),(CombatSong="KFh2_StiltWalker",CalmSong="KFh2_Carnivalous"),(CombatSong="KFh2_Smiles",CalmSong="KFh4_NextAct"),(CombatSong="KFh4_Ground",CalmSong="KFh2_OrganGrinder"),(CombatSong="KFh2_StiltWalker",CalmSong="KFh4_NextAct"),(CombatSong="KFh4_Thrills",CalmSong="KFh2_Carnivalous"),(CombatSong="KFh2_TerrorGoRound",CalmSong="KFh2_OrganGrinder"))
+
+[KFUseTrigger0]
+Message="Press USE Key"
+
+[KFUseTrigger30]
+Message="Press USE Key"
+
+[KFUseTrigger4]
+Message="Press USE Key"
+
+[KFUseTrigger5]
+Message="Press USE Key"
+
+[LevelInfo0]
+Title="KF-AbusementPark"
+
+[LevelSummary]
+Title="Ladies and Gentlemen, children of all ages; step right up to the three ring circus of death!"

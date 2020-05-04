@@ -1,0 +1,38 @@
+[KFMusicTrigger0]
+CombatSong="DirgeDefective1"
+WaveBasedSongs=((CombatSong="KF_BledDry",CalmSong="KF_SinSoma"),(CombatSong="DirgeDisunion2",CalmSong="KF_SinSoma"),(CombatSong="KF_BledDry",CalmSong="KF_SinSoma"),(CombatSong="KF_BledDry",CalmSong="KF_SinSoma"),(CombatSong="DirgeDisunion2",CalmSong="KF_TheStitches"),(CombatSong="KF_Treatments",CalmSong="KF_TheStitches"),(CombatSong="DirgeDisunion2",CalmSong="KF_TheStitches"),(CombatSong="KF_Treatments",CalmSong="KF_TheStitches"),(CombatSong="KF_Treatments",CalmSong="KF_Insect"),(CombatSong="DirgeDefective1",CalmSong="KF_Insect"))
+
+[KFUseTrigger1]
+Message="Press USE Key"
+
+[KFUseTrigger2]
+Message="Press USE Key"
+
+[KFUseTrigger3]
+Message="Press USE Key"
+
+[KFUseTrigger4]
+Message="Press USE Key"
+
+[KFUseTrigger5]
+Message="Press USE Key"
+
+[KFUseTrigger6]
+Message="Press USE Key"
+
+[KFUseTrigger7]
+Message="Press USE Key"
+
+[KFUseTrigger8]
+Message="Press USE Key"
+
+[LevelInfo0]
+Title="KF-Manor"
+
+[LevelSummary]
+Title="KF-Manor"
+Description="Of all the places to crashland...  The nearby 19th century manor house is a derelict -   A home for squatters, and junkies.  The paint-flecked walls and collapsed flooring is far from enticing.   But it may a good place to take refuge and set up a defense.  Because you can hear them coming ,  they tracked you here.  The sound of murmuring is growing louder on the breeze...."
+
+[SceneSubtitles0]
+SubTitles=("19:41  4 miles west of Loweswater . Lakes District","MAYDAY .  MAYDAY Visibility Zero,  we are coming down hard! ","OBJECTIVE : Hold out long enough for an extraction team to arrive")
+

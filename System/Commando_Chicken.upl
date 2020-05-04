@@ -1,0 +1,4 @@
+[Public]
+Player=(DefaultName="Commando_Chicken",Race="DRF",Mesh=KF_Soldier_Trip.Commando_Chicken,species=KFmod.SoldierSpeciesChicken,BodySkin=KF_Solider7_Trip_T.Commando_Chicken.Commando_Chicken_CMB,FaceSkin=KF_Solider7_Trip_T.Commando_Chicken.Commando_Chicken_CMB,Portrait=KFPortraits.Commando_Chicken_Portrait,LockedPortrait=KFPortraits.Commando_Chicken_Locked_Portrait,Text="",Sex=Male,Accuracy=+2.0,Aggressiveness=+1.0,StrafingAbility=+2.0,CombatStyle=-1,Tactics=+2.5,FavoriteWeapon=XWeapons.RocketLauncher,Ragdoll=British_Soldier1,Skeleton=KFSoldiers.Soldier,Menu="SP",BotUse=1,VoiceClassName=KFMod.KFVoicePackTwo)
+
+

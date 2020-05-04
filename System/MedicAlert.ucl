@@ -1,0 +1,1 @@
+Mutator=(ClassName=MedicAlert.MedicAlert,GroupName=KF-MedicAlert,IconMaterialName=MutatorArt.nosym,FriendlyName=MedicAlert.MedicAlert.FriendlyName,Description=MedicAlert.MedicAlert.Description,FriendlyName=MedicAlert.MedicAlert.FriendlyName,FallbackName="Medic Alert",FallbackDesc="Alerts the medic(s) when there's players who need healing.")

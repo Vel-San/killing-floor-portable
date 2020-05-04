@@ -1,0 +1,219 @@
+[BEResettableCounter1]
+CountMessage="Only %i more clown dolls to destroy..."
+CompleteMessage="All clown dolls have been destroyed!"
+
+[BEResettableCounter3]
+CompleteMessage="all mini games completed - give players acheivement - remove this message"
+
+[BEResettableCounter4]
+CountMessage="spanner tossed"
+
+[KFMusicTrigger2]
+CombatSong="KFh7_Machine"
+WaveBasedSongs=((CombatSong="KFh7_Assembly",CalmSong="KFh7_Storytime"),(CombatSong="KFh2_StiltWalker",CalmSong="KFh2_OrganGrinder"),(CombatSong="KFh7_Machine",CalmSong="KFh2_Carnivalous"),(CombatSong="KFh2_TerrorGoRound",CalmSong="KFh7_Hush"),(CombatSong="KFh7_Overpressure",CalmSong="KFh2_Carnivalous"),(CombatSong="KFh7_Machine",CalmSong="KFh4_NextAct"),(CombatSong="KFh4_Ground",CalmSong="KFh2_OrganGrinder"),(CombatSong="KFh2_StiltWalker",CalmSong="KFh7_Hush"),(CombatSong="KFh4_Thrills",CalmSong="KFh2_Carnivalous"),(CombatSong="KFh7_Assembly",CalmSong="KFh7_Storytime"),(CombatSong="KFh4_Ground",CalmSong="KFh2_OrganGrinder"))
+
+[KF_DialogueSpot0]
+Dialogues=((Display=(Dialogue_Header="Ringmaster Lockheart",Dialogue_Text="Oh you made it! This is grand, grand indeed. I seem to have a bit of bother, lads. Some bizarre creatures seem to have taken over my Carnival! Bloody cheek! See what you can do to get rid of them for me.")))
+
+[KF_DialogueSpot1]
+Dialogues=((Display=(Dialogue_Header="Ringmaster Lockheart",Dialogue_Text="Ladies AAAAAND Gentlemen, I have a truly giganticus stack of gold bullion tucked away. If you would just be so kind as to escort me safely to my airship, I'm sure I could share some of said bullion with you.")),(Display=(Dialogue_Header="Ringmaster Lockheart",Dialogue_Text="Of course, I'm going to need your help to get the power back on to open the gate. I sabotaged all the breaker boxes when the nasties got in, but I'm sure those welder thingies of yours should do the trick. Power those breaker boxes back on and then we'll talk further.")),(Display=(Dialogue_Header="Ringmaster Lockheart",Dialogue_Text="You got the power on, the gate open AND you're not dead! Wonderful, wonderful. But some of those infernal creatures found me and I need a touch of medical assistance before we can get any further. Please.")))
+
+[KF_DialogueSpot2]
+Dialogues=((Display=(Dialogue_Header="Ringmaster Lockheart",Dialogue_Text="Here they come. Keep me alive or I won't be able to tell you where to find the gold!")),(Display=(Dialogue_Header="Ringmaster Lockheart",Dialogue_Text="You did it! You got me out! But there's one little bit I forgot to mention - you'll need to go stock up on ammunition again before I break the bad news. Look lively, lads!")),(Display=(Dialogue_Header="Ringmaster Lockheart",Dialogue_Text="Now the tricky part, chaps. I hid the gold bullion on the carnival grounds for safe-keeping. Sorry. But if you bring back the entire load, I'll let you have half. Seems only fair!")),(Display=(Dialogue_Header="Ringmaster Lockheart",Dialogue_Text="I can't thank you enough, lads. As promised here is your share of the dosh. I'm not normally one to cut and run from a party, but I'm sure you can find your own way out? Good luck!")))
+
+[KF_DialogueSpot3]
+Dialogues=((Display=(Dialogue_Header="Ringmaster Lockheart",Dialogue_Text="I held those bloody things off as long as I could. Touch of internal bleeding, I think. Help me get to the airship and out of here. You'll have to use those medical syringe-thingamajigs to keep me going, though.")),(Display=(Dialogue_Header="Ringmaster Lockheart",Dialogue_Text="Oh heavens, this part of the pier has collapsed! There's no way I can jump this gap in my condition. We need to backtrack a bit.")),(Display=(Dialogue_Header="Ringmaster Lockheart",Dialogue_Text="We've got to stop a moment. Bit difficult breathing with a sucking chest wound.")),(Display=(Dialogue_Header="Ringmaster Lockheart",Dialogue_Text="Right, that's better. So what are we waiting for, hmm?")),(Display=(Dialogue_Header="Ringmaster Lockheart",Dialogue_Text="I've lost a lot of blood, but we're almost home free! Just let me rest again for a moment.")),(Display=(Dialogue_Header="Ringmaster Lockheart",Dialogue_Text="Now I'm ready, let's make our big push to the end of the pier!")),(Display=(Dialogue_Header="Ringmaster Lockheart",Dialogue_Text="We made it! Nevertheless, I fear we're not done yet. I hear more coming. Grab all the ammunition you can - and don't spare the cost! We're going to have to hold them off here!")))
+
+[KF_StoryObjective0]
+HUD_Header.Header_Text="Power Trip"
+ObjectiveInProgressMusic="KFh2_StiltWalker"
+
+[KF_StoryObjective1]
+HUD_Header.Header_Text="Shop at the Trader"
+ObjectiveInProgressMusic="KFh7_Storytime"
+
+[KF_StoryObjective10]
+HUD_Header.Header_Text="Shop at the Trader"
+ObjectiveInProgressMusic="KFh7_Hush"
+
+[KF_StoryObjective25]
+HUD_Header.Header_Text="Shop at the Trader"
+ObjectiveInProgressMusic="KFh2_Carnivalous"
+
+[KF_StoryObjective26]
+HUD_Header.Header_Text="Get to da Airship!"
+ObjectiveInProgressMusic="KFh7_Machine"
+
+[KF_StoryObjective27]
+HUD_Header.Header_Text="Stand Your Ground"
+ObjectiveInProgressMusic="KFh2_TerrorGoRound"
+
+[KF_StoryObjective29]
+HUD_Header.Header_Text="Shop at the Trader"
+ObjectiveInProgressMusic="KFh2_OrganGrinder"
+
+[KF_StoryObjective3]
+HUD_Header.Header_Text="Defeat the Patriarch"
+ObjectiveInProgressMusic="KFh7_Assembly"
+
+[KF_StoryObjective4]
+HUD_Header.Header_Text="Shop at the Trader"
+ObjectiveInProgressMusic="KFh7_Storytime"
+
+[KF_StoryObjective5]
+HUD_Header.Header_Text="Lock and Load"
+ObjectiveInProgressMusic="KFh7_Assembly"
+
+[KF_StoryObjective7]
+HUD_Header.Header_Text="Gold Rush"
+ObjectiveInProgressMusic="KFh7_Overpressure"
+
+[KF_StoryObjective8]
+HUD_Header.Header_Text="Ringmaster Rendezvous"
+ObjectiveInProgressMusic="KFh2_Carnivalous"
+
+[LevelInfo0]
+Title="Lockheart's Steamland"
+
+[LevelSummary]
+Title="Lockheart's Steamland"
+Description="Lockheart's Steamland is the #1 summer destination for all of England, surpassing other carnival style piers with their greasy chip shops, leaky domes, and bloated ticket prices. Unfortunately, when the Horzine outbreak happened in the off-season, things have gotten, how shall we say, out of hand and a little creepy."
+
+[ObjCondition_ActorHealth0]
+HUD_Screen.Screen_Hint="Defeat the Patriarch"
+
+[ObjCondition_ActorHealth1]
+HUD_World.World_Hint="Keep Me Alive!"
+HUD_Screen.Screen_Hint="Keep Ringmaster Lockheart Alive"
+
+[ObjCondition_ActorHealth10]
+HUD_World.World_Hint="Weld"
+
+[ObjCondition_ActorHealth11]
+HUD_World.World_Hint="Weld"
+
+[ObjCondition_ActorHealth12]
+HUD_World.World_Hint="Weld"
+
+[ObjCondition_ActorHealth13]
+HUD_World.World_Hint="Weld"
+
+[ObjCondition_ActorHealth14]
+HUD_World.World_Hint="Weld"
+
+[ObjCondition_ActorHealth15]
+HUD_World.World_Hint="Weld"
+
+[ObjCondition_ActorHealth16]
+HUD_World.World_Hint="Weld"
+
+[ObjCondition_ActorHealth17]
+HUD_World.World_Hint="Weld"
+
+[ObjCondition_ActorHealth18]
+HUD_World.World_Hint="Weld"
+
+[ObjCondition_ActorHealth19]
+HUD_World.World_Hint="Weld"
+
+[ObjCondition_ActorHealth2]
+HUD_World.World_Hint="Keep Me Alive!"
+HUD_Screen.Screen_Hint="Keep Ringmaster Lockheart Alive"
+
+[ObjCondition_ActorHealth20]
+HUD_World.World_Hint="Weld"
+
+[ObjCondition_ActorHealth21]
+HUD_World.World_Hint="Weld"
+
+[ObjCondition_ActorHealth22]
+HUD_World.World_Hint="Weld"
+
+[ObjCondition_ActorHealth23]
+HUD_World.World_Hint="Heal Me"
+
+[ObjCondition_ActorHealth3]
+HUD_World.World_Hint="Weld"
+
+[ObjCondition_ActorHealth4]
+HUD_World.World_Hint="Weld"
+
+[ObjCondition_ActorHealth5]
+HUD_World.World_Hint="Weld"
+
+[ObjCondition_ActorHealth6]
+HUD_World.World_Hint="Weld"
+
+[ObjCondition_ActorHealth7]
+HUD_World.World_Hint="Weld"
+
+[ObjCondition_ActorHealth8]
+HUD_World.World_Hint="Weld"
+
+[ObjCondition_ActorHealth9]
+HUD_World.World_Hint="Weld"
+
+[ObjCondition_Area0]
+HUD_World.World_Hint="Extraction Point"
+HUD_Screen.Screen_Hint="Escort the Ringmaster to Safety"
+
+[ObjCondition_Counter0]
+HUD_Screen.Screen_Hint="Gate Power Level"
+
+[ObjCondition_Counter1]
+HUD_Screen.Screen_Hint="(Bonus) Kill Specimens :"
+
+[ObjCondition_Counter2]
+HUD_Screen.Screen_Hint="Carry 1st Gold Bars to Airship"
+
+[ObjCondition_Counter3]
+HUD_Screen.Screen_Hint="Carry 2nd Gold Bars to Airship"
+
+[ObjCondition_Counter4]
+HUD_Screen.Screen_Hint="Carry 3rd Gold Bars to Airship"
+
+[ObjCondition_Multi0]
+HUD_World.World_Hint="Drop Zone"
+
+[ObjCondition_Multi1]
+HUD_Screen.Screen_Hint="(Bonus) Repair All Breaker Boxes : "
+
+[ObjCondition_Timed2]
+HUD_Screen.Screen_Hint="Hold Out Until Airship Arrives : "
+
+[ObjCondition_Triggered0]
+HUD_World.World_Hint="Safe 1"
+
+[ObjCondition_Triggered1]
+HUD_World.World_Hint="Safe 2"
+
+[ObjCondition_Triggered2]
+HUD_World.World_Hint="Safe 3"
+
+[ObjCondition_Triggered4]
+HUD_Screen.Screen_Hint="Heal the Ringmaster"
+
+[ObjCondition_WaveCounter0]
+HUD_Screen.Screen_Hint="Remaining Specimens : "
+
+[ObjCondition_WaveCounter1]
+HUD_Screen.Screen_Hint="Kill Remaining Zeds"
+
+[ObjCondition_WaveCounter2]
+HUD_Screen.Screen_Hint="Kill Remaining Zeds"
+
+[ObjCondition_WaveCounter3]
+HUD_Screen.Screen_Hint="Kill Remaining Zeds"
+
+[ObjCondition_WaveCounter4]
+HUD_Screen.Screen_Hint="Kill Remaining Zeds"
+
+[Trigger0]
+Message="Unweld and press USE to open."
+
+[Trigger1]
+Message="Unweld and press USE to open."
+
+[Trigger7]
+Message="Unweld and press USE to open."
+

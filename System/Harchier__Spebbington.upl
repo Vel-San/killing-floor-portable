@@ -1,0 +1,4 @@
+[Public]
+Player=(DefaultName="Harchier_Spebbington_II",Race="DRF",Mesh=KF_Soldier_Trip.ball_hero_V2,species=KFmod.CivilianSpeciesBallHeroII,BodySkin=KF_Soldier12_Trip_T.3rdP.ball_hero_v2_cmb,FaceSkin=KF_Soldier12_Trip_T.3rdP.ball_hero_v2_cmb,Portrait=KF_Soldier12_Trip_T.Portrait.ball_hero_v2_portrait,LockedPortrait=KF_Soldier12_Trip_T.Portrait.ball_hero_v2_portrait_locked,Text="",Sex=Male,Accuracy=+2.0,Aggressiveness=+1.0,StrafingAbility=+2.0,CombatStyle=-1,Tactics=+2.5,FavoriteWeapon=XWeapons.RocketLauncher,Ragdoll=British_Soldier1,Skeleton=KFSoldiers.Soldier,Menu="SP",BotUse=1,VoiceClassName=KFMod.KFVoicePackTwo)
+
+

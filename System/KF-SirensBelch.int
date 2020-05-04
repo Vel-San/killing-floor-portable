@@ -1,0 +1,17 @@
+[BEResettableCounter1]
+CountMessage="Only %i more beer steins to destroy..."
+CompleteMessage="All beer steins have been destroyed!"
+
+[KFMusicTrigger0]
+WaveBasedSongs=((CombatSong="KF_3_Chillbumps",CalmSong="KF_1_LowEbb"),(CombatSong="KF_Soldiers",CalmSong="KF_2_Watching"),(CombatSong="KF_4_BikiniWax",CalmSong="KF_1_LowEbb"),(CombatSong="KF_Containment",CalmSong="KF_Mutagen"),(CombatSong="KFh6_FullBurn",CalmSong="KF_Abient_Asylum"),(CombatSong="KFh5_Horde",CalmSong="KF_Vapour"),(CombatSong="KF_WPrevention",CalmSong="KF_Connections"),(CombatSong="KF_5_Thunderhead",CalmSong="KF_3_Chillbumps"),(CombatSong="KFh6_Launch",CalmSong="KFh8_Locomo"),(CombatSong="KF_6_TakeThat2",CalmSong="KF_Abient_Asylum_Returns"))
+
+[KFUseTrigger0]
+Message="Press USE Key"
+
+[LevelInfo0]
+Title="Siren's Belch Brewery"
+
+[LevelSummary]
+Title="Siren's Belch Brewery"
+Description="Nestled in the English countryside, the Siren's Belch brewery tower sits like a sentinel surprisingly brewing away with automated abandonment. The wind howls as the snow again begins to fall. Underneath the howls the ominous groans of the specimens can be heard. Time to get some supplies."
+

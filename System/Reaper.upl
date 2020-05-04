@@ -1,0 +1,4 @@
+[Public]
+Player=(DefaultName="Reaper",Race="DRF",Mesh=KF_Soldier_Trip.Reaper,species=KFmod.ReaperSpecies,BodySkin=KF_Solider10_Trip_T.Reaper.reaper_shdr,Faceskin=KF_Solider10_Trip_T.Reaper.reaper_shdr,Portrait=KFPortraits.Reaper_Portrait,LockedPortrait=KFPortraits.Reaper_Portrait_Locked,Text="",Sex=Male,Accuracy=+2.0,Aggressiveness=+1.0,StrafingAbility=+2.0,CombatStyle=-1,Tactics=+2.5,FavoriteWeapon=XWeapons.RocketLauncher,Ragdoll=British_Soldier1,Skeleton=KFSoldiers.Soldier,Menu="SP",BotUse=1,VoiceClassName=KFMod.KFVoicePackMale,AttachedEmitter="ROEffects.CharFX_Smoke",BoneName="CHR_LAnkle")
+
+

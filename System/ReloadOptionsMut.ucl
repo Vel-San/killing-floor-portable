@@ -1,0 +1,1 @@
+Mutator=(ClassName=ReloadOptionsMut.ReloadOptionsMut,GroupName=KFReloadOptionsMut,IconMaterialName=MutatorArt.nosym,FriendlyName=ReloadOptionsMut.ReloadOptionsMut.FriendlyName,Description=ReloadOptionsMut.ReloadOptionsMut.Description,FriendlyName=ReloadOptionsMut.ReloadOptionsMut.FriendlyName,FallbackName="Reload Options",FallbackDesc="Adds options to customize reload.")

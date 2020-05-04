@@ -1,0 +1,69 @@
+[KFMusicTrigger0]
+CombatSong="KFh3_Housetop"
+WaveBasedSongs=((CombatSong="KFh3_Housetop",CalmSong="KFh_JBells"),(CombatSong="KFh_Trepak",CalmSong="KFH_DOTSPF"),(CombatSong="KFh3_Toyland",CalmSong="KFh3_OTbaum"),(CombatSong="KFh3_Housetop",CalmSong="KFh_JBells"),(CombatSong="KFh_Trepak",CalmSong="KFh_SNacht"),(CombatSong="KFh3_StNick",CalmSong="KFH_DOTSPF"),(CombatSong="KFh3_Housetop",CalmSong="KFh3_OTbaum"),(CombatSong="KFh3_Toyland",CalmSong="KFH_DOTSPF"),(CombatSong="KFh3_Housetop",CalmSong="KFh_SNacht"),(CombatSong="KFh3_StNick",CalmSong="KFh3_OTbaum")
+
+[KFUseTrigger0]
+Message="Press USE Key"
+
+[KFUseTrigger1]
+Message="Press USE Key"
+
+[KFUseTrigger10]
+Message="Press USE Key"
+
+[KFUseTrigger11]
+Message="Press USE Key"
+
+[KFUseTrigger12]
+Message="Press USE Key"
+
+[KFUseTrigger13]
+Message="Press USE Key"
+
+[KFUseTrigger14]
+Message="Press USE Key"
+
+[KFUseTrigger15]
+Message="Press USE Key"
+
+[KFUseTrigger16]
+Message="Press USE Key"
+
+[KFUseTrigger17]
+Message="Press USE Key"
+
+[KFUseTrigger18]
+Message="Press USE Key"
+
+[KFUseTrigger2]
+Message="Press USE Key"
+
+[KFUseTrigger3]
+Message="Press USE Key"
+
+[KFUseTrigger4]
+Message="Press USE Key"
+
+[KFUseTrigger5]
+Message="Press USE Key"
+
+[KFUseTrigger6]
+Message="Press USE Key"
+
+[KFUseTrigger7]
+Message="Press USE Key"
+
+[KFUseTrigger8]
+Message="Press USE Key"
+
+[KFUseTrigger9]
+Message="Press USE Key"
+
+[LevelInfo0]
+Title="Ice Cave"
+
+[LevelSummary]
+Title="Ice Cave"
+Description="Broken and mangled, Evil Santa has retreated to his secluded outpost in the South Pole. Here is where he will make his last stand to bring pain and suffering to naughty boys and girls."
+
+

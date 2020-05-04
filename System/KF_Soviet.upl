@@ -1,0 +1,4 @@
+[Public]
+Player=(DefaultName="KF_Soviet",Race="DRF",Mesh=KF_Soldier_Trip.KF_Sov,species=KFmod.RO2SovietSpecies,BodySkin=KF_Solider7_Trip_T.KF_Soviet.KF_Soviet_CMB,FaceSkin=KF_Solider7_Trip_T.KF_Soviet.KF_Soviet_CMB,Portrait=KFPortraits.KF_Soviet_Portrait,LockedPortrait=KFPortraits.KF_Soviet_Locked_Portrait,Text="",Sex=Male,Accuracy=+2.0,Aggressiveness=+1.0,StrafingAbility=+2.0,CombatStyle=-1,Tactics=+2.5,FavoriteWeapon=XWeapons.RocketLauncher,Ragdoll=British_Soldier1,Skeleton=KFSoldiers.Soldier,Menu="SP",BotUse=1,VoiceClassName=KFMod.KFVoicePackTwo)
+
+

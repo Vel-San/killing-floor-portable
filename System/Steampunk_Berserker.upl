@@ -1,0 +1,4 @@
+[Public]
+Player=(DefaultName="Steampunk_Berserker",Race="DRF",Mesh=KF_Soldier_Trip.Steampunk_Berserker,species=KFmod.SteampunkBerserkerSpecies,BodySkin=KF_Soldier6_Trip_T.Uniforms.Berserker_Steampunk_cmb,FaceSkin=KF_Soldier6_Trip_T.Uniforms.Berserker_Steampunk_cmb,Portrait=KFPortraits.Berserker_Steampunk_Portait,LockedPortrait=KFPortraits.dlccharacterpack_H,Text="",Sex=Male,Accuracy=+2.0,Aggressiveness=+1.0,StrafingAbility=+2.0,CombatStyle=-1,Tactics=+2.5,FavoriteWeapon=XWeapons.RocketLauncher,Ragdoll=British_Soldier1,Skeleton=KFSoldiers.Soldier,Menu="SP",BotUse=1,VoiceClassName=KFMod.KFVoicePackTwo)
+
+

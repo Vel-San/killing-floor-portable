@@ -1,0 +1,4 @@
+[Public]
+Player=(DefaultName="ChickenNator",Race="DRF",Mesh=KF_Soldier_Trip.ChickenNater,species=KFmod.ChickenNatorspecies,BodySkin=KF_Solider10_Trip_T.ChickenNator.ChickenNator_Shdr,FaceSkin=KF_Solider10_Trip_T.ChickenNator.ChickenNator_Shdr,Portrait=KFPortraits.ChickenNater_Portrait,LockedPortrait=KFPortraits.ChickenNater_Locked_Portrait,Text="",Sex=Male,Accuracy=+2.0,Aggressiveness=+1.0,StrafingAbility=+2.0,CombatStyle=-1,Tactics=+2.5,FavoriteWeapon=XWeapons.RocketLauncher,Ragdoll=British_Soldier1,Skeleton=KFSoldiers.Soldier,Menu="SP",BotUse=1,VoiceClassName=KFMod.KFVoicePackMale,AttachedEmitter="ROEffects.CharFX_Feather",BoneName="CHR_Pelvis")
+
+

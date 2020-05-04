@@ -1,0 +1,32 @@
+[ACTION_ChangeConditionLoc]
+ActionString="Update Condition Loc"
+
+[ACTION_OpenRandomTrader]
+ActionString="Open Random Trader Shop"
+
+[KFHintmanager_Story]
+Hints[42].Title="Optional Missions"
+Hints[42].Hint="You have just received an optional mission.  Completing it will give give you a cash bonus.  To start the mission proceed to the Mission area on your HUD"
+
+[KFStoryGameInfo]
+GameName="Objective Mode"
+Description="Objective mode is a twist on the core game play of Killing Floor. Players will be placed in a unique level where a series of linear objectives must be accomplished in order to proceed to the next. All of these lead up to the final battle against the Patriarch. Each objective has its own goals and rewards while endless waves of enemies try to stop you!"
+
+[KF_BreakerBoxNPC]
+NPCName="Breaker Box"
+
+[KF_PlaceableStoryPickup]
+Message_Use="Press USE key to Pick up"
+
+[KF_StoryNPC]
+NPCName="An NPC"
+
+[KeyPickup_Story]
+PickupMessage="You found a key"
+
+[ObjCondition_Timed]
+HUD_Screen.Screen_Hint="Time Left :"
+
+[ObjCondition_TraderTime]
+HUD_World.World_Hint="Trader"
+

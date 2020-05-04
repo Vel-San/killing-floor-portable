@@ -1,0 +1,4 @@
+[Public]
+Player=(DefaultName="Mrs_Foster",Race="DRF",Mesh=KF_Soldier_Trip.MsFoster,species=KFMod.MrsFosterSpecies,BodySkin=MrsFoster_DLC_3rdP.MrsFoster_CMB,FaceSkin=MrsFoster_DLC_3rdP.MrsFoster_CMB,Portrait=KFPortraits.MrsFoster_Portrait,LockedPortrait=KFPortraits.MrsFoster_Portrait_Locked,Text="",Sex=Female,Accuracy=+2.0,Aggressiveness=+1.0,StrafingAbility=+2.0,CombatStyle=-1,Tactics=+2.5,FavoriteWeapon=XWeapons.RocketLauncher,Ragdoll=British_Soldier1,Skeleton=KFSoldiers.Soldier,Menu="SP",BotUse=1,VoiceClassName=KFMod.KFVoicePackFemale)
+1757
+

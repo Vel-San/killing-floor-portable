@@ -1,0 +1,4 @@
+[Public]
+Player=(DefaultName="Ash_Harding",Race="DRF",Mesh=KF_Soldier_Trip.Female_Soldier,species=KFmod.AshHardingSpecies,BodySkin=KF_Solider9_Trip_T.Female_Soldier.FinalBlend_Female_Hair_fb,FaceSkin=KF_Solider9_Trip_T.Female_Soldier.Female_Soldier_CMB,Portrait=KFPortraits.Female_Soldier_Portrait,LockedPortrait=KFPortraits.Female_Soldier_Locked_Portrait,Text="",Sex=Female,Accuracy=+2.0,Aggressiveness=+1.0,StrafingAbility=+2.0,CombatStyle=-1,Tactics=+2.5,FavoriteWeapon=XWeapons.RocketLauncher,Ragdoll=British_Soldier1,Skeleton=KFSoldiers.Soldier,Menu="SP",BotUse=1,VoiceClassName=KFMod.KFVoicePackFemale)
+
+

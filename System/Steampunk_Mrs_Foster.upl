@@ -1,0 +1,4 @@
+[Public]
+Player=(DefaultName="Steampunk_Mrs_Foster",Race="DRF",Mesh=KF_Soldier_Trip.SteampunkMsFoster,species=KFMod.SteampunkMrsFosterSpecies,BodySkin=MrsFoster_Steampunk_DLC_3rdP.SteampunkMrsFoster_CMB,FaceSkin=MrsFoster_Steampunk_DLC_3rdP.SteampunkMrsFoster_CMB,Portrait=KFPortraits.Steampunk_MrsFoster_Portrait,LockedPortrait=KFPortraits.Steampunk_MrsFoster_Portrait_Locked,Text="",Sex=Female,Accuracy=+2.0,Aggressiveness=+1.0,StrafingAbility=+2.0,CombatStyle=-1,Tactics=+2.5,FavoriteWeapon=XWeapons.RocketLauncher,Ragdoll=British_Soldier1,Skeleton=KFSoldiers.Soldier,Menu="SP",BotUse=1,VoiceClassName=KFMod.KFVoicePackFemale)
+1757
+

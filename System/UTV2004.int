@@ -1,0 +1,27 @@
+[Public]
+Object=(Name=UTV2004.UTVCommandlet,Class=Class,MetaClass=Core.Commandlet)
+
+[UTVCommandlet]
+HelpCmd=utv
+HelpOneLiner=Starts an ROTV Server
+HelpUsage=utv [serveraddress=<addr>] [serverport=<port>] [listenport=<port>] [primarypassword=<pass>] [vippassword=<pass>] [normalpassword=<pass>] [joinpassword=<pass>] [delay=<seconds>] [maxclients=<num>] [seeall=<1/0>]
+HelpParm[0]=serveraddress
+HelpDesc[0]=The IP address the proxy should connect to
+HelpParm[1]=serverport
+HelpDesc[1]=The port on the server the proxy should connect to
+HelpParm[2]=listenport
+HelpDesc[2]=The port the proxy should listen for clients on
+HelpParm[3]=primarypassword
+HelpDesc[3]=The password needed to become primary client
+HelpParm[4]=vippassword
+HelpDesc[4]=The password that allows a client to override maxclients
+HelpParm[5]=normalpassword
+HelpDesc[5]=The password clients need to join the proxy
+HelpParm[6]=joinpassword
+HelpDesc[6]=The password the proxy will use when connecting to the game
+HelpParm[7]=delay
+HelpDesc[7]=Number of seconds to delay the feed from the server
+HelpParm[8]=maxclients
+HelpDesc[8]=The maximum number of clients allowed on this proxy
+HelpParm[9]=seeall
+HelpDesc[9]=Determines if the proxy will use the seeall mode

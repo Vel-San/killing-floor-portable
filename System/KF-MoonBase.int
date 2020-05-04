@@ -1,0 +1,78 @@
+[BEResettableCounter0]
+CountMessage="%i Z.E.D. gun pieces remaining!"
+CompleteMessage="All Z.E.D gun pieces have been found and the weapon has been unlocked at the Trader!"
+
+[KFGrabbable0]
+Message="Press USE to pick up ZED gun piece"
+
+[KFGrabbable1]
+Message="Press USE to pick up ZED gun piece"
+
+[KFGrabbable10]
+Message="Press USE to pick up ZED gun piece"
+
+[KFGrabbable11]
+Message="Press USE to pick up ZED gun piece"
+
+[KFGrabbable12]
+Message="Press USE to pick up ZED gun piece"
+
+[KFGrabbable13]
+Message="Press USE to pick up ZED gun piece"
+
+[KFGrabbable14]
+Message="Press USE to pick up ZED gun piece"
+
+[KFGrabbable15]
+Message="Press USE to pick up ZED gun piece"
+
+[KFGrabbable2]
+Message="Press USE to pick up ZED gun piece"
+
+[KFGrabbable3]
+Message="Press USE to pick up ZED gun piece"
+
+[KFGrabbable4]
+Message="Press USE to pick up ZED gun piece"
+
+[KFGrabbable5]
+Message="Press USE to pick up ZED gun piece"
+
+[KFGrabbable6]
+Message="Press USE to pick up ZED gun piece"
+
+[KFGrabbable7]
+Message="Press USE to pick up ZED gun piece"
+
+[KFGrabbable8]
+Message="Press USE to pick up ZED gun piece"
+
+[KFGrabbable9]
+Message="Press USE to pick up ZED gun piece"
+
+[KFMusicTrigger0]
+
+WaveBasedSongs=((CombatSong="KFh6_Launch",CalmSong="KFh6_IntoNothing"),(CombatSong="KFh6_Burst",CalmSong="KFh6_IntoNothing"),(CombatSong="KFh6_Launch",CalmSong="KFh6_Derelict"),(CombatSong="KFh6_FullBurn",CalmSong="KFh6_Derelict"),(CombatSong="KFh6_Burst",CalmSong="KFh6_IntoNothing"),(CombatSong="KFh6_Launch",CalmSong="KFh6_IntoNothing"),(CombatSong="KFh6_FullBurn",CalmSong="KFh6_Derelict"),(CombatSong="KFh6_Burst",CalmSong="KFh6_Derelict"),(CombatSong="KFh6_Launch",CalmSong="KFh6_IntoNothing"),(CombatSong="KFh6_FullBurn",CalmSong="KFh6_Derelict"))
+
+[KFUseTrigger0]
+Message="To unlock the Dwarven Axe own Dwarfs!? or complete the achievement 'Not a war-hammer' in Dwarfs!?"
+
+[KFUseTrigger1]
+Message="Press USE Key"
+
+[KFUseTrigger2]
+Message="Press USE Key"
+
+[KFUseTrigger3]
+Message="Press USE Key"
+
+[KFUseTrigger4]
+Message="Press USE Key"
+
+[LevelInfo0]
+Title="Moon Base"
+
+[LevelSummary]
+Title="Moon Base"
+Description="Space is noisy. Background radiation sounds like radio static (or country western depending on your perspective) and the rhythm of pulsars mixes with the grinds and whines of distant galaxies. So why did Horzine spend billions developing their own radio telescope array on the moon that's 100% self-sufficient? Did they detect the presence of Alien life or an impending asteroid disaster? Have they discovered that aliens prefer Hendrix over Garth? And what about the zeds? Surely they aren't involved? Or are they?"
+

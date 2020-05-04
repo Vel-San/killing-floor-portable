@@ -1,0 +1,183 @@
+[BEResettableCounter1]
+CountMessage="Only %i more DNA samples to destroy..."
+CompleteMessage="All DNA samples have been destroyed!"
+
+[KFMusicTrigger0]
+CombatSong="KFh6_Launch"
+
+[KFUseTrigger2]
+Message="Press USE Key"
+
+[KF_DialogueSpot0]
+Dialogues=((Display=(Dialogue_Header="Rachel Clamley",Dialogue_Text="Who's there? Look, I don't know how you got in here, but I'm Kevin Clamely's daughter Rachel and I'm on your side. My father fled on the train to Paris when he heard you coming, but he left behind an army of clones. I could use your help sabotaging this place before they get out.")),(Display=(Dialogue_Header="Rachel Clamley",Dialogue_Text="When I came to meet him, he was setting an explosive in the station to slow the authorities, so he could escape. Maybe you can use it to blow the security doors.")),(Display=(Dialogue_Header="Rachel Clamley",Dialogue_Text="Once you get through the security doors, come to the chemical storage room.")),(Display=(Dialogue_Header="Rachel Clamley",Dialogue_Text="You'll need to find a jar labeled nitroglycerin. It's a highly unstable liquid that you can circulate through the facility to overheat the reactor core.")),(Display=(Dialogue_Header="Rachel Clamley",Dialogue_Text="Get to the water cooling room and pour the nitroglycerin into the system. Let me open that security door for you.")),(Display=(Dialogue_Header="Rachel Clamley",Dialogue_Text="Please mind the gap. Sorry, I've always wanted to say that.")),(Display=(Dialogue_Header="Rachel Clamley",Dialogue_Text="Perfect. While that's circulating through the system, I'll open the door to the generator room so you can stock up.")),(Display=(Dialogue_Header="Rachel Clamley",Dialogue_Text="Now that the chemicals are circulating, you need to overheat the generator and turbine. It's going to take some time to heat them up, so watch your back!")),(Display=(Dialogue_Header="Rachel Clamley",Dialogue_Text="You're halfway there, keep going!")),(Display=(Dialogue_Header="Rachel Clamley",Dialogue_Text="Nice work! Stock up while you can.")),(Display=(Dialogue_Header="Rachel Clamley",Dialogue_Text="This is it. I'll open the door to the reactor room for you. Let's end this.")),(Display=(Dialogue_Header="Rachel Clamley",Dialogue_Text="You've put all the pieces in place. Now turn on the reactor core, which should raise its temperature enough to blow this place to hell. Just hold out for a few minutes and then we're out of here.")),(Display=(Dialogue_Header="Rachel Clamley",Dialogue_Text="Temperature levels are steadily rising. Keep going!")),(Display=(Dialogue_Header="Rachel Clamley",Dialogue_Text="It's working! The core is getting pretty unstable. Hurry up and resupply before this place blows!")),(Display=(Dialogue_Header="Rachel Clamley",Dialogue_Text="The core is at critical temperature, but those security doors only open with my father's retinal scan. Maybe an eye from one of his twisted clones will work!")),(Display=(Dialogue_Header="Rachel Clamley",Dialogue_Text="You're alive! But you still need to override that security door. Time is running out!")),(Display=(Dialogue_Header="Rachel Clamley",Dialogue_Text="Now's our chance to escape. My father already fled to Paris through the English Channel Tunnel upstairs. We've got to stop him before the outbreak spreads farther. Good luck, and godspeed.")))
+
+[KF_StoryObjective0]
+HUD_Header.Header_Text="INSIDE JOB"
+ObjectiveInProgressMusic="KF_Infectious_Cadaver"
+
+[KF_StoryObjective1]
+HUD_Header.Header_Text="SECURITY BREACH"
+ObjectiveInProgressMusic="KF_BlooddriveN"
+
+[KF_StoryObjective12]
+HUD_Header.Header_Text="Shop at the Trader"
+ObjectiveInProgressMusic="KF_Wading"
+
+[KF_StoryObjective13]
+HUD_Header.Header_Text="DEFEAT THE PATRIARCHS"
+ObjectiveInProgressMusic="KF_AbandonV3"
+
+[KF_StoryObjective15]
+HUD_Header.Header_Text="INSIDE JOB"
+ObjectiveInProgressMusic="KF_Abient_Asylum"
+
+[KF_StoryObjective16]
+HUD_Header.Header_Text="Shop at the Trader"
+ObjectiveInProgressMusic="KF_Wading"
+
+[KF_StoryObjective17]
+HUD_Header.Header_Text="Shop at the Trader"
+ObjectiveInProgressMusic="KF_Wading"
+
+[KF_StoryObjective18]
+HUD_Header.Header_Text="MIND THE GAP"
+ObjectiveInProgressMusic="KF_Abient_Asylum"
+
+[KF_StoryObjective2]
+HUD_Header.Header_Text="ACCESS DENIED"
+ObjectiveInProgressMusic="KF_Contamination"
+
+[KF_StoryObjective21]
+HUD_Header.Header_Text="TRESPASSING"
+ObjectiveInProgressMusic="KF_Abient_Asylum"
+
+[KF_StoryObjective22]
+HUD_Header.Header_Text="THE GOGGLES DO NOTHING"
+ObjectiveInProgressMusic="KF_Abient_Asylum"
+
+[KF_StoryObjective23]
+HUD_Header.Header_Text="BOILING POINT"
+ObjectiveInProgressMusic="KF_Killphase"
+
+[KF_StoryObjective3]
+HUD_Header.Header_Text="EYE SEE YOU"
+ObjectiveInProgressMusic="KF_SurfaceTension"
+
+[KF_StoryObjective5]
+HUD_Header.Header_Text="Shop at the Trader"
+ObjectiveInProgressMusic="KF_Wading"
+
+[KF_StoryObjective6]
+HUD_Header.Header_Text="Shop at the Trader"
+ObjectiveInProgressMusic="KF_Wading"
+
+[KF_StoryObjective7]
+HUD_Header.Header_Text="HAZARDOUS TRANSPORT"
+ObjectiveInProgressMusic="KF_Harm"
+
+[KF_StoryObjective8]
+HUD_Header.Header_Text="BELLY OF THE BEAST"
+ObjectiveInProgressMusic="KF_Abient_Asylum"
+
+[KF_StoryObjective9]
+HUD_Header.Header_Text="BANG FOR YOUR BUCK"
+ObjectiveInProgressMusic="KF_Abient_Asylum"
+
+[LevelInfo0]
+Title="Transit"
+
+[LevelSummary]
+Title="Transit"
+Description="As it was in the beginning, so it is in the end. The outbreak that has brought Britain to such a desperate state started in London. Returning to London, we find that things can indeed get worse. This underground battle may be your last chance to prevent the outbreak from spreading to the continent."
+
+[ObjCondition_ActorHealth0]
+HUD_Screen.Screen_Hint="Defeat the Patriarchs"
+
+[ObjCondition_ActorHealth15]
+HUD_World.World_Hint="Weld"
+
+[ObjCondition_ActorHealth8]
+HUD_World.World_Hint="Weld"
+
+[ObjCondition_Area0]
+HUD_World.World_Hint="Proceed"
+HUD_Screen.Screen_Hint="Enter the Reactor Room"
+
+[ObjCondition_Area2]
+HUD_World.World_Hint="Proceed"
+HUD_Screen.Screen_Hint="Locate the Chemical Storage Room"
+
+[ObjCondition_Area4]
+HUD_World.World_Hint="Proceed"
+HUD_Screen.Screen_Hint="Enter the Generator Room"
+
+[ObjCondition_Area5]
+HUD_World.World_Hint="Proceed"
+HUD_Screen.Screen_Hint="Locate the Secret Lab"
+
+[ObjCondition_Counter0]
+HUD_Screen.Screen_Hint="Temperature Level"
+
+[ObjCondition_Counter3]
+HUD_Screen.Screen_Hint="(Bonus) Kill Zeds: "
+
+[ObjCondition_Inventory0]
+HUD_World.World_Hint="Bring Nitroglycerin Here"
+HUD_Screen.Screen_Hint="Take Nitroglycerin to Cooling Room"
+
+[ObjCondition_Inventory2]
+HUD_Screen.Screen_Hint="Find the Patriarch's Eyeball"
+
+[ObjCondition_Inventory3]
+HUD_Screen.Screen_Hint="Find Nitroglycerin"
+
+[ObjCondition_Inventory4]
+HUD_Screen.Screen_Hint="Find Maintenance Keycard"
+
+[ObjCondition_Inventory5]
+HUD_Screen.Screen_Hint="Find Explosive"
+
+[ObjCondition_Inventory6]
+HUD_Screen.Screen_Hint="Find Maintenance Keycard"
+
+[ObjCondition_Inventory7]
+HUD_Screen.Screen_Hint="Find Explosive Thermite"
+
+[ObjCondition_Timed6]
+HUD_Screen.Screen_Hint="Hold Out While Temperature Rises"
+
+[ObjCondition_Use0]
+HUD_World.World_Hint="Press USE to place explosives"
+HUD_Screen.Screen_Hint="Place Explosives by Security Door"
+
+[ObjCondition_Use1]
+HUD_World.World_Hint="Press USE to open door"
+HUD_Screen.Screen_Hint="Access the Maintenance Hallway"
+
+[ObjCondition_Use3]
+HUD_World.World_Hint="Press USE to scan keycard"
+HUD_Screen.Screen_Hint="Use Keycard on Maintenance Door"
+
+[ObjCondition_Use4]
+HUD_World.World_Hint="Press USE to scan eyeball"
+HUD_Screen.Screen_Hint="Scan Patriarch's Eyeball on Door"
+
+[ObjCondition_Use6]
+HUD_World.World_Hint="Press USE to turn on reactor"
+HUD_Screen.Screen_Hint="Turn on Reactor Core"
+
+[ObjCondition_WaveCounter1]
+HUD_Screen.Screen_Hint="Kill Remaining Zeds:"
+
+[ObjCondition_WaveCounter2]
+HUD_Screen.Screen_Hint="Kill Zeds:"
+
+[ObjCondition_WaveCounter3]
+HUD_Screen.Screen_Hint="Kill Zeds:"
+
+[ObjCondition_WaveCounter4]
+HUD_Screen.Screen_Hint="Kill Remaining Zeds:"
+
+[ObjCondition_WaveCounter6]
+HUD_Screen.Screen_Hint="Kill Remaining Zeds:"
+

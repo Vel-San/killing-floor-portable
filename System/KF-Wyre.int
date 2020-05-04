@@ -1,0 +1,53 @@
+[KFMusicTrigger1]
+CombatSong="KF_Defection"
+WaveBasedSongs=((CombatSong="KF_Defection",CalmSong="KF_Mutagen"),(CombatSong="KF_BledDry",CalmSong="KF_Smolder"),(CombatSong="KF_Defection",CalmSong="KF_Smolder"),(CombatSong="DirgeDisunion2",CalmSong="KF_Smolder"),(CombatSong="KF_Infectious_Cadaver",CalmSong="KF_Vapour"),(CombatSong="KF_WPrevention",CalmSong="KF_Vapour"),(CombatSong="KF_Infectious_Cadaver",CalmSong="KF_Vapour"),(CombatSong="KF_WPrevention",CalmSong="KF_SurfaceTension"),(CombatSong="DirgeDefective2",CalmSong="KF_SurfaceTension"),(CombatSong="KF_BledDry",CalmSong="KF_SurfaceTension"))
+
+[KFUseTrigger0]
+Message="Press USE Key"
+
+[KFUseTrigger10]
+Message="Press USE Key"
+
+[KFUseTrigger11]
+Message="Press USE Key"
+
+[KFUseTrigger12]
+Message="Press USE Key"
+
+[KFUseTrigger14]
+Message="Press USE Key"
+
+[KFUseTrigger15]
+Message="Press USE Key"
+
+[KFUseTrigger16]
+Message="Press USE Key"
+
+[KFUseTrigger2]
+Message="Press USE Key"
+
+[KFUseTrigger3]
+Message="Press USE Key"
+
+[KFUseTrigger4]
+Message="Press USE Key"
+
+[KFUseTrigger5]
+Message="Press USE Key"
+
+[KFUseTrigger7]
+Message="Press USE Key"
+
+[KFUseTrigger8]
+Message="Press USE Key"
+
+[KFUseTrigger9]
+Message="Press USE Key"
+
+[LevelInfo0]
+Title="Wyre Forest"
+
+[LevelSummary]
+Title="Wyre Forest"
+Description="The Wyre Forest is an uneasy marriage of decaying life, and new beginnings. Remote, and isolated; it's the perfect location for unorthodox science to flourish. Beneath the rot of the forest floor, in Horzine Research Bunker 6, some brilliant minds are cultivating an army of deadly female soldiers that the enemy will never see coming...  "
+

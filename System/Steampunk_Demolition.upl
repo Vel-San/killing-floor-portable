@@ -1,0 +1,4 @@
+[Public]
+Player=(DefaultName="Steampunk_Demolition",Race="DRF",Mesh=KF_Soldier_Trip.Steampunk_Demolition,species=KFmod.SteampunkDemolitionSpecies,BodySkin=KF_Solider8_Trip_T.Steampunk_Demolition.Steampunk_Demolition_CMB,FaceSkin=KF_Solider8_Trip_T.Steampunk_Demolition.Steampunk_Demolition_CMB,Portrait=KFPortraits.Steampunk_Demolition_Portrait,LockedPortrait=KFPortraits.Steampunk_DLC_02_Locked_Portrait,Text="",Sex=Male,Accuracy=+2.0,Aggressiveness=+1.0,StrafingAbility=+2.0,CombatStyle=1,Tactics+2.5,FavoriteWeapon=XWeapons.RocketLauncher,Ragdoll=British_Soldier1,Skeleton=KFSoldiers.Soldier,Menu="SP",BotUse=1,VoiceClassName=KFMod.KFVoicePackTwo)
+
+

@@ -1,0 +1,10 @@
+[Public]
+Player=(DefaultName="Shadow_Ferret",Race="DRF",Mesh=KF_Soldier_Trip.Urban_Ninja,species=KFmod.CivilianSpeciesShadowFerret,BodySkin=KF_Solider10_Trip_T.UrbanNinja.UrbanNinja_CMB,FaceSkin=KF_Solider10_Trip_T.UrbanNinja.UrbanNinja_CMB,Portrait=KFPortraits.UrbanNinja_Portrait,LockedPortrait=KFPortraits.UrbanNightmare_LockedPortrait,Text="",Sex=Male,Accuracy=+2.0,Aggressiveness=+1.0,StrafingAbility=+2.0,CombatStyle=-1,Tactics=+2.5,FavoriteWeapon=XWeapons.RocketLauncher,Ragdoll=British_Soldier1,Skeleton=KFSoldiers.Soldier,Menu="SP",BotUse=1,VoiceClassName=KFMod.KFVoicePackTwo)
+
+
+
+
+
+
+
+

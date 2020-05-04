@@ -1,0 +1,7 @@
+Announcer=(ClassName=UnrealGame.ClassicAnnouncer,PackageName=AnnouncerMain,FallbackPackage=AnnouncerMale2K4,EnglishOnly=1,FriendlyName=UnrealGame.ClassicAnnouncer.AnnouncerName,FallbackName="UT2003")
+Announcer=(ClassName=UnrealGame.FemaleAnnouncer,PackageName=,EnglishOnly=0,FriendlyName=UnrealGame.FemaleAnnouncer.AnnouncerName,FallbackName="Female")
+Announcer=(ClassName=UnrealGame.MaleAnnouncer,PackageName=,EnglishOnly=0,FriendlyName=UnrealGame.MaleAnnouncer.AnnouncerName,FallbackName="Male")
+Announcer=(ClassName=UnrealGame.SexyFemaleAnnouncer,PackageName=,EnglishOnly=1,FriendlyName=UnrealGame.SexyFemaleAnnouncer.AnnouncerName,FallbackName="Sexy")
+Announcer=(ClassName=UnrealGame.UTClassicAnnouncer,PackageName=AnnouncerClassic,FallbackPackage=AnnouncerMale2K4,EnglishOnly=1,FriendlyName=UnrealGame.UTClassicAnnouncer.AnnouncerName,FallbackName="Classic UT")
+Crosshair=(FriendlyName="Cross",CrosshairTexture=InterfaceArt_tex.Cursors.Crosshair_Cross2,ClassName=XInterface.DefaultCrosshairs)
+Mutator=(ClassName=UTV2004s.utvMutator,IconMaterialName=MutatorArt.nosym,FriendlyName=UTV2004s.utvMutator.FriendlyName,Description=UTV2004s.utvMutator.Description,FriendlyName=UTV2004s.utvMutator.FriendlyName,FallbackName="UTV2004S",FallbackDesc="Required to support ROTV SeeAll mode")

@@ -1,0 +1,176 @@
+[Public]
+Object=(Name=XGame.AlienFemaleVoice,Class=Class,MetaClass=XGame.xVoicePack)
+Object=(Name=XGame.AlienMaleVoice,Class=Class,MetaClass=XGame.xVoicePack)
+Object=(Name=XGame.JuggFemaleVoice,Class=Class,MetaClass=XGame.xVoicePack)
+Object=(Name=XGame.JuggMaleVoice,Class=Class,MetaClass=XGame.xVoicePack)
+Object=(Name=XGame.MercFemaleVoice,Class=Class,MetaClass=XGame.xVoicePack)
+Object=(Name=XGame.MercMaleVoice,Class=Class,MetaClass=XGame.xVoicePack)
+Object=(Name=XGame.NightFemaleVoice,Class=Class,MetaClass=XGame.xVoicePack)
+Object=(Name=XGame.NightMaleVoice,Class=Class,MetaClass=XGame.xVoicePack)
+Object=(Name=XGame.RobotVoice,Class=Class,MetaClass=XGame.xVoicePack)
+
+[BloodRites]
+ChallengeName="Bloodrites"
+ChallengeDescription="Challenge an enemy team for one for their team mates."
+
+[ChallengeGame]
+msgGotChallenged="We got challenged"
+msgWeChallenged="We challenged"
+msgFor="for"
+
+[LavaVolume]
+LocationName="in lava"
+
+[ManoEMano]
+ChallengeName="Head to Head"
+ChallengeDescription="A 1 vs 1 match against another team leader."
+
+[SpeciesType]
+SpeciesName="Human"
+TauntAnimNames[0]="Point"
+TauntAnimNames[1]="Beckon"
+TauntAnimNames[2]="Halt"
+TauntAnimNames[3]="Cheer"
+TauntAnimNames[4]="Pelvic Thrust"
+TauntAnimNames[5]="Ass Smack"
+TauntAnimNames[6]="Throat Cut"
+TauntAnimNames[7]="Unique"
+TauntAnimNames[8]="Team Taunt"
+TauntAnimNames[9]="Team Idle"
+
+[UT2003LadderInfo]
+CHAMP1.MenuName="Tournament Semi-Final"
+CHAMP2.MenuName="Tournament Final"
+DM0.MenuName="Deathmatch Tutorial"
+
+[UT2K4DMRoster]
+TeamName="Death Match"
+
+[UT2K4GameProfile]
+msgSpecialAward[0]="Flak Monkey"
+msgSpecialAward[1]="Combo Whore"
+msgSpecialAward[2]="Head Hunter"
+msgSpecialAward[3]="Road Rampage"
+msgSpecialAward[4]="Hat Trick"
+msgSpecialAward[5]="Untouchable"
+msgCheater="CHEATER!!!"
+msgCredits="credits"
+msgCredit="credit"
+msgChallengeGame="Challenge game"
+msgAdditionalLadder="Additional ladder game"
+msgMatch="match"
+msgLadderGame="Ladder game"
+msgChampionship="Championship"
+
+[UT2K4LadderInfo]
+DM0.MenuName="Deathmatch Tutorial"
+
+[xDeathMessage]
+KilledString="was killed by"
+SomeoneString="someone"
+
+[xFallingVolume]
+LocationName="in air"
+
+[xKillerMessagePlus]
+YouKilled="You killed"
+
+[xUtil]
+NoPreference="No Weapon Preference"
+FavoriteWeapon="Favorite Weapon:"
+AgilityString="Agility:"
+TacticsString="Team Tactics:"
+AccuracyString="Accuracy:"
+AggressivenessString="Aggression:"
+
+[xVictimMessage]
+YouWereKilledBy="You were killed by"
+KilledByTrailer="!"
+
+[xVoicePack]
+AckString[0]="Affirmative"
+AckString[1]="Got It"
+AckString[2]="I'm On It"
+AckString[3]="Roger"
+FFireString[0]="I'm On Your Team!"
+FFireString[1]="I'm On Your Team, Idiot!"
+FFireString[2]="Same Team!"
+FFireAbbrev[1]="Your Team, Idiot!"
+TauntString[0]="And Stay Down"
+TauntString[1]="Anyone Else Want Some?"
+TauntString[2]="Boom!"
+TauntString[3]="BURN Baby"
+TauntString[4]="Die Bitch"
+TauntString[5]="Eat THAT"
+TauntString[6]="You Fight Like Nali"
+TauntString[7]="Is That Your Best?"
+TauntString[8]="Kiss My Ass"
+TauntString[9]="Loser"
+TauntString[10]="MY House"
+TauntString[11]="Next!"
+TauntString[12]="Oh YEAH!"
+TauntString[13]="Ownage"
+TauntString[14]="Seeya"
+TauntString[15]="That HAD To Hurt"
+TauntString[16]="Useless"
+TauntString[17]="You Play Like A Girl"
+TauntString[18]="You Be Dead"
+TauntString[19]="You Like That?"
+TauntString[20]="You Whore"
+OrderString[0]="Defend the base"
+OrderString[1]="Hold this position"
+OrderString[2]="Assault the base"
+OrderString[3]="Cover me"
+OrderString[4]="Search and destroy"
+OrderString[10]="Take their flag"
+OrderString[11]="Defend the flag"
+OrderString[12]="Attack Alpha"
+OrderString[13]="Attack Bravo"
+OrderString[14]="Get the ball"
+OrderAbbrev[0]="Defend"
+OrderAbbrev[2]="Attack"
+OtherString[0]="Base is undefended!"
+OtherString[1]="Somebody get our flag back!"
+OtherString[2]="I've got the flag"
+OtherString[3]="I've got your back"
+OtherString[4]="I'm hit!"
+OtherString[5]="Man down!"
+OtherString[6]="I'm all alone here %l"
+OtherString[7]="Negative!"
+OtherString[8]="I've got our flag"
+OtherString[9]="I'm in position %l"
+OtherString[10]="I'm going in!"
+OtherString[11]="Area is secure"
+OtherString[12]="Enemy flag carrier is %l"
+OtherString[13]="I need some backup %l"
+OtherString[14]="Incoming!"
+OtherString[15]="Enemy ball carrier is %l"
+OtherString[16]="Alpha secure!"
+OtherString[17]="Bravo secure!"
+OtherString[18]="Attack Alpha"
+OtherString[19]="Attack Bravo"
+OtherString[20]="The base is under attack %l"
+OtherString[21]="We're being overrun %l!"
+OtherString[22]="Under heavy attack %l"
+OtherString[23]="Defend point Alpha"
+OtherString[24]="Defend point Bravo"
+OtherString[25]="Get The Ball"
+OtherString[26]="I'm on defense"
+OtherString[27]="I'm on offense"
+OtherString[28]="Take point Alpha"
+OtherString[29]="Take point Bravo"
+OtherString[30]="Medic"
+OtherString[31]="Nice"
+OtherAbbrev[1]="Get our flag!"
+OtherAbbrev[2]="Got the flag"
+OtherAbbrev[3]="Got your back"
+OtherAbbrev[6]="All alone!"
+OtherAbbrev[8]="Got our flag"
+OtherAbbrev[9]="In position"
+OtherAbbrev[12]="Enemy flag carrier"
+OtherAbbrev[13]="Need backup"
+OtherAbbrev[15]="Enemy ball carrier"
+OtherAbbrev[20]="Base under attack"
+OtherAbbrev[21]="Being overrun"
+OtherAbbrev[22]="Under heavy attack"
+

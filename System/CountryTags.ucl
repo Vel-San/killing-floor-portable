@@ -1,0 +1,1 @@
+Mutator=(ClassName=CountryTags.CountryTags,GroupName=KF-CountryTags,IconMaterialName=MutatorArt.nosym,FriendlyName=CountryTags.CountryTags.FriendlyName,Description=CountryTags.CountryTags.Description,FriendlyName=CountryTags.CountryTags.FriendlyName,FallbackName="Country Tags",FallbackDesc="Adds country tags to players' names.")

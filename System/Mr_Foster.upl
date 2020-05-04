@@ -1,0 +1,4 @@
+[Public]
+Player=(DefaultName="Mr_Foster",Race="DRF",Mesh=KF_Soldier_Trip.Officeworker_Soldier,Species=KFmod.CivilianSpeciesThree,BodySkin=KF_Soldier2_Trip_T.Uniforms.officeworker_cmb,FaceSkin=KF_Soldier2_Trip_T.Uniforms.officeworker_cmb,Portrait=KFPortraits.MRFoster_Portrait,LockedPortrait=KFPortraits.dlccharacterpack_b,Text="",Sex=Male,Accuracy=+2.0,Aggressiveness=+1.0,StrafingAbility=+2.0,CombatStyle=-1,Tactics=+2.5,FavoriteWeapon=XWeapons.RocketLauncher,Ragdoll=British_Soldier1,Skeleton=KFSoldiers.Soldier,Menu="SP",BotUse=1,VoiceClassName=KFMod.KFVoicePack)
+
+

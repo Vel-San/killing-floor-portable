@@ -1,0 +1,76 @@
+[KFMusicTrigger1]
+CombatSong="KF_Containment"
+WaveBasedSongs=((CombatSong="KF_Soldiers",CalmSong="KF_Abient_Asylum"),(CombatSong="KF_BledDry",CalmSong="KF_Abient_Asylum"),(CombatSong="KF_My_AK",CalmSong="KF_Abient_Asylum"),(CombatSong="KF_Defection",CalmSong="KF_Abient_Asylum"),(CombatSong="KF_Connections",CalmSong="KF_Abient_Asylum_Returns"),(CombatSong="KF_Soldiers",CalmSong="KF_Abient_Asylum_Returns"),(CombatSong="KF_BledDry",CalmSong="KF_Abient_Asylum_Returns"),(CombatSong="KF_My_AK",CalmSong="KF_Abient_Asylum_Returns"),(CombatSong="KF_Defection",CalmSong="KF_Abient_Asylum_Returns"),(CombatSong="KF_Connections",CalmSong="KF_Abient_Asylum")(CombatSong="KF_Connections",CalmSong="KF_Abient_Asylum"))
+
+[KFUseTrigger0]
+Message="Press USE Key"
+
+[KFUseTrigger1]
+Message="Press USE Key"
+
+[KFUseTrigger10]
+Message="Press USE Key"
+
+[KFUseTrigger11]
+Message="Press USE Key"
+
+[KFUseTrigger13]
+Message="Press USE Key"
+
+[KFUseTrigger15]
+Message="Press USE Key"
+
+[KFUseTrigger16]
+Message="Press USE Key"
+
+[KFUseTrigger17]
+Message="Press USE Key"
+
+[KFUseTrigger19]
+Message="Press USE Key"
+
+[KFUseTrigger2]
+Message="Press USE Key"
+
+[KFUseTrigger20]
+Message="Press USE Key"
+
+[KFUseTrigger21]
+Message="Press USE Key"
+
+[KFUseTrigger22]
+Message="Press USE Key"
+
+[KFUseTrigger24]
+Message="Press USE Key"
+
+[KFUseTrigger25]
+Message="Press USE Key"
+
+[KFUseTrigger26]
+Message="Press USE Key"
+
+[KFUseTrigger28]
+Message="Press USE Key"
+
+[KFUseTrigger29]
+Message="Press USE Key"
+
+[KFUseTrigger30]
+Message="Press USE Key"
+
+[KFUseTrigger4]
+Message="Press USE Key"
+
+[KFUseTrigger5]
+Message="Press USE Key"
+
+[KFUseTrigger7]
+Message="Press USE Key"
+
+[LevelInfo0]
+Title="KF-Bedlam"
+
+[LevelSummary]
+Title="Bedlam"
+Description="Escaping from the slaughter at the London under ground, DJ Scully informed his new friends of the annual abandoned asylum party he was billed to perform at. The fact that so many unsuspecting people could fall victim to the specimen threat was enough to convince the team to move in on the location and search for survivors."

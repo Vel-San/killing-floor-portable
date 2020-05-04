@@ -1,0 +1,4 @@
+[Public]
+Player=(DefaultName="Pyro_Red",Race="DRF",Mesh=KF_Soldier_Trip.Pyro_Tf2,species=KFmod.PyroRedSpecies,BodySkin=KF_Soldier4_Trip_T.Uniforms.KF_Pyro_Red_cmb,FaceSkin=KF_Soldier4_Trip_T.Uniforms.KF_Pyro_Red_cmb,Portrait=KFPortraits.Pyro_Red_Portrait,LockedPortrait=KFPortraits.tf2_pyro_Red_locked,Text="",Sex=Male,Accuracy=+2.0,Aggressiveness=+1.0,StrafingAbility=+2.0,CombatStyle=-1,Tactics=+2.5,FavoriteWeapon=XWeapons.RocketLauncher,Ragdoll=British_Soldier1,Skeleton=KFSoldiers.Soldier,Menu="SP",BotUse=1,VoiceClassName=KFMod.KFVoicePackTwo)
+
+

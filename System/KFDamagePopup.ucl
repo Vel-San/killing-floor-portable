@@ -1,0 +1,1 @@
+Mutator=(ClassName=KFDamagePopup.mutDamagePopup,GroupName=KFDamagePopup,IconMaterialName=MutatorArt.nosym,FriendlyName=KFDamagePopup.mutDamagePopup.FriendlyName,Description=KFDamagePopup.mutDamagePopup.Description,FriendlyName=KFDamagePopup.mutDamagePopup.FriendlyName,FallbackName="Damagepopup",FallbackDesc="Show Damage value.")

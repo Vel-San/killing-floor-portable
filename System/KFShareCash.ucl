@@ -1,0 +1,1 @@
+Mutator=(ClassName=KFShareCash.KFShareCashMut,GroupName=KF-ShareCash,IconMaterialName=MutatorArt.nosym,FriendlyName=KFShareCash.KFShareCashMut.FriendlyName,Description=KFShareCash.KFShareCashMut.Description,FriendlyName=KFShareCash.KFShareCashMut.FriendlyName,FallbackName="Share Cash",FallbackDesc="Shares the money of exiting players with all other teammates alive.")

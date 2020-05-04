@@ -1,0 +1,16 @@
+[KF_RingMasterNPC]
+NPCName="Ringmaster Lockheart"
+
+[Msg_GoldBarNotification]
+GoldWasPickedUpString="picked up gold bars"
+GoldWasDroppedString="dropped gold bars"
+GoldWasRecoveredString="secured gold bars"
+
+[Msg_RouletteCountDown]
+CountDownPrefix="Wheel will spin in :"
+
+[Msg_RouletteGeneric]
+LetItRideString="You let it ride!"
+BettingClosedString="No more bets!"
+NeedMinBetString="Minimum bet for this table is :"
+

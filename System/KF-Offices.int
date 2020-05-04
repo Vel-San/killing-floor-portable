@@ -1,0 +1,59 @@
+[Action_DISPLAYMESSAGE13]
+Message="BottomFalseDoor"
+
+[Action_DISPLAYMESSAGE23]
+Message="TopDoorActivated"
+
+[KFMusicTrigger0]
+CombatSong="KF_Defection"
+WaveBasedSongs=((CombatSong="DirgeRepulse1",CalmSong="KF_Wading"),(CombatSong="DirgeDefective2",CalmSong="KF_Wading"),(CombatSong="DirgeRepulse1",CalmSong="KF_Wading"),(CombatSong="DirgeRepulse1",CalmSong="KF_Wading"),(CombatSong="DirgeDefective2",CalmSong="KF_SinSoma"),(CombatSong="KF_Containment",CalmSong="KF_SinSoma"),(CombatSong="DirgeDefective2",CalmSong="KF_SinSoma"),(CombatSong="KF_Containment",CalmSong="KF_SinSoma"),(CombatSong="KF_Defection",CalmSong="KF_Mutagen"),(CombatSong="KF_Containment",CalmSong="KF_Mutagen"))
+
+[KFUseTrigger0]
+Message="Press USE Key"
+
+[KFUseTrigger1]
+Message="Press USE Key"
+
+[KFUseTrigger11]
+Message="Press USE Key"
+
+[KFUseTrigger12]
+Message="Press USE Key"
+
+[KFUseTrigger17]
+Message="Press USE Key"
+
+[KFUseTrigger18]
+Message="Press USE Key"
+
+[KFUseTrigger2]
+Message="Press USE Key"
+
+[KFUseTrigger3]
+Message="Press USE Key"
+
+[KFUseTrigger36]
+Message="Door is Locked"
+
+[KFUseTrigger4]
+Message="Press USE Key"
+
+[KFUseTrigger5]
+Message="Press USE Key"
+
+[KFUseTrigger6]
+Message="Press USE Key"
+
+[KFUseTrigger7]
+Message="Press USE Key"
+
+[KFUseTrigger8]
+Message="Press USE Key"
+
+[LevelInfo0]
+Title="KF-Offices"
+
+[LevelSummary]
+Title="KF-Offices"
+Description="High above Horzine's infamous Biotics Laboratory stands the corporate face of the twisted organization. Local police forces were penned in and wholesale slaughtered when they converged on the entrance.  The Horzine offices were undergoing a renovation at the time of the outbreak.  Because of this, large portions of the building are closed off. "
+

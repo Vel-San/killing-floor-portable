@@ -1,0 +1,76 @@
+[KFMusicTrigger1]
+CombatSong="KF_Containment"
+WaveBasedSongs=((CombatSong="KF_Soldiers",CalmSong="smoothjazz"),(CombatSong="KF_BledDry",CalmSong="smoothjazz"),(CombatSong="KF_My_AK",CalmSong="smoothjazz"),(CombatSong="KF_Defection",CalmSong="smoothjazz"),(CombatSong="KF_Connections",CalmSong="smoothjazz"),(CombatSong="KF_Soldiers",CalmSong="smoothjazz"),(CombatSong="KF_BledDry",CalmSong="smoothjazz"),(CombatSong="KF_My_AK",CalmSong="smoothjazz"),(CombatSong="KF_Defection",CalmSong="smoothjazz"),(CombatSong="KF_Connections",CalmSong="smoothjazz")(CombatSong="KF_Connections",CalmSong="smoothjazz"))
+
+[KFUseTrigger0]
+Message="Press USE Key"
+
+[KFUseTrigger1]
+Message="Press USE Key"
+
+[KFUseTrigger10]
+Message="Press USE Key"
+
+[KFUseTrigger11]
+Message="Press USE Key"
+
+[KFUseTrigger13]
+Message="Press USE Key"
+
+[KFUseTrigger15]
+Message="Press USE Key"
+
+[KFUseTrigger16]
+Message="Press USE Key"
+
+[KFUseTrigger17]
+Message="Press USE Key"
+
+[KFUseTrigger19]
+Message="Press USE Key"
+
+[KFUseTrigger2]
+Message="Press USE Key"
+
+[KFUseTrigger20]
+Message="Press USE Key"
+
+[KFUseTrigger21]
+Message="Press USE Key"
+
+[KFUseTrigger22]
+Message="Press USE Key"
+
+[KFUseTrigger24]
+Message="Press USE Key"
+
+[KFUseTrigger25]
+Message="Press USE Key"
+
+[KFUseTrigger26]
+Message="Press USE Key"
+
+[KFUseTrigger28]
+Message="Press USE Key"
+
+[KFUseTrigger29]
+Message="Press USE Key"
+
+[KFUseTrigger30]
+Message="Press USE Key"
+
+[KFUseTrigger4]
+Message="Press USE Key"
+
+[KFUseTrigger5]
+Message="Press USE Key"
+
+[KFUseTrigger7]
+Message="Press USE Key"
+
+[LevelInfo0]
+Title="KF-Aperture"
+
+[LevelSummary]
+Title="Aperture"
+Description="Carrying Science Forward! With the new Aperture Science and Horzine Biotech partnership we can begin new ventures for testing our laboratory experiments! We can learn what the specimens are fully capable of by having them stand on buttons. Buttons that open doors! We can stretch them, smash them, bend them, break them - who knows what we'll discover!"

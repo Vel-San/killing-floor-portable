@@ -1,0 +1,10 @@
+[Public]
+Player=(DefaultName="Ricky_Vegas",Race="DRF",Mesh=KF_Soldier_Trip.RS_USA,species=KFmod.RSAmericanSpecies,BodySkin=RSDLC_3rdP.Ricky_Vegas_USMC,FaceSkin=RSDLC_3rdP.Ricky_Vegas_USMC,Portrait=KFPortraits.Ricky_portrait,LockedPortrait=KFPortraits.Ricky_LockedPortrait,Text="",Sex=Male,Accuracy=+2.0,Aggressiveness=+1.0,StrafingAbility=+2.0,CombatStyle=-1,Tactics=+2.5,FavoriteWeapon=XWeapons.RocketLauncher,Ragdoll=British_Soldier1,Skeleton=KFSoldiers.Soldier,Menu="SP",BotUse=1,VoiceClassName=KFMod.KFVoicePackOne)
+
+
+
+
+
+
+
+

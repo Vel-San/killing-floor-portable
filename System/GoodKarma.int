@@ -1,0 +1,39 @@
+[ConcussionPickup]
+PickupMessage="You got the Concussion Rifle."
+
+[ConcussionRifle]
+Description="The Concussion Rifle sacrifices damage for impact, making it very fun to shoot at physics objects."
+ItemName="Concussion Rifle"
+
+[DamTypeBludgeon]
+DeathString="%o was Bludgeoned to death."
+FemaleSuicide="%o beat herself to a pulp."
+MaleSuicide="%o beat himself to a pulp."
+
+[DamTypeKick]
+DeathString="%o was kicked to death."
+FemaleSuicide="%o kicked herself to a unconsious."
+MaleSuicide="%o kicked himself unconsious."
+
+[DamTypeMegaGib]
+DeathString="%o was sliced and diced."
+FemaleSuicide="%o blenderized herself."
+MaleSuicide="%o blenderized himself."
+
+[DamTypePunt]
+DeathString="%o was punted to death."
+FemaleSuicide="%o punted herself to a unconsious."
+MaleSuicide="%o punted himself unconsious."
+
+[DamTypeShoveGun]
+DeathString="%o was pummeled by %k."
+FemaleSuicide="%o beat herself."
+MaleSuicide="%o beat himself."
+
+[MutShoveGun]
+FriendlyName="Shove Gun"
+Description="An all shove gun match."
+
+[ShoveGun]
+Description="The Shove Gun is a shield gun modified to do minimal damage, but maximum force of impact with the primary fire."
+

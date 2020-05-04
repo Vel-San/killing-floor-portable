@@ -1,0 +1,86 @@
+[KFMusicTrigger1]
+CombatSong="KF_Containment"
+WaveBasedSongs=((CombatSong="KF_Defection",CalmSong="KF_TheEdge"),(CombatSong="DirgeDefective2",CalmSong="KF_TheEdge"),(CombatSong="KF_Defection",CalmSong="KF_TheEdge"),(CombatSong="DirgeDisunion2",CalmSong="KF_TheEdge"),(CombatSong="DirgeDefective2",CalmSong="KF_TheStitches"),(CombatSong="DirgeDisunion2",CalmSong="KF_TheStitches"),(CombatSong="DirgeDefective2",CalmSong="KF_TheStitches"),(CombatSong="KF_Defection",CalmSong="KF_TheStitches"),(CombatSong="DirgeDisunion2",CalmSong="KF_Mutagen"),(CombatSong="KF_Containment",CalmSong="KF_Mutagen"))
+
+[KFUseTrigger0]
+Message="Press USE Key"
+
+[KFUseTrigger1]
+Message="Press USE Key"
+
+[KFUseTrigger10]
+Message="Press USE Key"
+
+[KFUseTrigger11]
+Message="Press USE Key"
+
+[KFUseTrigger12]
+Message="Press USE Key"
+
+[KFUseTrigger13]
+Message="Press USE Key"
+
+[KFUseTrigger14]
+Message="Press USE Key"
+
+[KFUseTrigger15]
+Message="Press USE Key"
+
+[KFUseTrigger16]
+Message="Door is Locked"
+
+[KFUseTrigger17]
+Message="Door is Locked"
+
+[KFUseTrigger18]
+Message="Door is Locked"
+
+[KFUseTrigger19]
+Message="Door is Locked"
+
+[KFUseTrigger2]
+Message="Press USE Key"
+
+[KFUseTrigger20]
+Message="Door is Locked"
+
+[KFUseTrigger21]
+Message="Door is Locked"
+
+[KFUseTrigger22]
+Message="Door is Locked"
+
+[KFUseTrigger23]
+Message="Door is Locked"
+
+[KFUseTrigger3]
+Message="Press USE Key"
+
+[KFUseTrigger4]
+Message="Press USE Key"
+
+[KFUseTrigger5]
+Message="Press USE Key"
+
+[KFUseTrigger6]
+Message="Press USE Key"
+
+[KFUseTrigger7]
+Message="Press USE Key"
+
+[KFUseTrigger8]
+Message="Press USE Key"
+
+[KFUseTrigger9]
+Message="Press USE Key"
+
+[LevelInfo0]
+Title="KF-BioticsLab"
+
+[LevelSummary]
+Title="KF-BioticsLab"
+Description="Within ten hours of the containment breach. nearly three quarters of the security and research detail at Horzine's London laboratory had been killed.  Those who couldn't escape set up makeshift defenses in their dormitories, or the labs. In the depths of the facility, the incubators remain functional -  spawning more and more clones.  Your task is to eliminate every last one of the bastards."
+
+[SceneSubtitles0]
+SubTitles=("21:24.  Horizon Biotics Laboratory -  Sublevel 1 Sector A. ","OBJECTIVE : Eliminate remaining Horizon test subjects.")
+

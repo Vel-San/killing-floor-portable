@@ -1,0 +1,27 @@
+[BEResettableCounter1]
+CountMessage="Only %i of Halliday's camera(s) left..."
+CompleteMessage="All of Halliday's cameras have been destroyed!"
+
+[KFMusicTrigger0]
+CombatSong="KFh5_Horde"
+WaveBasedSongs=((CombatSong="KFh8_Conductor",CalmSong="KFh8_Locomo"),(CombatSong="KFh5_Shindig",CalmSong="KFh5_SouthernD"),(CombatSong="KFh5_Creature",CalmSong="KFh8_Locomo"),(CombatSong="KFh5_Horde",CalmSong="KFh8_Locomo"),(CombatSong="KFh8_Conductor",CalmSong="KFh5_Drifting"),(CombatSong="KFh5_Creature",CalmSong="KFh5_SouthernD"),(CombatSong="KFh5_Horde",CalmSong="KFh5_SouthernD"),(CombatSong="KFh8_Conductor",CalmSong="KFh8_Locomo"),(CombatSong="KFh5_Creature",CalmSong="KFh8_Locomo"),(CombatSong="KFh5_Horde",CalmSong="KFh5_SouthernD"))
+
+[KFUseTrigger1]
+Message="Press USE Key"
+
+[KFUseTrigger2]
+Message="Press USE Key"
+
+[KFUseTrigger8]
+Message="Press USE Key"
+
+[KFUseTrigger_Story7]
+Message="Press USE Key"
+
+[LevelInfo0]
+Title="FrightYard"
+
+[LevelSummary]
+Title="FrightYard"
+Description="They say since a certain, recent shipment, Halliday's Freight Yard is swarming with the strangest creatures. People hear odd noises coming out of there after dark. The curious go in, but they never come out again, by road, sea or rail. Maybe you should investigate."
+

@@ -1,0 +1,43 @@
+[KFMusicTrigger0]
+CombatSong="KFh5_Horde"
+WaveBasedSongs=((CombatSong="KFh5_Creature",CalmSong="KFh5_Drifting"),(CombatSong="KFh5_Shindig",CalmSong="KFh5_SouthernD"),(CombatSong="KFh5_Creature",CalmSong="KFh5_SouthernD"),(CombatSong="KFh5_Horde",CalmSong="KFh5_Drifting"),(CombatSong="KFh5_Shindig",CalmSong="KFh5_Drifting"),(CombatSong="KFh5_Creature",CalmSong="KFh5_SouthernD"),(CombatSong="KFh5_Horde",CalmSong="KFh5_SouthernD"),(CombatSong="KFh5_Shindig",CalmSong="KFh5_Drifting"),(CombatSong="KFh5_Creature",CalmSong="KFh5_Drifting"),(CombatSong="KFh5_Horde",CalmSong="KFh5_SouthernD"))
+
+[KFUseTrigger0]
+Message="Press USE Key"
+
+[KFUseTrigger1]
+Message="Press USE Key"
+
+[KFUseTrigger11]
+Message="Press USE Key"
+
+[KFUseTrigger2]
+Message="Press USE Key"
+
+[KFUseTrigger3]
+Message="Press USE Key"
+
+[KFUseTrigger4]
+Message="Press USE Key"
+
+[KFUseTrigger5]
+Message="Press USE Key"
+
+[KFUseTrigger6]
+Message="Press USE Key"
+
+[KFUseTrigger7]
+Message="Press USE Key"
+
+[KFUseTrigger8]
+Message="Press USE Key"
+
+[KFUseTrigger9]
+Message="Press USE Key"
+
+[LevelInfo0]
+Title="Hillbilly Horror"
+
+[LevelSummary]
+Title="Hillbilly Horror"
+Description="Every few months the Horzine chemical plant received an illegible letter from a deranged local downstream. When Horzine sent officials to confront him, they found the man spitting and violently hollering nonsense on the front porch of his house. The hillbilly threatened to report the green goop in his pond and the barrels he found dumped on his land to his cousin, the Sheriff. The Horzine officials decided to shut him and his family up, permanently. But the chemical waste had a surprising reaction with their remains..."

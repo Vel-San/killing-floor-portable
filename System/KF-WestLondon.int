@@ -1,0 +1,80 @@
+[KFMusicTrigger0]
+CombatSong="DirgeDisunion1"
+WaveBasedSongs=((CombatSong="DirgeDisunion1",CalmSong="KF_Wading"),(CombatSong="DirgeRepulse2Short",CalmSong="KF_Wading"),(CombatSong="DirgeDisunion1",CalmSong="KF_Wading"),(CombatSong="DirgeRepulse2Short",CalmSong="KF_Wading"),(CombatSong="DirgeDisunion1",CalmSong="KF_Peripheral"),(CombatSong="DirgeRepulse2Short",CalmSong="KF_Peripheral"),(CombatSong="KF_Pathogen",CalmSong="KF_Peripheral"),(CombatSong="DirgeRepulse2",CalmSong="KF_Peripheral"),(CombatSong="KF_Pathogen",CalmSong="KF_Mutagen"),(CombatSong="KF_Pathogen",CalmSong="KF_Mutagen"))
+
+[KFUseTrigger0]
+Message="Press USE Key"
+
+[KFUseTrigger1]
+Message="Press USE Key"
+
+[KFUseTrigger10]
+Message="Press USE Key"
+
+[KFUseTrigger11]
+Message="Press USE Key"
+
+[KFUseTrigger2]
+Message="Press USE Key"
+
+[KFUseTrigger26]
+Message="Door is Locked"
+
+[KFUseTrigger28]
+Message="Door is Locked"
+
+[KFUseTrigger3]
+Message="Press USE Key"
+
+[KFUseTrigger30]
+Message="Door is Locked"
+
+[KFUseTrigger31]
+Message="Door is Locked"
+
+[KFUseTrigger32]
+Message="Door is Locked"
+
+[KFUseTrigger33]
+Message="Door is Locked"
+
+[KFUseTrigger34]
+Message="Door is Locked"
+
+[KFUseTrigger35]
+Message="Door is Locked"
+
+[KFUseTrigger36]
+Message="Door is Locked"
+
+[KFUseTrigger4]
+Message="Door is Locked"
+
+[KFUseTrigger5]
+Message="Press USE Key"
+
+[KFUseTrigger6]
+Message="Press USE Key"
+
+[KFUseTrigger7]
+Message="Press USE Key"
+
+[LevelInfo0]
+Title="KF-WestLondon"
+
+[LevelSummary]
+Title="KF-WestLondon"
+Description="Less than a month ago, the capital was thriving at the height of the tourism season. No longer. A light breeze carries distant screams and the scent of gasoline fires and rotting flesh. You and your squad have been assigned to this particular quadrant in the west end of the city, with orders to hold off a large number of Specimens reportedly heading east to a survivor enclave. Failure is not an option here."
+
+[SceneSubtitles0]
+SubTitles=("19:34  London","OBJECTIVE : Secure this quarter of the city until further help can arrive,")
+
+[ZoneInfo2]
+LocationName="London"
+
+[ZoneInfo4]
+LocationName="London"
+
+[ZoneInfo7]
+LocationName="London"
+

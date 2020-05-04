@@ -1,0 +1,7 @@
+[Public]
+Object=(Class=Class,MetaClass=Engine.Mutator,Name=UTV2004S.utvMutator,Description="Required to support ROTV in SeeAll mode")
+
+[utvMutator]
+FriendlyName="UTV2004S"
+Description="Required to support ROTV SeeAll mode"
+

@@ -1,0 +1,46 @@
+[KFMusicTrigger0]
+CombatSong="KFh3_Housetop"
+WaveBasedSongs=((CombatSong="KFh3_Housetop",CalmSong="KFh_JBells"),(CombatSong="KFh_Trepak",CalmSong="KFH_DOTSPF"),(CombatSong="KFh3_Toyland",CalmSong="KFh3_OTbaum"),(CombatSong="KFh3_Housetop",CalmSong="KFh_JBells"),(CombatSong="KFh_Trepak",CalmSong="KFh_SNacht"),(CombatSong="KFh3_StNick",CalmSong="KFH_DOTSPF"),(CombatSong="KFh3_Housetop",CalmSong="KFh3_OTbaum"),(CombatSong="KFh3_Toyland",CalmSong="KFH_DOTSPF"),(CombatSong="KFh3_Housetop",CalmSong="KFh_SNacht"),(CombatSong="KFh3_StNick",CalmSong="KFh3_OTbaum")
+
+[KFUseTrigger11]
+Message="Press USE Key"
+
+[KFUseTrigger12]
+Message="Press USE Key"
+
+[KFUseTrigger13]
+Message="Press USE Key"
+
+[KFUseTrigger14]
+Message="Press USE Key"
+
+[KFUseTrigger16]
+Message="Press USE Key"
+
+[KFUseTrigger18]
+Message="Press USE Key"
+
+[KFUseTrigger28]
+Message="Press USE Key"
+
+[KFUseTrigger4]
+Message="Press USE Key"
+
+[KFUseTrigger5]
+Message="Press USE Key"
+
+[KFUseTrigger6]
+Message="Press USE Key"
+
+[KFUseTrigger7]
+Message="Press USE Key"
+
+[KFUseTrigger9]
+Message="Press USE Key"
+
+[LevelInfo0]
+Title="Evil Santas Lair"
+
+[LevelSummary]
+Title="Evil Santas Lair"
+Description="Ho ho ho! It's the season for giving and I've got a present for all you bad little boys and girls. Step into Santa's lair and I'll give you what you deserve. Rockets, bullets, and your guts all over my walls. My children will stuff you full of Christmas cheer, so enjoy, it'll be your last."

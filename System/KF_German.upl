@@ -1,0 +1,4 @@
+[Public]
+Player=(DefaultName="KF_German",Race="DRF",Mesh=KF_Soldier_Trip.KF_German,species=KFmod.RO2GermanSpecies,BodySkin=KF_Solider7_Trip_T.KF_German.KF_German_CMB,FaceSkin=KF_Solider7_Trip_T.KF_German.KF_German_CMB,Portrait=KFPortraits.KF_German_Portrait,LockedPortrait=KFPortraits.KF_German_Locked_Portrait,Text="",Sex=Male,Accuracy=+2.0,Aggressiveness=+1.0,StrafingAbility=+2.0,CombatStyle=-1,Tactics=+2.5,FavoriteWeapon=XWeapons.RocketLauncher,Ragdoll=British_Soldier1,Skeleton=KFSoldiers.Soldier,Menu="SP",BotUse=1,VoiceClassName=KFMod.KFVoicePackTwo)
+
+

@@ -1,0 +1,104 @@
+[KFMusicTrigger0]
+CombatSong="DirgeDisunion1"
+WaveBasedSongs=((CombatSong="KF_Hunger",CalmSong="KF_TheEdge"),(CombatSong="KF_Hunger",CalmSong="KF_TheEdge"),(CombatSong="KF_Hunger",CalmSong="KF_TheEdge"),(CombatSong="DirgeDefective1",CalmSong="KF_TheEdge"),(CombatSong="KF_Pathogen",CalmSong="KF_Peripheral"),(CombatSong="DirgeDefective1",CalmSong="KF_Peripheral"),(CombatSong="KF_Pathogen",CalmSong="KF_Peripheral"),(CombatSong="DirgeDefective1",CalmSong="KF_Peripheral"),(CombatSong="KF_Pathogen",CalmSong="KF_Insect"),(CombatSong="DirgeDisunion1",CalmSong="KF_Insect"))
+
+[KFUseTrigger0]
+Message="Press USE Key"
+
+[KFUseTrigger1]
+Message="Press USE Key"
+
+[KFUseTrigger10]
+Message="Press USE Key"
+
+[KFUseTrigger14]
+Message="Press USE Key"
+
+[KFUseTrigger15]
+Message="Press USE Key"
+
+[KFUseTrigger16]
+Message="Press USE Key"
+
+[KFUseTrigger17]
+Message="Press USE Key"
+
+[KFUseTrigger18]
+Message="Press USE Key"
+
+[KFUseTrigger19]
+Message="Press USE Key"
+
+[KFUseTrigger2]
+Message="Press USE Key"
+
+[KFUseTrigger20]
+Message="Press USE Key"
+
+[KFUseTrigger21]
+Message="Press USE Key"
+
+[KFUseTrigger22]
+Message="Press USE Key"
+
+[KFUseTrigger23]
+Message="Press USE Key"
+
+[KFUseTrigger24]
+Message="Press USE Key"
+
+[KFUseTrigger25]
+Message="Press USE Key"
+
+[KFUseTrigger26]
+Message="Press USE Key"
+
+[KFUseTrigger27]
+Message="Press USE Key"
+
+[KFUseTrigger28]
+Message="Press USE Key"
+
+[KFUseTrigger3]
+Message="Press USE Key"
+
+[KFUseTrigger31]
+Message="Press USE Key"
+
+[KFUseTrigger33]
+Message="Press USE Key"
+
+[KFUseTrigger35]
+Message="Press USE Key"
+
+[KFUseTrigger37]
+Message="Press USE Key"
+
+[KFUseTrigger39]
+Message="Press USE Key"
+
+[KFUseTrigger4]
+Message="Press USE Key"
+
+[KFUseTrigger5]
+Message="Press USE Key"
+
+[KFUseTrigger6]
+Message="Press USE Key"
+
+[KFUseTrigger7]
+Message="Press USE Key"
+
+[KFUseTrigger8]
+Message="Press USE Key"
+
+[KFUseTrigger9]
+Message="Press USE Key"
+
+[LevelInfo0]
+Title="KF-Farm"
+
+[LevelSummary]
+Title="KF-Farm"
+Description="With the Specimens on the loose they're beginning to spread out to rural areas and with them their havoc and chaos. The country sides have been evacuated but not everyone made it out alive. Most were caught off guard and murdered in their own beds. Your task is to eliminate these freaks from this sector."
+

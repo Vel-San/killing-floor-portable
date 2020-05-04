@@ -1,0 +1,10 @@
+[Public]
+Player=(DefaultName="Samuel_Avalon",Race="DRF",Mesh=KF_Soldier_Trip.Firefighter,species=KFmod.CivilianSpeciesSamuelAvalon,BodySkin=KF_Solider10_Trip_T.Firefighter.Firefighter_CMB,FaceSkin=KF_Solider10_Trip_T.Firefighter.Firefighter_Mask_fb,Portrait=KFPortraits.Firefighter_Portrait,LockedPortrait=KFPortraits.UrbanNightmare_LockedPortrait,Text="",Sex=Male,Accuracy=+2.0,Aggressiveness=+1.0,StrafingAbility=+2.0,CombatStyle=-1,Tactics=+2.5,FavoriteWeapon=XWeapons.RocketLauncher,Ragdoll=British_Soldier1,Skeleton=KFSoldiers.Soldier,Menu="SP",BotUse=1,VoiceClassName=KFMod.KFVoicePackTwo)
+
+
+
+
+
+
+
+

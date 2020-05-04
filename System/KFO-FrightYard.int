@@ -1,0 +1,245 @@
+[BEResettableCounter1]
+CountMessage="Only %i of Halliday's camera(s) left..."
+CompleteMessage="All of Halliday's cameras have been destroyed!"
+
+[KFMusicTrigger0]
+CombatSong="KFh5_Horde"
+WaveBasedSongs=((CombatSong="KFh8_Conductor",CalmSong="KFh8_Locomo"),(CombatSong="KFh5_Shindig",CalmSong="KFh5_SouthernD"),(CombatSong="KFh5_Creature",CalmSong="KFh8_Locomo"),(CombatSong="KFh5_Horde",CalmSong="KFh8_Locomo"),(CombatSong="KFh8_Conductor",CalmSong="KFh5_Drifting"),(CombatSong="KFh5_Creature",CalmSong="KFh5_SouthernD"),(CombatSong="KFh5_Horde",CalmSong="KFh5_SouthernD"),(CombatSong="KFh8_Conductor",CalmSong="KFh8_Locomo"),(CombatSong="KFh5_Creature",CalmSong="KFh8_Locomo"),(CombatSong="KFh5_Horde",CalmSong="KFh5_SouthernD"))
+
+[KFUseTrigger1]
+Message="Press USE Key"
+
+[KFUseTrigger2]
+Message="Press USE Key"
+
+[KFUseTrigger8]
+Message="Press USE Key"
+
+[KFUseTrigger_Story10]
+Message="Press USE Key"
+
+[KFUseTrigger_Story11]
+Message="Press USE Key"
+
+[KFUseTrigger_Story12]
+Message="Press USE Key"
+
+[KFUseTrigger_Story13]
+Message="Press USE Key"
+
+[KFUseTrigger_Story15]
+Message="Press USE Key"
+
+[KFUseTrigger_Story2]
+Message="Press USE Key"
+
+[KFUseTrigger_Story3]
+Message="Press USE Key"
+
+[KFUseTrigger_Story4]
+Message="Press USE Key"
+
+[KFUseTrigger_Story5]
+Message="Press USE Key"
+
+[KFUseTrigger_Story6]
+Message="Press USE Key"
+
+[KFUseTrigger_Story7]
+Message="Press USE Key"
+
+[KFUseTrigger_Story8]
+Message="Press USE Key"
+
+[KFUseTrigger_Story9]
+Message="Press USE Key"
+
+[KF_DialogueSpot0]
+Dialogues=((Display=(Dialogue_Header="Martel Halliday",Dialogue_Text="Don't just stand there, get in here quick. Something is coming!")),(Display=(Dialogue_Header="Martel Halliday",Dialogue_Text="Excuse me for not meeting you in person, but we've been invaded by horrible monsters.")),(Display=(Dialogue_Header="Martel Halliday",Dialogue_Text="I am Martel Halliday, owner of this yard. I've captured some of the creatures in containers. My question is: Can you beat 'em? Let's find out! Ha!")),(Display=(Dialogue_Header="Martel Halliday",Dialogue_Text="To get out of here, you need the remote control for the crane. All the containers with the red doors have stuff in them. Cut 'em open and find that remote. Ha ha ha ha!")),(Display=(Dialogue_Header="Martel Halliday",Dialogue_Text="Yes, that's it. That is part of the remote.  Now hurry and find that other half!")),(Display=(Dialogue_Header="Martel Halliday",Dialogue_Text="Huzzah, cousin! That is the very thing you need. You're almost outta here.  Catch a breath, now, you've earned it.")),(Display=(Dialogue_Header="Martel Halliday",Dialogue_Text="This next part is easy as pie. Connect that remote and you can use the crane. Stand on the switch plate for down, and step off for up.  Don't dawdle, that big light will draw attention. Heh, heh.")),(Display=(Dialogue_Header="Martel Halliday",Dialogue_Text="It's working! You're not as dumb as everybody says. Good.")),(Display=(Dialogue_Header="Martel Halliday",Dialogue_Text="Damnation! They've found a new way in.  Heads up now, here they come!")),(Display=(Dialogue_Header="Martel Halliday",Dialogue_Text="Stay on that switch now, 'till ya get enough line.  If ya can...Heh.")),(Display=(Dialogue_Header="Martel Halliday",Dialogue_Text="We get big bugs down here.  They say it's the humidity...")),(Display=(Dialogue_Header="Martel Halliday",Dialogue_Text="Over here! Get a move on. Those monsters are coming again. Lead those big fat ones up onto this machine. I don't care what you do with the rest of 'em.")),(Display=(Dialogue_Header="Martel Halliday",Dialogue_Text="I don't believe it. My bile tanks are full. Excellent work, y'all.")),(Display=(Dialogue_Header="Martel Halliday",Dialogue_Text="Fellas, the only way out of here is by boat, like me. There are even boats out on the dock, but they have no fuel. You could win some in my little casino here, if you're lucky!  Heh, heh.")),(Display=(Dialogue_Header="Martel Halliday",Dialogue_Text="No more help. You're on your own now.  Face whatever is in those crates or face my deck guns. It doesn't really matter. You can't win.")),(Display=(Dialogue_Header="Martel Halliday",Dialogue_Text="Stop wasting time! Come face my guns, you cur dog. I am gonna send you to hell! Ahahahahaha!")))
+
+[KF_DialogueSpot1]
+Dialogues=((Display=(Dialogue_Header="Martel Halliday",Dialogue_Text="Look at what you've done! That bile is ruined! Contaminated! Now we have to start all over again,")))
+
+[KF_DialogueSpot2]
+Dialogues=((Display=(Dialogue_Header="Martel Halliday",Dialogue_Text="The fuel! With that stuff, you can get out of here. If I let you. I've been too easy on you, but no more. No sir...")))
+
+[KF_DialogueSpot3]
+Dialogues=((Display=(Dialogue_Header="Martel Halliday",Dialogue_Text="We have a winner!")))
+
+[KF_DialogueSpot4]
+Dialogues=((Display=(Dialogue_Header="Martel Halliday",Dialogue_Text="Better luck next time.")),(Display=(Dialogue_Header="Martel Halliday",Dialogue_Text="Try again.")),(Display=(Dialogue_Header="Martel Halliday",Dialogue_Text="So close.")),(Display=(Dialogue_Header="Martel Halliday",Dialogue_Text="Loser.")))
+
+[KF_DialogueSpot6]
+Dialogues=((Display=(Dialogue_Header="Martel Halliday",Dialogue_Text="How foolish, you're supposed to get in the boat!...Wait...what have you done?! You filthy, subhuman piece of...!")))
+
+[KF_StoryObjective0]
+HUD_Header.Header_Text="Export : Slaughter"
+ObjectiveInProgressMusic="KFh5_SouthernD"
+
+[KF_StoryObjective1]
+HUD_Header.Header_Text="Revenge"
+ObjectiveInProgressMusic="KF_SurfaceTension"
+
+[KF_StoryObjective10]
+HUD_Header.Header_Text="Gassy Gambling"
+ObjectiveInProgressMusic="KF_Pathogen"
+
+[KF_StoryObjective11]
+HUD_Header.Header_Text="Shop at the Trader"
+ObjectiveInProgressMusic="KFh7_Hush"
+
+[KF_StoryObjective12]
+HUD_Header.Header_Text="Explosive Intentions"
+ObjectiveInProgressMusic="KF_SurfaceTension"
+
+[KF_StoryObjective13]
+HUD_Header.Header_Text="Defeat the Patriarch"
+ObjectiveInProgressMusic="KF_Abandon"
+
+[KF_StoryObjective14]
+HUD_Header.Header_Text="Dock Party"
+ObjectiveInProgressMusic="KFh8_Conductor"
+
+[KF_StoryObjective15]
+HUD_Header.Header_Text="THE MURDER GAMES"
+ObjectiveInProgressMusic="KFh6_Derelict"
+
+[KF_StoryObjective16]
+HUD_Header.Header_Text="THE MURDER GAMES"
+ObjectiveInProgressMusic="KFh5_SouthernD"
+
+[KF_StoryObjective17]
+HUD_Header.Header_Text="THE MURDER GAMES"
+
+[KF_StoryObjective18]
+HUD_Header.Header_Text="Shop at the Trader"
+ObjectiveInProgressMusic="KF_Smolder"
+
+[KF_StoryObjective2]
+HUD_Header.Header_Text="THE MURDER GAMES"
+ObjectiveInProgressMusic="KFh5_Shindig"
+
+[KF_StoryObjective3]
+HUD_Header.Header_Text="THE MURDER GAMES"
+ObjectiveInProgressMusic="KF_Peripheral"
+
+[KF_StoryObjective4]
+HUD_Header.Header_Text="Shop at the Trader"
+ObjectiveInProgressMusic="KFh5_Drifting"
+
+[KF_StoryObjective5]
+HUD_Header.Header_Text="Shop at the Trader"
+ObjectiveInProgressMusic="KFh5_Drifting"
+
+[KF_StoryObjective6]
+HUD_Header.Header_Text="Crate Job!"
+ObjectiveInProgressMusic="KFh6_Derelict"
+
+[KF_StoryObjective7]
+HUD_Header.Header_Text="Precious Vomit"
+ObjectiveInProgressMusic="KFh8_Conductor"
+
+[KF_StoryObjective8]
+HUD_Header.Header_Text="Shop at the Trader"
+ObjectiveInProgressMusic="KFh8_Locomo"
+
+[KF_StoryObjective9]
+HUD_Header.Header_Text="Shop at the Trader"
+ObjectiveInProgressMusic="KF_Smolder"
+
+[LevelInfo0]
+Title="FrightYard"
+
+[LevelSummary]
+Title="FrightYard"
+Description="They say since a certain, recent shipment, Halliday's Freight Yard is swarming with the strangest creatures. People hear odd noises coming out of there after dark. The curious go in, but they never come out again, by road, sea or rail. Maybe you should investigate."
+
+[ObjCondition_ActorHealth0]
+HUD_Screen.Screen_Hint="Defeat the Patriarch"
+
+[ObjCondition_Area1]
+HUD_World.World_Hint="Stand Here (1 Player Req'd)"
+HUD_Screen.Screen_Hint="Stand on Pressure Plate"
+
+[ObjCondition_Area2]
+HUD_World.World_Hint="Proceed"
+HUD_Screen.Screen_Hint="Enter the Freight Yard"
+
+[ObjCondition_Area3]
+HUD_World.World_Hint="Proceed"
+HUD_Screen.Screen_Hint="Enter the Storage Yard"
+
+[ObjCondition_Area4]
+HUD_World.World_Hint="Proceed"
+HUD_Screen.Screen_Hint="Enter the Machine Yard"
+
+[ObjCondition_Area5]
+HUD_World.World_Hint="Proceed"
+HUD_Screen.Screen_Hint="Enter the Fueling Station"
+
+[ObjCondition_Counter0]
+HUD_World.World_Hint="Lure Bloats In!"
+HUD_Screen.Screen_Hint="Lure Bloats into the Machine :"
+
+[ObjCondition_Counter1]
+HUD_Screen.Screen_Hint="Don't Let Anything Else Fall In! "
+
+[ObjCondition_Counter2]
+HUD_World.World_Hint="Toss Dosh at Slots to Gamble"
+HUD_Screen.Screen_Hint="Play Slots to Win Fuel :"
+
+[ObjCondition_Inventory0]
+HUD_Screen.Screen_Hint="Find the Transmitter Switch"
+
+[ObjCondition_Inventory1]
+HUD_Screen.Screen_Hint="Find the Transmitter Cord"
+
+[ObjCondition_Inventory6]
+HUD_Screen.Screen_Hint="Get a Gas Can"
+
+[ObjCondition_Inventory7]
+HUD_World.World_Hint="Get Explosives!"
+HUD_Screen.Screen_Hint="Get Explosives"
+
+[ObjCondition_Multi1]
+HUD_Screen.Screen_Hint="Assemble Remote Control"
+
+[ObjCondition_Timed1]
+HUD_Screen.Screen_Hint="Survive Halliday's Horde : "
+
+[ObjCondition_Use0]
+HUD_World.World_Hint="Press <USE> to Place Cable"
+
+[ObjCondition_Use1]
+HUD_World.World_Hint="Press <USE> to Place Switch"
+
+[ObjCondition_Use3]
+HUD_World.World_Hint="Press <USE> to Place Gas"
+HUD_Screen.Screen_Hint="Place Gas Can in Motorboat"
+
+[ObjCondition_Use4]
+HUD_World.World_Hint="Press <USE> to Place Explosives"
+HUD_Screen.Screen_Hint="Place Explosives in Motorboat"
+
+[ObjCondition_Use5]
+HUD_World.World_Hint="Press <USE> for Revenge!"
+HUD_Screen.Screen_Hint="Send Halliday to Hell!"
+
+[ObjCondition_WaveCounter0]
+HUD_Screen.Screen_Hint="Kill Remaining Zeds"
+
+[ObjCondition_WaveCounter1]
+HUD_Screen.Screen_Hint="Kill Remaining ZEDS :"
+
+[ObjCondition_WaveCounter2]
+HUD_Screen.Screen_Hint="Kill Remaining ZEDS :"
+
+[ObjCondition_WaveCounter3]
+HUD_Screen.Screen_Hint="Kill Remaining ZEDS :"
+
+[ObjCondition_WaveCounter4]
+HUD_Screen.Screen_Hint="Kill remaining ZEDs :"
+
+[ObjCondition_WaveCounter5]
+HUD_Screen.Screen_Hint="Remaining ZEDs : "
+
