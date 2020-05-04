@@ -126,3 +126,6 @@ When you launch the shortcut, you should see something like the following:
 
 - Will you add more mutators?
   - If the mut is Whitelisted, feels like it imrpoves the game quality and doesn't affect the gameplay then yes; Ping me on Steam with your request!
+
+- How can I remove all these mutators and play just vanilla?
+  - That is already included in the config. When you launch a game and join it, just press ESC, then Vote for a Map and change the game mode to 'Pure Vanilla'
