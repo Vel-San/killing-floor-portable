@@ -129,3 +129,9 @@ When you launch the shortcut, you should see something like the following:
 
 - How can I remove all these mutators and play just vanilla?
   - That is already included in the config. When you launch a game and join it, just press ESC, then Vote for a Map and change the game mode to 'Pure Vanilla'
+
+- How do I install KF in steamCMD as a dedicated server?
+  - [Check this out](https://wiki.tripwireinteractive.com/index.php/Dedicated_Server_%28KillingFloor%29)
+
+- Can I run AND play on the server?
+  - Yep! Just launch Killing floor from steam first, then launch the Shortcut mentioned in the instructions above
