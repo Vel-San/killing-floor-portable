@@ -1,0 +1,13 @@
+[DamageMessage]
+KillString="HP"
+MessageShowTime=4.000000
+
+[MutKillMessage]
+FriendlyName="Kill/damage Messages"
+Description="Add zombie kill/damage messages on screen."
+
+[NKillsMessage]
+KillString="kill"
+KillsString="kills"
+MessageShowTime=5.000000
+

@@ -1,4 +1,4 @@
-![version](https://img.shields.io/badge/Version-1.0-green?style=flat-square) ![last_modified](https://img.shields.io/github/last-commit/vel-san/kf-portable/master?style=flat-square) ![contributers](https://img.shields.io/github/contributors/vel-san/kf-portable?style=flat-square) ![size](https://img.shields.io/github/repo-size/vel-san/kf-portable?style=flat-square) ![platforms](https://img.shields.io/badge/Platforms-Windows%20%7C%20Linux-blue?style=flat-square)
+![version](https://img.shields.io/badge/Version-1.1-green?style=flat-square) ![last_modified](https://img.shields.io/github/last-commit/vel-san/kf-portable/master?style=flat-square) ![contributers](https://img.shields.io/github/contributors/vel-san/kf-portable?style=flat-square) ![size](https://img.shields.io/github/repo-size/vel-san/kf-portable?style=flat-square) ![platforms](https://img.shields.io/badge/Platforms-Windows%20%7C%20Linux-blue?style=flat-square)
 
 - [KF-PORTABLE](#kf-portable)
   - [What is included](#what-is-included)
@@ -65,6 +65,10 @@ KFARGChat | Shows a small Chat-icon if someone is typing something
 
 KFDamagePopup | Shows damage popups when you hit a ZED
 
+KFMutKillMessage | Shows damage delt on your lower left
+
+ServerColor | Change the color of your server name
+
 KFShareCash | Shares the cash of disconnected or players who crashed
 
 ReloadOptionsMut | Enables you to interrupt a reload, very useful in emergency
@@ -87,9 +91,14 @@ Now we need to update the '*Vanilla*' Settings to what **YOU** want
 
 - Open **Killingfloor.ini** with a file editor (Preferably *VSCode* or *NotePad++*)
 - Press Cntrl+F (To Find a keyword)
-- Search for 'Change_me' (Without the quotes)
-  - Whenever you find a Change_me keyword, replace it when what you want :)!
-- Now look for **KF_Server_Launcher.bat**
+- Search for '**Change_me**' (Without the quotes)
+  - Whenever you find a Change_me keyword, replace it when what you want :)
+- Now Copy your server name and open **ServerColor.exe** (Can be found in ServerColor folder)
+- Paste your server name, and change the color as you want
+  - To do so, pick a color then press *Select* before the word you want to color (Do that for all words you wish to change colors for)
+- Once you are done, copy the whole text of server name and click on '**Global**', paste, then test it out
+- If you have your server name colored, click on '**Save**', this will generate a **ServerColor.ini** file, copy it and replace the same file in your **/System** (If it has a MapColor=, *delete it*)
+- Now look for **KF_Server_Launcher.bat** in **/System**
   - Right click and create a desktop shortcut for it
 
 You are done! Launch Killing Floor from steam, once it loads, go to Open the newly created KF_Server_Launcher shortcut from your desktop. You should be able to view the server once it starts inside the game (Multiplayer > Lan)

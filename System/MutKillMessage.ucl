@@ -1,0 +1,1 @@
+Mutator=(ClassName=MutKillMessage.MutKillMessage,GroupName=KF-MessageMut,IconMaterialName=MutatorArt.nosym,FriendlyName=MutKillMessage.MutKillMessage.FriendlyName,Description=MutKillMessage.MutKillMessage.Description,FriendlyName=MutKillMessage.MutKillMessage.FriendlyName,FallbackName="Kill/damage Messages",FallbackDesc="Add zombie kill/damage messages on screen.")
