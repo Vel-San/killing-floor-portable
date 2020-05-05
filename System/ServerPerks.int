@@ -1,0 +1,63 @@
+[KFVetEarnedMessagePL]
+EarnedString="%s has earned %v level %l!"
+
+[KFVetEarnedMessageSR]
+EarnedString="You have qualified for %v level %l!"
+
+[SRBuyMenuSaleList]
+WeaponGroupText="Weapon group"
+
+[SRCustomProgress]
+ProgressName="Lazy modder! Kill him!!"
+
+[SRInvasionLoginMenu]
+Panels=((Caption="News",Hint="View server news"),(Caption="MOTD",Hint="Message of the Day"),(Caption="Server Info",Hint="Current map rotation and game settings"),(Caption="Communication",Hint="Manage communication with other players"),(Caption="Stats",Hint="View your current stats of this server"))
+ProfileButton.Caption="Profile"
+
+[SRKFTab_BuyMenu]
+ArchivementGetInfo="This weapon requires archivement '%1' to be unlocked."
+InfoText[4]="This weapon requires '%1' DLC pack."
+
+[SRLobbyFooter]
+UnreadyString="View map"
+PerksButton.Caption="Main Menu"
+PerksButton.Hint="Go to main menu"
+
+[SRModelSelect]
+AllText="All"
+CustomText="Custom"
+StockText="Stock"
+CharRace.Caption="Show"
+CharRace.Hint="Filter the available characters."
+
+[SRScoreBoard]
+NotShownInfo="player names not shown"
+PlayerCountText="Players:"
+SpectatorCountText="| Spectators:"
+AliveCountText="| Alive players:"
+BotText="BOT"
+HealthyString="HP"
+
+[SRStatList]
+ProgressName=("Healed damage","Welded hitpoints","Shotgun damage","Headshot kills","Chainsaw kills","Stalker kills","Bullpup/AK47/SCAR damage","Melee damage","Flame thrower damage","Self healed count","Sole survivor waves count","Cash donated","Feeding zombies killed","Hunting shotgun kills","Burning crossbow kills","Gibbed fleshpounds","Stalkers killed with explosives","Explosives damage count","Gibbed zombies count","Bloat kills","Total ZED-time","Siren kills","Total kills","Knife kills as medic","Total playtime","Won games","Lost games")
+
+[SRTab_MidGamePerks]
+NextInfoStr="||Next level effects:|"
+PleaseWaitStr="Please wait while your client is loading the perks..."
+
+[SRTab_MidGameStats]
+BGPerks.Caption="Stats"
+
+[SRTab_ServerNews]
+BGSec.Caption="Server News"
+NextButton.Caption="Next"
+NextButton.Hint="Go to next page in history"
+PreviousButton.Caption="Prev"
+PreviousButton.Hint="Go to previous page in history"
+ReloadButton.Caption="Refresh"
+ReloadButton.Hint="Reload current page"
+
+[SRVeterancyTypes]
+DisableTag="LOCKED"
+DisableDescription="Can't buy this weapon because the perk says no."
+

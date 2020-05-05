@@ -1,4 +1,8 @@
-# v2.0 [May 5th, 2020]
+# v2.1 [May 5th, 2020]
+
+- [Added] ServerPerks; all players will automatically be lvl 6 in any perk
+
+## v2.0 [May 5th, 2020]
 
 - [Added] CleanAppIDMut Mutator
 - [Added] Halloween2011Mut Mutator
