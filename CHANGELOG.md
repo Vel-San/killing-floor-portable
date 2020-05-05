@@ -1,4 +1,13 @@
-# v1.1 [May 5th, 2020]
+# v2.0 [May 5th, 2020]
+
+- [Added] CleanAppIDMut Mutator
+- [Added] Halloween2011Mut Mutator
+- [Added] KFMaxPlayers Mutator
+- [Changed] Game modes in MapVote to convey Whitelisted vs Not Whitelisted modes
+- [Updated] ReadMe with new Info and Muts
+- [Updated] KF Server Launcher default config
+
+## v1.1 [May 5th, 2020]
 
 - [Update] README with new ServerColor instructions
 - [Added] ServerColor capability
