@@ -1,4 +1,0 @@
-[Public]
-Player=(DefaultName="Steampunk_Medic",Race="DRF",Mesh=KF_Soldier_Trip.Steampunk_Medic,species=KFmod.SteampunkMedicSpecies,BodySkin=KF_Soldier6_Trip_T.Uniforms.Steampunk_Medic_Shdr,FaceSkin=KF_Soldier6_Trip_T.Uniforms.Steampunk_Medic_cmb,Portrait=KFPortraits.Steampunk_Medic_Portrait_D,LockedPortrait=KFPortraits.dlccharacterpack_H,Text="",Sex=Male,Accuracy=+2.0,Aggressiveness=+1.0,StrafingAbility=+2.0,CombatStyle=1,Tactics=2.5,FavoriteWeapon=XWeapons.RocketLauncher,Ragdoll=British_Soldier1,Skeleton=KFSoldiers.Soldier,Menu="SP",BotUse=1,VoiceClassName=KFMod.KFVoicePackOne)
-
-

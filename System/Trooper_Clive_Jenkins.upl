@@ -1,4 +1,0 @@
-[Public]
-Player=(DefaultName="Trooper_Clive_Jenkins",Race="DRF",Mesh=KF_Soldier_Trip.british_para,species=KFmod.SoldierSpeciesParatrooper,BodySkin=KF_Soldier3_Trip_T.Uniforms.british_para_cmb,FaceSkin=KF_Soldier3_Trip_T.Uniforms.british_para_cmb,Portrait=KFPortraits.british_para_portrait,LockedPortrait=KFPortraits.dlccharacterpack_c,Text="",Sex=Male,Accuracy=+2.0,Aggressiveness=+1.0,StrafingAbility=+2.0,CombatStyle=-1,Tactics=+2.5,FavoriteWeapon=XWeapons.RocketLauncher,Ragdoll=British_Soldier1,Skeleton=KFSoldiers.Soldier,Menu="SP",BotUse=1,VoiceClassName=KFMod.KFVoicePackTwo)
-
-

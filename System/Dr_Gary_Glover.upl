@@ -1,4 +1,0 @@
-[Public]
-Player=(DefaultName="Dr_Gary_Glover",Race="DRF",Mesh=KF_Soldier_Trip.Hazmat_Soldier1,species=KFmod.HazmatSpecies,BodySkin=KF_Soldier2_Trip_T.Uniforms.Hazmat_I_cmb,FaceSkin=KF_Soldier2_Trip_T.Uniforms.Hazmat_I_FB,Portrait=KFPortraits.hazmat_I_portrait,LockedPortrait=KFPortraits.dlccharacterpack_a,Text="",Sex=Male,Accuracy=+2.0,Aggressiveness=+1.0,StrafingAbility=+2.0,CombatStyle=-1,Tactics=+2.5,FavoriteWeapon=XWeapons.RocketLauncher,Ragdoll=British_Soldier1,Skeleton=KFSoldiers.Soldier,Menu="SP",BotUse=1,VoiceClassName=KFMod.KFVoicePackTwo)
-
-

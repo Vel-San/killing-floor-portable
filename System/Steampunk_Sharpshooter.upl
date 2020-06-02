@@ -1,4 +1,0 @@
-[Public]
-Player=(DefaultName="Steampunk_Sharpshooter",Race="DRF",Mesh=KF_Soldier_Trip.Steampunk_Sharpshooter,species=KFmod.SteampunkSharpshooterSpecies,BodySkin=KF_Soldier6_Trip_T.Uniforms.Steampunk_Sharpshooter_cmb,FaceSkin=KF_Soldier6_Trip_T.Uniforms.Steampunk_Sharpshooter_cmb,Portrait=KFPortraits.Steampunk_Sharpshooter_Portrait,LockedPortrait=KFPortraits.dlccharacterpack_H,Text="",Sex=Male,Accuracy=+2.0,Aggressiveness=+1.0,StrafingAbility=+2.0,CombatStyle=-1,Tactics=+2.5,FavoriteWeapon=XWeapons.RocketLauncher,Ragdoll=British_Soldier1,Skeleton=KFSoldiers.Soldier,Menu="SP",BotUse=1,VoiceClassName=KFMod.KFVoicePackTwo)
-
-

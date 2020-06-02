@@ -1,4 +1,0 @@
-[Public]
-Player=(DefaultName="Private_Schnieder",Race="DRF",Mesh=KF_Soldier_Trip.british_soldier_chris,species=KFmod.SoldierSpecies,BodySkin=KF_Soldier_Trip_T.Uniforms.brit_soldier_I_diff,FaceSkin=KF_Soldier_Trip_T.heads.chris_head_diff,Portrait=KFPortraits.chris_portrait,Text="",Sex=Male,Accuracy=+2.0,Aggressiveness=+1.0,StrafingAbility=+2.0,CombatStyle=-1,Tactics=+2.5,FavoriteWeapon=XWeapons.RocketLauncher,Ragdoll=British_Soldier1,Skeleton=KFSoldiers.Soldier,Menu="SP",BotUse=1,VoiceClassName=KFMod.KFVoicePackTwo)
-
-

@@ -1,4 +1,0 @@
-[Public]
-Player=(DefaultName="FoundryWorker_Aldridge",Race="DRF",Mesh=KF_Soldier_Trip.foundry1_soldier,species=KFmod.FoundrySpecies,BodySkin=KF_Soldier2_Trip_T.Uniforms.Foundry1_Soldier_cmb,FaceSkin=KF_Soldier2_Trip_T.Uniforms.Foundry1_Soldier_cmb,Portrait=KFPortraits.foundry_portrait,LockedPortrait=KFPortraits.dlccharacterpack_a,Text="",Sex=Male,Accuracy=+2.0,Aggressiveness=+1.0,StrafingAbility=+2.0,CombatStyle=-1,Tactics=+2.5,FavoriteWeapon=XWeapons.RocketLauncher,Ragdoll=British_Soldier1,Skeleton=KFSoldiers.Soldier,Menu="SP",BotUse=1,VoiceClassName=KFMod.KFVoicePack)
-
-

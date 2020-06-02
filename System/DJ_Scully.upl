@@ -1,4 +1,0 @@
-[Public]
-Player=(DefaultName="DJ_Scully",Race="DRF",Mesh=KF_Soldier_Trip.Civilian1_Soldier,species=KFmod.CivilianSpecies,BodySkin=KF_Soldier2_Trip_T.Uniforms.Civi_I_diff,FaceSkin=KF_Soldier2_Trip_T.Uniforms.Civi_I_diff,Portrait=KFPortraits.civilian_I_portrait,LockedPortrait=KFPortraits.dlccharacterpack_a,Text="",Sex=Male,Accuracy=+2.0,Aggressiveness=+1.0,StrafingAbility=+2.0,CombatStyle=-1,Tactics=+2.5,FavoriteWeapon=XWeapons.RocketLauncher,Ragdoll=British_Soldier1,Skeleton=KFSoldiers.Soldier,Menu="SP",BotUse=1,VoiceClassName=KFMod.KFVoicePack)
-
-

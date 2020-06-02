@@ -1,4 +1,0 @@
-[Public]
-Player=(DefaultName="Mike_Noble",Race="DRF",Mesh=KF_Soldier_Trip.Skeleton_Soldier,Species=KFmod.CivilianSpeciesTwo,BodySkin=KF_Soldier2_Trip_T.Uniforms.skeletoncostume_shdr,FaceSkin=KF_Soldier2_Trip_T.Uniforms.skeletoncostume_shdr,Portrait=KFPortraits.Skel_Portrait,LockedPortrait=KFPortraits.dlccharacterpack_b,Text="",Sex=Male,Accuracy=+2.0,Aggressiveness=+1.0,StrafingAbility=+2.0,CombatStyle=-1,Tactics=+2.5,FavoriteWeapon=XWeapons.RocketLauncher,Ragdoll=British_Soldier1,Skeleton=KFSoldiers.Soldier,Menu="SP",BotUse=1,VoiceClassName=KFMod.KFVoicePack)
-
-
