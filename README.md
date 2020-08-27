@@ -138,7 +138,7 @@ You can join your own server, and if you have all ports properly forwarded in yo
   - In your browser, launch
     ><http://127.0.0.1:8075/ServerAdsKF/>
 
-    And enter your credentials
+    And enter your credentials | **NOTE:** Don't forget to change my custom config in ServerAdsKF.ini!
 
 - Will you add more mutators?
   - If the mut feels like it imrpoves the game quality and doesn't affect the gameplay then yes; Ping me on Steam with your request!
