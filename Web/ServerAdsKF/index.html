@@ -1,0 +1,94 @@
+<html>
+<head>
+<title>Killing Floor ServerAdsKF (version: <%VERSION%>)</title>
+<link rel=stylesheet type="text/css" href="ServerAdsKF.css">
+</head>
+<body>
+<div align="center">
+<table cellpadding="0" cellspacing="0">
+<tr>
+<th colspan="2"><a href="<%urlhome%>"><img src="/images/ServerAdsKF-banner.gif" height="60" width="468" alt="ServerAdsKF" border="0"></a></th>
+</tr>
+<form>
+<input type="hidden" name="update" value="settings">
+<tr>
+<td width="200" title="variable: bEnabled">Enabled</td>
+<td width="300"><input type="checkbox" name="bEnabled" value="true" <%bEnabled%>></td>
+</tr>
+<tr>
+<td title="variable: fDelay">Delay</td>
+<td><input type="text" class="text" name="fDelay" value="<%fDelay%>"></td>
+</tr>
+<tr>
+<td title="variable: iAdType">Ad type</td>
+<td><select name="iAdType">
+<option value="0" <%iAdType0%>>Normal
+<option value="1" <%iAdType1%>>Random lines
+<option value="2" <%iAdType2%>>Random group
+</select></td>
+</tr>
+<tr>
+<td title="variable: iGroupSize">Group Size</td>
+<td><input type="text" class="text" name="iGroupSize" value="<%iGroupSize%>"></td>
+</tr>
+<tr>
+<td title="variable: bWrapAround">Wrap around</td>
+<td><input type="checkbox" name="bWrapAround" value="true" <%bWrapAround%>></td>
+</tr>
+<tr>
+<td title="variable: iAdminMsgDuration">Admin Message Duration</td>
+<td><input type="text" class="text" name="iAdminMsgDuration" value="<%iAdminMsgDuration%>"></td>
+</tr>
+<tr>
+<td title="variable: cAdminMsgColor">Admin Message Color (R,G,B)</td>
+<td><input type="text" class="text" name="cAdminMsgColorR" value="<%cAdminMsgColorR%>" style="width: 33%"><input type="text" class="text" name="cAdminMsgColorG" value="<%cAdminMsgColorG%>" style="width: 33%"><input type="text" class="text" name="cAdminMsgColorB" value="<%cAdminMsgColorB%>" style="width: 33%"></td>
+</tr>
+<tr>
+<td colspan="2" align="right"><input type="submit" name="submit" value="save" class="button"></td>
+</tr>
+<tr>
+<th colspan="2">Web Download</th>
+</tr>
+<tr>
+<td title="variable: bUseURL">Use web download</td>
+<td><input type="checkbox" name="bUseURL" value="true" <%bUseURL%>></td>
+</tr>
+<tr>
+<td title="variable: sURLHost">Hostname</td>
+<td><input type="text" class="text" name="sURLHost" value="<%sURLHost%>"></td>
+</tr>
+<tr>
+<td title="variable: iURLPort">Port</td>
+<td><input type="text" class="text" name="iURLPort" value="<%iURLPort%>"></td>
+</tr>
+<tr>
+<td title="variable: sURLRequest">URL</td>
+<td><input type="text" class="text" name="sURLRequest" value="<%sURLRequest%>"></td>
+</tr>
+<tr>
+<td colspan="2" align="right"><input type="submit" name="submit" value="update lines" class="button" onclick="alert('It could take a little while before the lines have been updated.');"><input type="submit" name="submit" value="save" class="button"></td>
+</tr>
+</form>
+<form>
+<input type="hidden" name="update" value="lines">
+<tr>
+<th colspan="2" title="variable: sLines">Lines</th>
+</tr>
+<tr>
+<td colspan="2"><textarea name="sLines" rows="15"><%sLines%></textarea></td>
+</tr>
+<tr>
+<td><%nLines%> lines in the list</td>
+<td align="right"><input type="submit" value="update list" class="button"></td>
+</tr>
+</form>
+<tr>
+<th colspan="2">About - version <%VERSION%></th>
+</tr>
+<tr>
+<td colspan="2"><a href="<%urlabout%>">Go here for help and addition inforation</a></td>
+</tr>
+</table>
+</div>
+</body>
+</html>

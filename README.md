@@ -1,4 +1,4 @@
-![version](https://img.shields.io/badge/Version-3.0-yellow?style=flat-square) ![last_modified](https://img.shields.io/github/last-commit/vel-san/kf-portable/master?style=flat-square) ![contributers](https://img.shields.io/github/contributors/vel-san/kf-portable?style=flat-square) ![size](https://img.shields.io/github/repo-size/vel-san/kf-portable?color=violet&style=flat-square) ![platforms](https://img.shields.io/badge/Platforms-Windows-blue?style=flat-square)
+![version](https://img.shields.io/badge/Version-3.1-yellow?style=flat-square) ![last_modified](https://img.shields.io/github/last-commit/vel-san/kf-portable/master?style=flat-square) ![contributers](https://img.shields.io/github/contributors/vel-san/kf-portable?style=flat-square) ![size](https://img.shields.io/github/repo-size/vel-san/kf-portable?color=violet&style=flat-square) ![platforms](https://img.shields.io/badge/Platforms-Windows-blue?style=flat-square)
 
 - [KF-PORTABLE](#kf-portable)
   - [What is included](#what-is-included)
@@ -20,7 +20,7 @@ This guide assumes that you are already familiar with setting up a dedicated ser
 
 ## What is included
 
-This directory is tailored according to my own taste of mutators, which has 2 Modes, **White-listed** and **Grey-listed**, that should be run as a *dedicated* server.
+This directory is tailored according to my own taste of mutators, which has 2 Modes, **White-listed** and **Grey-listed**
 
 ### Vanilla Changes/Optmisations
 
@@ -28,7 +28,7 @@ This directory is tailored according to my own taste of mutators, which has 2 Mo
 - Edited parameters to allow downloading of Muts as compressed
 - Changed the NAT value
 - Changed default launch options of the server (Can be Changed to what you want)
-- Added SkillzServer as a redirectURL
+- Added my own RedirectURL (You can change this if my RedirectURL is down for some reason)
 
 ### Mutator Changes
 
@@ -61,20 +61,32 @@ Below, you can see the currently installed (**And configured**) mods if you are 
 >
 >**KFDamagePopup** | Shows damage popups when you hit a ZED
 >
->**KFMutKillMessage** | Shows damage delt on your lower left
+>**KFMutKillMessage** | Shows damage dealt to ZEDs
 >
 >**KFShareCash** | Shares the cash of disconnected or players who crashed
 >
 >**CleanAppIDmut** | DLC Unlocker; you can have all weapons!
 >
->**Halloween2011Mut** | Changes all Zeds to the [Halloween 2011 ZEDs](http://kf-wiki.com/wiki/Halloween_Sideshow)
+>**ServerPerks** | A Mut that adds several optimisations to the gameplay, also, makes every Max Rank (6)
 >
-> **ServerPerks** | A Mut that adds several optimisations to the gameplay, also, makes every Max Rank (6)
+>**ReloadOptionsMut** | Enables you to interrupt a reload
 >
->**ReloadOptionsMut** | Enables you to interrupt a reload, very useful in emergency
+>**CuteCustomes** | Adds custom OutFits in the Trader
+>
+>**EnhancedMusket** | A Modded version of the S. P. Musket
+>
+>**EnhancedSyringe** | A Modded version of the Medical Syringe, with sprint boost
+>
+>**WeaponStatConfig** | Configure default stats of any weapon on-the-fly from a config file
+>
+>**WhispColorChanger** | Change colors of the trader whisp
+>
+>**ZedVoiceChanger** | Adds custom ZED Sounds
+>
+>**ServerAdsKF** | Allows you to send Ad & Broadcast messages to all players in-game
 
 All of these mutators are pre-configured for the optimal experience. If you want to manually change the values and configuration of them, you can find the original files here:
-<!-- TODO -->
+
 - [MEGA - Default Mutators](https://mega.nz/folder/YDoEmKiC#s6FGAtgh40-TvB4bHsLaMQ)
   - If you want to upload these files to your own FTP host, you have to use **Compresser.bat** to conver them into .uz2 format - you can find the bat also in **\System**
 
@@ -83,7 +95,6 @@ All of these mutators are pre-configured for the optimal experience. If you want
 Alright. So, assuming you already downloaded the Repo and you have Killing Floor installed via **steamCMD** as a dedicated server.
 
 - Navigate to your local KF-Dedicated Server directory
-- Move **\Animations** , **\System** , **\Staticmeshes** and **\Textures** into your local KF server
 - Replace all files when prompted
 
 Now we need to update the '*Vanilla*' Settings to what **YOU** want
@@ -123,14 +134,17 @@ You can join your own server, and if you have all ports properly forwarded in yo
 
     And enter your credentials
 
-- How do I edit the mutator configuration?
-  - Hmm.. I haven't added this part to the documentation yet, but if i see demand i'll add it for sure
+- How do I access ServerAdsKF UI?
+  - In your browser, launch
+    ><http://127.0.0.1:8075/ServerAdsKF/>
+
+    And enter your credentials
 
 - Will you add more mutators?
   - If the mut feels like it imrpoves the game quality and doesn't affect the gameplay then yes; Ping me on Steam with your request!
 
 - How can I remove all these mutators and play just vanilla?
-  - That is already included in the config. When you launch a game and join it, just press ESC, then Vote for a Map and change the game mode to 'Pure Vanilla'
+  - That is already included in the config. When you launch a game and join it, just press ESC, then Vote for a Map and change the game mode that has [WS] in the name
 
 - How do I install KF in steamCMD as a dedicated server?
   - [Check this out](https://wiki.tripwireinteractive.com/index.php/Dedicated_Server_%28KillingFloor%29)

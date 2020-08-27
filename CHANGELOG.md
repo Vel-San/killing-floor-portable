@@ -1,3 +1,19 @@
+# v3.1 [August 27th, 2020]
+
+- [remove] Halloween2011Mut Mutator
+- [add] CuteCustomes Mutator
+- [add] EnhancedMusket Mutator
+- [add] EnhancedSyringe Mutator
+- [add] WeaponStatConfig Mutator
+- [add] WhispColorChanger Mutator
+- [add] ZedVoiceChanger Mutator
+- [add] ServerAdsKF Mutator
+- [add] Added new custom maps
+- [misc] Updated README
+- [misc] Updated KillingFloor.ini
+- [misc] Updated .bat launcher
+- [misc] Updated most mutator configurations
+
 # v3.0 [June 3rd, 2020]
 
 - [misc] Greatly reduced repo size by deleting all clutter that is found by default in /System
