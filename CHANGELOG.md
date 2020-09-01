@@ -1,4 +1,8 @@
-# v3.1 [August 27th, 2020]
+# v3.2 [Sept 1st, 2020]
+
+- [add] AutoCallOut Mutator v1.0
+
+## v3.1 [August 27th, 2020]
 
 - [remove] Halloween2011Mut Mutator
 - [add] CuteCustomes Mutator
