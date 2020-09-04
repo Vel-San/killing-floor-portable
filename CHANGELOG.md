@@ -1,4 +1,8 @@
-# v3.3 [Sept 4th, 2020]
+# v3.4 [Sept 4th, 2020]
+
+- [add] Added 5 New Maps
+
+## v3.3 [Sept 4th, 2020]
 
 - [add] AreYouVIP Mutator v1.0
 
