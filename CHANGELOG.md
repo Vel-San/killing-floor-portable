@@ -1,4 +1,8 @@
-# v3.2 [Sept 1st, 2020]
+# v3.3 [Sept 4th, 2020]
+
+- [add] AreYouVIP Mutator v1.0
+
+## v3.2 [Sept 1st, 2020]
 
 - [add] AutoCallOut Mutator v1.0
 
