@@ -1,4 +1,8 @@
-# v3.4.1 [Sept 5th, 2020]
+# v3.4.2 [Sept 5th, 2020]
+
+- [misc]  Updated ZedVoiceChanger to v3.2
+
+## v3.4.1 [Sept 5th, 2020]
 
 - [misc]  Updated AreYouVIP to v1.1
 
