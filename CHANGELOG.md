@@ -1,4 +1,8 @@
-# v3.4 [Sept 4th, 2020]
+# v3.4.1 [Sept 5th, 2020]
+
+- [misc]  Updated AreYouVIP to v1.1
+
+## v3.4 [Sept 4th, 2020]
 
 - [add] Added 5 New Maps
 
