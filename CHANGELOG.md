@@ -1,4 +1,9 @@
-# v3.4.2 [Sept 5th, 2020]
+# v3.5 [Sept 6th, 2020]
+
+- [add]  Acedia Mut v0.1
+- [misc] Disabled KickVote for players
+
+## v3.4.2 [Sept 5th, 2020]
 
 - [misc]  Updated ZedVoiceChanger to v3.2
 
