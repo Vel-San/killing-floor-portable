@@ -1,6 +1,10 @@
-# v3.6 [Sept 13th, 2020]
+# v3.7 [Sept 25th, 2020]
 
-- [misc] Updated AreYouIP to v1.2
+- [misc] Updated AreYouVIP to v1.3
+
+## v3.6 [Sept 13th, 2020]
+
+- [misc] Updated AreYouVIP to v1.2
 
 ## v3.5 [Sept 6th, 2020]
 
