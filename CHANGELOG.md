@@ -1,6 +1,7 @@
 # v3.7 [Sept 25th, 2020]
 
 - [misc] Updated AreYouVIP to v1.3
+- [misc] Updated EnhancedMusket to v2.0
 
 ## v3.6 [Sept 13th, 2020]
 
