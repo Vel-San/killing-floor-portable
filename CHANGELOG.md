@@ -1,4 +1,10 @@
-# v3.7 [Sept 25th, 2020]
+# v3.8 [Sept 26th, 2020]
+
+- [add] 2 New Maps
+  - Sacred
+  - NoScape
+
+## v3.7 [Sept 25th, 2020]
 
 - [misc] Updated AreYouVIP to v1.3
 - [misc] Updated EnhancedMusket to v2.0

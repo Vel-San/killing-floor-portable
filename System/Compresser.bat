@@ -17,3 +17,5 @@ pause
 for /f "tokens=*" %%a in ("D:\KF\*.ukx") do ucc compress %%a
 pause 
 for /f "tokens=*" %%a in ("D:\KF\*.usx") do ucc compress %%a
+pause 
+for /f "tokens=*" %%a in ("D:\KF\*.ogg") do ucc compress %%a
