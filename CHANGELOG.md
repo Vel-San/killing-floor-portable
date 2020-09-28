@@ -1,4 +1,8 @@
-# v3.8 [Sept 26th, 2020]
+# v3.9 [Sept 29th, 2020]
+
+- [misc] Updated EnhancedSyringe to v4.1
+
+## v3.8 [Sept 26th, 2020]
 
 - [add] 2 New Maps
   - Sacred
