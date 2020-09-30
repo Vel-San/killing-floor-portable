@@ -1,4 +1,8 @@
-# v3.9 [Sept 29th, 2020]
+# v3.9.1 [Sept 30th, 2020]
+
+- [misc] Updated EnhancedSyringe to v4.2
+
+## v3.9 [Sept 29th, 2020]
 
 - [misc] Updated EnhancedSyringe to v4.1
 
