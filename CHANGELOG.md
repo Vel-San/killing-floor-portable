@@ -1,4 +1,4 @@
-# v3.9.2 [Sept 30th, 2020]
+# v3.9.2 [Oct 3rd, 2020]
 
 - [misc] Updated Config for AutoCallOut
 - [misc] Updated Config for ZedVoiceChanger
