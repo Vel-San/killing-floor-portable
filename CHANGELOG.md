@@ -1,4 +1,9 @@
-# v3.9.1 [Sept 30th, 2020]
+# v3.9.2 [Sept 30th, 2020]
+
+- [misc] Updated Config for AutoCallOut
+- [misc] Updated Config for ZedVoiceChanger
+
+## v3.9.1 [Sept 30th, 2020]
 
 - [misc] Updated EnhancedSyringe to v4.2
 
