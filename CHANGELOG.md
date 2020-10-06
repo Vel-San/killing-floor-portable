@@ -1,4 +1,8 @@
-# v3.9.3 [Oct 4th, 2020]
+# v4.0 [Oct 6th, 2020]
+
+- [add] ColorfulHUD Mut v1.0
+
+## v3.9.3 [Oct 4th, 2020]
 
 - [misc] Updated ZedVoiceChanger to v3.3
 - [misc] Updated Config for ZedVoiceChanger
