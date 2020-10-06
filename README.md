@@ -88,6 +88,8 @@ Below, you can see the currently installed (**And configured**) mods if you are 
 >**AutoCallOut** | Show how many FPs & SCs are currently 'Spawned'
 >
 >**AreYouVIP** | Mark players as ViP or special in your server
+>
+>**ColorfulHUD** | Changes the game's HUD to a colorful fresh HUD
 
 All of these mutators are pre-configured for the optimal experience. If you want to manually change the values and configuration of them, you can find the original files here:
 
