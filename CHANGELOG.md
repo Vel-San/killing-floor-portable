@@ -1,4 +1,10 @@
-# v4.0 [Oct 6th, 2020]
+# v4.1 [Oct 7th, 2020]
+
+- [misc] ColorfulHUD Mut v1.3
+- [misc] Updated ColorfulHUD Textures
+- [misc] Updated ServerPerksP to a custom version to support ColorfulHUD Mut
+
+## v4.0 [Oct 6th, 2020]
 
 - [add] ColorfulHUD Mut v1.0
 
