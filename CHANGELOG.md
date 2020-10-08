@@ -1,4 +1,8 @@
-# v4.1 [Oct 7th, 2020]
+# v4.2 [Oct 8th, 2020]
+
+- [misc] Updated 3 Perk Icons in ColorfulHUD
+
+## v4.1 [Oct 7th, 2020]
 
 - [misc] ColorfulHUD Mut v1.3
 - [misc] Updated ColorfulHUD Textures
