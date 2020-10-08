@@ -1,4 +1,8 @@
-# v4.3 [Oct 8th, 2020]
+# v4.4 [Oct 8th, 2020]
+
+- [misc] Updated ColorfulHUD Mut to v1.6
+
+## v4.3 [Oct 8th, 2020]
 
 - [misc] Updated ColorfulHUD Mut to v1.5
 
