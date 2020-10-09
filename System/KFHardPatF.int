@@ -1,0 +1,16 @@
+[HardPat]
+MenuName="Hard Pat"
+
+[HardPat_CIRCUS]
+MenuName="Hard Ringmaster"
+
+[HardPat_HALLOWEEN]
+MenuName="Hard Sheriff"
+
+[HardPat_XMAS]
+MenuName="Hard Santa"
+
+[KFHardPatF]
+FriendlyName="Extended and fixed Hard Patriarch."
+Description="Make the Patriarch harder than ever."
+

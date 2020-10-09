@@ -1,4 +1,9 @@
-# v4.4 [Oct 8th, 2020]
+# v4.5 [Oct 9th, 2020]
+
+- [add] KF-HardPat Mut (5500 Base HP)
+- [add] KF-MultiplePatHPBarMut Mut
+
+## v4.4 [Oct 8th, 2020]
 
 - [misc] Updated ColorfulHUD Mut to v1.6
 
