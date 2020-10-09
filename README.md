@@ -91,9 +91,11 @@ Below, you can see the currently installed (**And configured**) mods if you are 
 >
 >**ColorfulHUD** | Changes the game's HUD to a colorful fresh HUD
 >
->**HardPatty** | Changes the game's HUD to a colorful fresh HUD
+>**HardPatty** | Harder & Smarter Patty!
 >
->**PattyHpBar** | Changes the game's HUD to a colorful fresh HUD
+>**PattyHpBar** | Shows HP of Patty as a bar
+>
+>**KillStreakSounds** | Sounds for every 40+ Kills
 
 All of these mutators are pre-configured for the optimal experience. If you want to manually change the values and configuration of them, you can find the original files here:
 

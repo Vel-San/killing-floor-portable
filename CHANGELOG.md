@@ -1,7 +1,8 @@
 # v4.5 [Oct 9th, 2020]
 
-- [add] KF-HardPat Mut (5500 Base HP)
-- [add] KF-MultiplePatHPBarMut Mut
+- [add] HardPat Mut (5500 Base HP)
+- [add] MultiplePatHPBarMut Mut
+- [add] KillStreakSounds Mut
 
 ## v4.4 [Oct 8th, 2020]
 
