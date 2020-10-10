@@ -6,7 +6,7 @@
 ## v4.6 [Oct 10th, 2020]
 
 - [add] FleshpoundSpinFix Mut
-- [add] FakedPlayers (3, 4, 5) to HoE GameDiffs
+- [add] FakedPlayers (Custom, default 3) to HoE GameDiff
 - [misc] HardPat HP increased to 5500
 
 ## v4.5 [Oct 9th, 2020]
