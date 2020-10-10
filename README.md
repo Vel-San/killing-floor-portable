@@ -99,7 +99,9 @@ Below, you can see the currently installed (**And configured**) mods if you are 
 >
 >**FleshPoundSpinFix** | Fixes critical Fleshpound bugs
 >
->**FakedPlayersPlus** | Simulates players for HoE GameDiff Modes (3+, 4+, 5+)
+>**FakedPlayersPlus** | Simulates players for HoE GameDiff Modes
+>
+>**VisibleSpecX** | Spectators can shoot & heal enemies and players
 
 All of these mutators are pre-configured for the optimal experience. If you want to manually change the values and configuration of them, you can find the original files here:
 

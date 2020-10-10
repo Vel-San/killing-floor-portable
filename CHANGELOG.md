@@ -1,5 +1,6 @@
 # v4.7 [Oct 10th, 2020]
 
+- [add] VisibleSpectators Mut
 - [misc] Updated ColorfulHUD to v1.7
 - [misc] Decreased default weight to 24
 
