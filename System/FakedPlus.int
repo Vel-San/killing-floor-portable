@@ -1,0 +1,28 @@
+[Custom]
+FriendlyName="Choosen Amount of Faked Players"
+Description="For lulz and >6 fakes."
+
+[FakedPlus]
+FriendlyName="Faked Plus"
+Description="Simulate extra players for challenge. You can edit faked players amount in the config file."
+
+[Faked_1]
+FriendlyName="+1 Faked Players"
+Description="What is this?"
+
+[Faked_2]
+FriendlyName="+2 Faked Players"
+Description="If you fail this you are worse than Casul."
+
+[Faked_3]
+FriendlyName="+3 Faked Players"
+Description="Still lame."
+
+[Faked_4]
+FriendlyName="+4 Faked Players"
+Description="Things are getting serious."
+
+[Faked_5]
+FriendlyName="+5 Faked Players"
+Description="For Bodyshot Professionals."
+
