@@ -1,4 +1,8 @@
-# v4.6 [Oct 10th, 2020]
+# v4.7 [Oct 10th, 2020]
+
+- [misc] Updated ColorfulHUD to v1.7
+
+## v4.6 [Oct 10th, 2020]
 
 - [add] FleshpoundSpinFix Mut
 - [add] FakedPlayers (3, 4, 5) to HoE GameDiffs
