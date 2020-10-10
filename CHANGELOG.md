@@ -1,6 +1,7 @@
 # v4.7 [Oct 10th, 2020]
 
 - [misc] Updated ColorfulHUD to v1.7
+- [misc] Decreased default weight to 24
 
 ## v4.6 [Oct 10th, 2020]
 
