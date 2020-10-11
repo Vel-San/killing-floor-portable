@@ -1,4 +1,8 @@
-# v4.7 [Oct 10th, 2020]
+# v4.8 [Oct 11th, 2020]
+
+- [misc] Updated ZedVoiceChanger to v3.4
+
+## v4.7 [Oct 10th, 2020]
 
 - [add] VisibleSpectators Mut
 - [misc] Updated ColorfulHUD to v1.7
