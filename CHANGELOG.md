@@ -1,4 +1,14 @@
-# v4.8 [Oct 11th, 2020]
+# v5.0 [Oct 12th, 2020]
+
+- [add] 19 New Maps (Combined, Solo + Normal)
+- [add] 4 New Character Skins
+- [add] 1 New Weapon (Medic Grenade launcher)
+- [misc] New MapVote modes (Solo)
+- [misc] Removed Normal & Hard MapVotes
+- [misc] New redirectURL is being used
+- [misc] Fixed buff for M32 Camo Skin
+
+## v4.8 [Oct 11th, 2020]
 
 - [misc] Updated ZedVoiceChanger to v3.4
 - [misc] Disabled HS Pop sounds
