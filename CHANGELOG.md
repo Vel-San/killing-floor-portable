@@ -1,6 +1,8 @@
 # v4.8 [Oct 11th, 2020]
 
 - [misc] Updated ZedVoiceChanger to v3.4
+- [misc] Disabled HS Pop sounds
+- [misc] Increased carry weight to 25
 
 ## v4.7 [Oct 10th, 2020]
 
