@@ -1,7 +1,7 @@
 # v5.0 [Oct 12th, 2020]
 
 - [add] 19 New Maps (Combined, Solo + Normal)
-- [add] 4 New Character Skins
+- [add] 3 New Character Skins
 - [add] 1 New Weapon (Medic Grenade launcher)
 - [misc] New MapVote modes (Solo)
 - [misc] Removed Normal & Hard MapVotes
