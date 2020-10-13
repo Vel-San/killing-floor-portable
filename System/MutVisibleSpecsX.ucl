@@ -1,0 +1,1 @@
+Mutator=(ClassName=MutVisibleSpecsX.MutVisSpecs,GroupName=KF-SpecsMut,IconMaterialName=MutatorArt.nosym,FriendlyName=MutVisibleSpecsX.MutVisSpecs.FriendlyName,Description=MutVisibleSpecsX.MutVisSpecs.Description,FriendlyName=MutVisibleSpecsX.MutVisSpecs.FriendlyName,FallbackName="Visible spectators X",FallbackDesc="Make all spectators and dead players visible.")

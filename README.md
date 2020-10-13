@@ -9,7 +9,7 @@
 
 # KF-PORTABLE
 
-A pre-configured, 2 modes (White-listed/Grey-listed) *dedicated-server* **configuration** directory for Killing Floor 1
+A pre-configured, Grey-listed *dedicated-server* **configuration** directory for Killing Floor 1
 
 This guide assumes that you are already familiar with setting up a dedicated server via '**steamCMD**', if not, then you can simply contact me using the following:
 
@@ -20,7 +20,7 @@ This guide assumes that you are already familiar with setting up a dedicated ser
 
 ## What is included
 
-This directory is tailored according to my own taste of mutators, which has 2 Modes, **White-listed** and **Grey-listed**
+This directory is tailored according to my own taste of mutators.
 
 ### Vanilla Changes/Optmisations
 
@@ -28,7 +28,6 @@ This directory is tailored according to my own taste of mutators, which has 2 Mo
 - Edited parameters to allow downloading of Muts as compressed
 - Changed the NAT value
 - Changed default launch options of the server (Can be Changed to what you want)
-- Added my own RedirectURL (You can change this if my RedirectURL is down for some reason)
 
 ### Mutator Changes
 
@@ -160,9 +159,6 @@ You can join your own server, and if you have all ports properly forwarded in yo
 
 - Will you add more mutators?
   - If the mut feels like it imrpoves the game quality and doesn't affect the gameplay then yes; Ping me on Steam with your request!
-
-- How can I remove all these mutators and play just vanilla?
-  - That is already included in the config. When you launch a game and join it, just press ESC, then Vote for a Map and change the game mode that has [WS] in the name
 
 - How do I install KF in steamCMD as a dedicated server?
   - [Check this out](https://wiki.tripwireinteractive.com/index.php/Dedicated_Server_%28KillingFloor%29)
