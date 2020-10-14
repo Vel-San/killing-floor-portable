@@ -1,4 +1,9 @@
-# v5.1 [Oct 13th, 2020]
+# v5.2 [Oct 13th, 2020]
+
+- [del] All solo maps. Server is supposed to be for group gameplay :)
+- [del] Solo HoE votes
+
+## v5.1 [Oct 13th, 2020]
 
 - [del] 5 Maps that were insanely huge in size
 - [add] 7 New Character Skins, small in size
