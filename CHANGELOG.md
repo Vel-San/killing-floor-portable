@@ -1,4 +1,10 @@
-# v5.0 [Oct 12th, 2020]
+# v5.1 [Oct 13th, 2020]
+
+- [del] 5 Maps that were insanely huge in size
+- [add] 14 New Character Skins, small in size
+- [add] KF-ServerTools Mut v1.3
+
+## v5.0 [Oct 12th, 2020]
 
 - [add] 19 New Maps (Combined, Solo + Normal)
 - [add] 3 New Character Skins

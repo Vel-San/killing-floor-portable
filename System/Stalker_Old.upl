@@ -1,0 +1,4 @@
+[Public]
+Player=(DefaultName="Stalker_Old",Race="DRF",Mesh=KF_StalkerPlayer.stalker,species=KFmod.HorzineSpecies,BodySkin=KF_StalkerPlayer.tex.stalker_cmb,FaceSkin=KF_StalkerPlayer.tex.Stalker_Shdr,Portrait=KF_StalkerPlayer.tex.stalker_port,LockedPortrait=KF_StalkerPlayer.tex.stalker_port,Text="Meet the Stalker. A DRF squad captured her, and trained her in table etiquette, the use of toilets, and finally, how to hold a firearm. All in the hopes that she put her rotting self to good use, and help tag some of her former 'colleagues'. So far, it's been a resounding success. She plans to join a book club when this is all over. And try on clothes.",Sex=Female,Accuracy=+2.0,Aggressiveness=+1.0,StrafingAbility=+2.0,CombatStyle=-1,Tactics=+2.5,FavoriteWeapon=XWeapons.RocketLauncher,Ragdoll=British_Soldier1,Skeleton=KFSoldiers.Soldier,Menu="SP",BotUse=1,VoiceClassName=KFMod.KFVoicePackFemale)
+
+

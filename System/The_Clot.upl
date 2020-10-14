@@ -1,0 +1,4 @@
+[Public]
+Player=(DefaultName="The_Clot",Race="DRF",Mesh=KF_ClotPlayer.Clot,species=KFmod.SoldierSpecies,BodySkin=KF_ClotPlayer.Tex.oldclot_cmb,FaceSkin=KF_ClotPlayer.Tex.oldclot_cmb,Portrait=KF_ClotPlayer.Tex.oldclot_port,LockedPortrait=KF_ClotPlayer.Tex.oldclot_port,Text="Shortly before the Horzine outbreak, members of the organization made a unanimous decision to use their specimens directly in combat. The clot, being the weakest, was sent in first. Over time, the clot sent out by Horzine developed new skills allowing it to perform flawlessly in battle. After the outbreak, however, it was left on its own to fend off its very own brethren.",Sex=Male,Accuracy=+2.0,Aggressiveness=+1.0,StrafingAbility=+2.0,CombatStyle=-1,Tactics=+2.5,FavoriteWeapon=XWeapons.RocketLauncher,Ragdoll=British_Soldier1,Skeleton=KFSoldiers.Soldier,Menu="SP",BotUse=1,VoiceClassName=KFMod.KFVoicePackTwo)
+
+
