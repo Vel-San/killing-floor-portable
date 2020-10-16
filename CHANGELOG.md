@@ -1,7 +1,12 @@
-# v5.3 [Oct 15th, 2020]
+# v5.4 [Oct 15th, 2020]
+
+- [add] A fucking dog that you can buy from the trader
+- [misc] Updateed ServerTools to v1.6
+
+## v5.3 [Oct 15th, 2020]
 
 - [del] Sacred map
-- [misc] Updated KF-ServerTools to v1.4
+- [misc] Updated ServerTools to v1.4
 
 ## v5.2 [Oct 13th, 2020]
 

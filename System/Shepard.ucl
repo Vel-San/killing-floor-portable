@@ -1,0 +1,2 @@
+Mutator=(ClassName=Shepard.ShepardMut,GroupName=KF-Shepard,IconMaterialName=MutatorArt.nosym,FriendlyName=Shepard.ShepardMut.FriendlyName,Description=Shepard.ShepardMut.Description,FriendlyName=Shepard.ShepardMut.FriendlyName,FallbackName="Add Shepard",FallbackDesc="Add Shepard.")
+Weapon=(ClassName=Shepard.ShepardGun,PickupClassName=Shepard.ShepardPickup,AttachmentClassName=Shepard.ShepardAttachment,FriendlyName=Shepard.ShepardGun.ItemName,Description=Shepard.ShepardGun.Description,FallbackName="Dog",FallbackDesc="A dog which can be spawned to aid you in the combat.")
