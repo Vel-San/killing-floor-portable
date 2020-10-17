@@ -1,6 +1,6 @@
-# v5.5 [Oct 15th, 2020]
+# v5.5 [Oct 17th, 2020]
 
-- [add] EnhancedScoreboard Mut v1.1
+- [misc] Updated EnhancedScoreboard to v1.1
 
 ## v5.4 [Oct 15th, 2020]
 
