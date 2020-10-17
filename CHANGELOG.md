@@ -1,7 +1,8 @@
 # v5.4 [Oct 15th, 2020]
 
 - [add] A fucking dog that you can buy from the trader
-- [misc] Updateed ServerTools to v1.6
+- [add] EnhancedScoreboard Mut v1.1
+- [misc] Updated ServerTools to v1.6
 
 ## v5.3 [Oct 15th, 2020]
 
