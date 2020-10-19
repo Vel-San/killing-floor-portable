@@ -1,4 +1,8 @@
-# v5.5 [Oct 17th, 2020]
+# v5.6 [Oct 19th, 2020]
+
+- [misc] Updated ServerTools to v1.0 (Public Release)
+
+## v5.5 [Oct 17th, 2020]
 
 - [misc] Updated EnhancedScoreboard to v1.1
 
