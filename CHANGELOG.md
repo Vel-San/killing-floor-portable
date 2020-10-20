@@ -1,6 +1,8 @@
 # v5.6 [Oct 19th, 2020]
 
 - [misc] Updated ServerTools to v1.0 (Public Release)
+- [misc] Change StreakSounds config to decrease spam
+- [misc] Removed 2 Character skins (Valerna & Ferma / Fat Man & Broke Man)
 
 ## v5.5 [Oct 17th, 2020]
 
