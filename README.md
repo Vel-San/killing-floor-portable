@@ -103,11 +103,13 @@ Below, you can see the currently installed (**And configured**) mods if you are 
 >**VisibleSpecX** | Spectators can shoot & heal enemies and players
 >
 >**ServerTools** | Empower your server with essential features
+>
+>**EnhancedScoreboard** | Adds more stats to the ServerPerks scoreboard
 
 All of these mutators are pre-configured for the optimal experience. If you want to manually change the values and configuration of them, you can find the original files here:
 
 - [MEGA - Default Mutators](https://mega.nz/folder/YDoEmKiC#s6FGAtgh40-TvB4bHsLaMQ)
-  - If you want to upload these files to your own FTP host, you have to use **Compresser.bat** to conver them into .uz2 format - you can find the bat also in **\System**
+  - If you want to upload these files to your own FTP host, you have to use **Compresser.bat** to convert them into .uz2 format - you can find the bat also in **\System**
 
 ## Usage
 
