@@ -1,6 +1,6 @@
 # v5.8 [Oct 23th, 2020]
 
-- [add] 3 New Weapons | SharpShooter
+- [add] 1 New Weapon | SharpShooter
 - [add] 1 New Skin | Duke Nukem
 
 ## v5.7 [Oct 22th, 2020]

@@ -1,2 +1,0 @@
-Mutator=(ClassName=m21_Cod.Mutm21_Cod,GroupName=KF-m21,IconMaterialName=MutatorArt.nosym,FriendlyName=m21_Cod.Mutm21_Cod.FriendlyName,Description=m21_Cod.Mutm21_Cod.Description,FriendlyName=m21_Cod.Mutm21_Cod.FriendlyName,FallbackName="m21 CoD Mutator",FallbackDesc="Adds the m21 CoD")
-Weapon=(ClassName=m21_Cod.m21_Cod,PickupClassName=m21_Cod.m21_CodPickup,AttachmentClassName=m21_Cod.m21_CodAttachment,FriendlyName=m21_Cod.m21_Cod.ItemName,Description=m21_Cod.m21_Cod.Description,FallbackName="M21",FallbackDesc="An M21 Enhanced Battle Rifle - Semi Auto variant.")
