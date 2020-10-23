@@ -1,6 +1,7 @@
 # v5.7 [Oct 22th, 2020]
 
 - [misc] Gun Balance | Phase: 1
+- [misc] Updated ServerTools to v1.1
 
 ## v5.6 [Oct 19th, 2020]
 
