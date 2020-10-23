@@ -3,7 +3,7 @@
 - [misc] Gun Balance | Phase: 1
 - [misc] Updated ServerTools to v1.1
 - [misc] Updated ViP formats
-- [misc] Update EnhancedMusted to v2.0
+- [misc] Updated EnhancedMusket to v2.0
 
 ## v5.6 [Oct 19th, 2020]
 
