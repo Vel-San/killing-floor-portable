@@ -1,0 +1,1 @@
+Weapon=(ClassName=OmniBlade.OmniBlade,PickupClassName=OmniBlade.OmniBladePickup,AttachmentClassName=OmniBlade.OmniBladeAttachment,FriendlyName=OmniBlade.OmniBlade.ItemName,Description=OmniBlade.OmniBlade.Description,FallbackName="Omni Blade",FallbackDesc="An incredibly sharp Omni Blade.")
