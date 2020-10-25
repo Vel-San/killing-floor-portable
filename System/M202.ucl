@@ -1,2 +1,0 @@
-Weapon=(ClassName=M202.M202A1fw,PickupClassName=M202.M202A1Pickup,AttachmentClassName=M202.M202A1Attachment,FriendlyName=M202.M202A1fw.ItemName,Description=M202.M202A1fw.Description,FallbackName="M202A1 Flash",FallbackDesc="The M202 FLASH (FLame Assault SHoulder Weapon) is an American rocket launcher")
-Weapon=(ClassName=M202.M202A2fw,PickupClassName=M202.M202A2Pickup,AttachmentClassName=M202.M202A2Attachment,FriendlyName=M202.M202A2fw.ItemName,Description=M202.M202A2fw.Description,FallbackName="M202A2 Grim Reaper",FallbackDesc="The M202 A2 Grim Reaper")
