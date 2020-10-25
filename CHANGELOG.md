@@ -4,7 +4,6 @@
 
 ## v5.8 [Oct 23th, 2020]
 
-- [add] 2 New Weapon | SharpShooter
 - [add] 2 New Melee | Zerk
 - [add] 1 New Skin | Duke Nukem
 
