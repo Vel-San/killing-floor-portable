@@ -1,4 +1,8 @@
-# v5.8 [Oct 23th, 2020]
+# v5.9 [Oct 25th, 2020]
+
+- [misc] Changed both Sharp weapons
+
+## v5.8 [Oct 23th, 2020]
 
 - [add] 2 New Weapon | SharpShooter
 - [add] 2 New Melee | Zerk

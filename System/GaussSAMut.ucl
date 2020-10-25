@@ -1,0 +1,2 @@
+Mutator=(ClassName=GaussSAMut.MutGaussSA,GroupName=KF-Gauss Sabot,IconMaterialName=MutatorArt.nosym,FriendlyName=GaussSAMut.MutGaussSA.FriendlyName,Description=GaussSAMut.MutGaussSA.Description,FriendlyName=GaussSAMut.MutGaussSA.FriendlyName,FallbackName="Gauss Sabot Mutator",FallbackDesc="Adds the Gauss Sabot.")
+Weapon=(ClassName=GaussSAMut.GaussSA,PickupClassName=GaussSAMut.GaussSAPickup,AttachmentClassName=GaussSAMut.GaussSAAttachment,FriendlyName=GaussSAMut.GaussSA.ItemName,Description=GaussSAMut.GaussSA.Description,FallbackName="Gauss Sabot",FallbackDesc=".")
