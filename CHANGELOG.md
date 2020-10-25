@@ -1,6 +1,5 @@
 # v5.9 [Oct 25th, 2020]
 
-- [misc] Added 1x Weapon | Sharp
 - [misc] Added 1x Weapons | Commando
 
 ## v5.8 [Oct 23th, 2020]
