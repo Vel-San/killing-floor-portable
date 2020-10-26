@@ -2,6 +2,7 @@
 
 - [add] 4x Female Skins
 - [add] 5x Skins
+- [map] 35x Maps
 
 ## v5.9 [Oct 25th, 2020]
 
