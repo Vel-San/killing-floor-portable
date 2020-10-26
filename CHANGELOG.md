@@ -1,4 +1,9 @@
-# v5.9 [Oct 25th, 2020]
+# v6.0 [Oct 26th, 2020]
+
+- [add] 4x Female Skins
+- [add] 5x Skins
+
+## v5.9 [Oct 25th, 2020]
 
 - [add] 1x Weapon | Sharp
 - [add] 1x Weapon | Commando
