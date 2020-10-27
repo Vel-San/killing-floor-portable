@@ -40,13 +40,9 @@ I currently have 2 lists of mutators in my Steam Collections:
 
 Below, you can see the currently installed (**And configured**) mods if you are using this repo:
 
->**ZedKillCount** | Shows a detailed view of ZEDs killed after a wave is done
->
 >**WeaponPickupMessage** | Shows a message on weapon pickup, visible to all players
 >
 >**RgMsgMut** | Shows a message when someone rages a Scrake or a Fleshpound
->
->**PatriarchScoreboard** | Shows detailed view of Daddy Patty stats once you kill him, or he kills you
 >
 >**MedicAlert** | Shows a message to the medic **ONLY** if someone needs healing
 >
