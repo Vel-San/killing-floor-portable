@@ -1,17 +1,18 @@
-# v6.0 [Oct 26th, 2020]
+# v6.0 [Oct 27th, 2020]
+
+- [misc] Removed 2x Custom Weapons | Sharp + Commando
+- [misc] Removed all 35x new shitty maps
+- [add] 13x Skins
+
+## v5.9 [Oct 26th, 2020]
 
 - [add] 4x Female Skins
 - [add] 5x Skins
 - [map] 35x Maps
 
-## v5.9 [Oct 25th, 2020]
-
-- [add] 1x Weapon | Sharp
-- [add] 1x Weapon | Commando
-
 ## v5.8 [Oct 23th, 2020]
 
-- [add] 2 New Melee | Zerk
+- [add] 1 New Melee | Zerk
 - [add] 1 New Skin | Duke Nukem
 
 ## v5.7 [Oct 22th, 2020]
