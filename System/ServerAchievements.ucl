@@ -1,0 +1,1 @@
+Mutator=(ClassName=ServerAchievements.SAMutator,GroupName=KFServerAchievements,IconMaterialName=MutatorArt.nosym,FriendlyName=ServerAchievements.SAMutator.FriendlyName,Description=ServerAchievements.SAMutator.Description,FriendlyName=ServerAchievements.SAMutator.FriendlyName,FallbackName="Server Achievements",FallbackDesc="Loads custom achievements into the game.  Version 1.3")

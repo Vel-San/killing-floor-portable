@@ -1,0 +1,1 @@
+Weapon=(ClassName=Caius_Sword.Caius_Sword,PickupClassName=Caius_Sword.Caius_SwordPickup,AttachmentClassName=Caius_Sword.Caius_SwordAttachment,FriendlyName=Caius_Sword.Caius_Sword.ItemName,Description=Caius_Sword.Caius_Sword.Description,FallbackName="Caius Sword",FallbackDesc="Caius Sword from Final Fantasy.")

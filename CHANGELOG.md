@@ -1,4 +1,14 @@
-# v6.0 [Oct 27th, 2020]
+# v6.1 [Nov 1st, 2020]
+
+- [add] Server Achievements!
+- [add] 6x Skins
+- [add] 1x Mix-Weapon | PB Pistol (Can be used by Demo, Firebug & Sharp)
+- [add] 1x Demo Weapon | TripleThreat
+- [add] 5x Zerk Weapons | AxeEbonite, Hammer, Flying V, Baseball Bat, Caius Sword
+- [misc] Updated ServerTools to v1.3 (Trader Speed Boost introduced)
+- [misc] Default trader time is now 120
+
+## v6.0 [Oct 27th, 2020]
 
 - [misc] Removed 2x Custom Weapons | Sharp + Commando
 - [misc] Removed all 35x new shitty maps
