@@ -1,4 +1,11 @@
-# v6.1 [Nov 1st, 2020]
+# v6.2 [Nov 4th, 2020]
+
+- [del] Server Achievment (Monitoring if causing server crash)
+- [del] DouchbagFixer Mut
+- [del] BaseBall Bat
+- [misc] Updated Faked+ Game Votes | 3, 4, 5, 6 - All with 2HP
+
+## v6.1 [Nov 1st, 2020]
 
 - [add] Server Achievements!
 - [add] 6x Skins

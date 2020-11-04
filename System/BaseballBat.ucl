@@ -1,1 +1,0 @@
-Weapon=(ClassName=BaseballBat.BaseballBat,PickupClassName=BaseballBat.BaseballBatPickup,AttachmentClassName=BaseballBat.BaseballBatAttachment,FriendlyName=BaseballBat.BaseballBat.ItemName,Description=BaseballBat.BaseballBat.Description,FallbackName="Baseball Bat",FallbackDesc="An incredibly Baseball Bat.")
