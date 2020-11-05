@@ -48,8 +48,6 @@ Below, you can see the currently installed (**And configured**) mods if you are 
 >
 >**ESWWeightMut** | Customize the inventory weight so you can buy more weapons
 >
->**DouchebagFixer** | Shows a message that someone is not grouped up, and kicks them if they don't gather
->
 >**CountryTags** | Shows country TAG next to names in ScoreBoard
 >
 >**KFARGChat** | Shows a small Chat-icon if someone is typing something
