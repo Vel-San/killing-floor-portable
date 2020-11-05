@@ -1,4 +1,9 @@
-# v6.2 [Nov 4th, 2020]
+# v6.3 [Nov 5th, 2020]
+
+- [map] 6x New Maps
+- [misc] Server is now 4-Faked & 1HP
+
+## v6.2 [Nov 4th, 2020]
 
 - [del] Server Achievment (Monitoring if causing server crash)
 - [del] DouchbagFixer Mut
