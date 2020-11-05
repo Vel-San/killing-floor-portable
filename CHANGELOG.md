@@ -3,15 +3,14 @@
 - [del] Server Achievment (Monitoring if causing server crash)
 - [del] DouchbagFixer Mut
 - [del] BaseBall Bat
-- [misc] Updated Faked+ Game Votes | 3, 4, 5, 6 - All with 2HP
+- [del] Caius Sword
 
 ## v6.1 [Nov 1st, 2020]
 
-- [add] Server Achievements!
 - [add] 6x Skins
 - [add] 1x Mix-Weapon | PB Pistol (Can be used by Demo, Firebug & Sharp)
 - [add] 1x Demo Weapon | TripleThreat
-- [add] 5x Zerk Weapons | AxeEbonite, Hammer, Flying V, Baseball Bat, Caius Sword
+- [add] 3x Zerk Weapons | AxeEbonite, Hammer, Flying V
 - [misc] Updated ServerTools to v1.3 (Trader Speed Boost introduced)
 - [misc] Default trader time is now 120
 
