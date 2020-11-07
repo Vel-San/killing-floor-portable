@@ -1,0 +1,1 @@
+Mutator=(ClassName=SetPlayerLoadout.SetPlayerLoadout,GroupName=KF-SetPlayerLoadout,IconMaterialName=MutatorArt.nosym,FriendlyName=SetPlayerLoadout.SetPlayerLoadout.FriendlyName,Description=SetPlayerLoadout.SetPlayerLoadout.Description,FriendlyName=SetPlayerLoadout.SetPlayerLoadout.FriendlyName,FallbackName="Set Player Loadout",FallbackDesc="Sets Players Game Starting Loadout")

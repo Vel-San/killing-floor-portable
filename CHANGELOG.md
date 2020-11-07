@@ -1,4 +1,9 @@
-# v6.3 [Nov 5th, 2020]
+# v6.4 [Nov 7th, 2020]
+
+- [add] NFN Mutator + GameType | Custom GameType made by Vel-San (Ultra Difficult)
+- [add] StartLoadOut Mut | Only on NFN GameType, changes start loadout for all perks
+
+## v6.3 [Nov 5th, 2020]
 
 - [map] 6x New Maps
 - [misc] Server is now 4-Faked & 1HP
