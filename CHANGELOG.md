@@ -1,4 +1,12 @@
-# v6.4 [Nov 7th, 2020]
+# v6.5 [Nov 10th, 2020]
+
+- [map] Removed 5x Huge Maps
+- [misc] Fakes number reverted back to 3
+- [del] TinyTina Skin
+- [del] Max Husk
+- [add] 3x New Skins
+
+## v6.4 [Nov 7th, 2020]
 
 - [add] NFN Mutator + GameType | Custom GameType made by Vel-San (Ultra Difficult)
 - [add] StartLoadOut Mut | Only on NFN GameType, changes start loadout for all perks
