@@ -1,5 +1,6 @@
 # v6.5 [Nov 10th, 2020]
 
+- [misc] Updated NFN GameType to v1.1
 - [map] Removed 5x Huge Maps
 - [misc] Fakes number reverted back to 3
 - [del] TinyTina Skin
