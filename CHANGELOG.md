@@ -1,4 +1,11 @@
-# v6.5 [Nov 10th, 2020]
+# v6.6 [Nov 11th, 2020]
+
+- [del] 17x Skins
+- [del] 2x Melee Weapons
+- [misc] Removed Omni Melee Custom Stats
+- [misc] Fixed Starting Cash to 5K on all votes
+
+## v6.5 [Nov 10th, 2020]
 
 - [misc] Updated NFN GameType to v1.1
 - [map] Removed 5x Huge Maps
