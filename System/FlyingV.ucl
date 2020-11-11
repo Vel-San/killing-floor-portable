@@ -1,2 +1,0 @@
-Mutator=(ClassName=FlyingV.MutFlyingV,GroupName=KF-MutFlyingV,IconMaterialName=MutatorArt.nosym,FriendlyName=FlyingV.MutFlyingV.FriendlyName,Description=FlyingV.MutFlyingV.Description,FriendlyName=FlyingV.MutFlyingV.FriendlyName,FallbackName="FlyingV Guitar Mutator",FallbackDesc="You start the game with a FlyingV Guitar.")
-Weapon=(ClassName=FlyingV.FlyingV,PickupClassName=FlyingV.FlyingVPickup,AttachmentClassName=FlyingV.FlyingVAttachment,FriendlyName=FlyingV.FlyingV.ItemName,Description=FlyingV.FlyingV.Description,FallbackName="FlyingV Guitar",FallbackDesc="Let's rock.")
