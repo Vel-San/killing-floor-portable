@@ -1,3 +1,0 @@
-Mutator=(ClassName=Hammer.MutHammer,GroupName=KF-MutHammer,IconMaterialName=MutatorArt.nosym,FriendlyName=Hammer.MutHammer.FriendlyName,Description=Hammer.MutHammer.Description,FriendlyName=Hammer.MutHammer.FriendlyName,FallbackName="Hammer Mutator",FallbackDesc="You start the game with a Devil's ")
-Weapon=(ClassName=Hammer.Furfur,FriendlyName=Hammer.Furfur.ItemName,Description=Hammer.Furfur.Description,FallbackName="Furfur",FallbackDesc="A Devil's Hammer.")
-Weapon=(ClassName=Hammer.Hammer,PickupClassName=Hammer.HammerPickup,AttachmentClassName=Hammer.HammerAttachment,FriendlyName=Hammer.Hammer.ItemName,Description=Hammer.Hammer.Description,FallbackName="A Devil's Hammer",FallbackDesc="A Devil's ")

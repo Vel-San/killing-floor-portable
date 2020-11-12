@@ -1,4 +1,8 @@
-# v6.6 [Nov 11th, 2020]
+# v7.0 [Nov 12th, 2020]
+
+- [major] Server Cleanup (1)
+
+## v6.6 [Nov 11th, 2020]
 
 - [del] 17x Skins
 - [del] 2x Melee Weapons
