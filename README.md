@@ -50,13 +50,13 @@ Below, you can see the currently installed (**And configured**) mods if you are 
 >
 >**CountryTags** | Shows country TAG next to names in ScoreBoard
 >
->**KFARGChat** | Shows a small Chat-icon if someone is typing something
+>**ChatIcon** | Shows a small Chat-icon if someone is typing something
 >
->**KFDamagePopup** | Shows damage popups when you hit a ZED
+>**DamagePopup** | Shows damage popups when you hit a ZED
 >
->**KFMutKillMessage** | Shows damage dealt to ZEDs
+>**MutKillMessage** | Shows damage dealt to ZEDs
 >
->**KFShareCash** | Shares the cash of disconnected or players who crashed
+>**ShareCash** | Shares the cash of disconnected or players who crashed
 >
 >**CleanAppIDmut** | DLC Unlocker; you can have all weapons!
 >
@@ -64,9 +64,7 @@ Below, you can see the currently installed (**And configured**) mods if you are 
 >
 >**ReloadOptionsMut** | Enables you to interrupt a reload
 >
->**CuteCustomes** | Adds custom OutFits in the Trader
->
->**EnhancedMusket** | A Modded version of the S. P. Musket
+>**CuteCustomes** | Adds custom outfits in the Trader
 >
 >**EnhancedSyringe** | A Modded version of the Medical Syringe, with sprint boost
 >
@@ -88,7 +86,7 @@ Below, you can see the currently installed (**And configured**) mods if you are 
 >
 >**PattyHpBar** | Shows HP of Patty as a bar
 >
->**KillStreakSounds** | Kill Streak Sounds for Comboes
+>**KillStreakSounds** | Kill Streak Sounds
 >
 >**FleshPoundSpinFix** | Fixes critical Fleshpound bugs
 >
@@ -102,7 +100,7 @@ Below, you can see the currently installed (**And configured**) mods if you are 
 >
 >**NFN** | Nanu Fucking Nanu GameType + Mut; Increased Difficulty
 >
->**StatLoadout** | Change starting loadout for all perks
+>**StartLoadout** | Change starting loadout for all perks
 
 All of these mutators are pre-configured for the optimal experience. If you want to manually change the values and configuration of them, you can find the original files here:
 
