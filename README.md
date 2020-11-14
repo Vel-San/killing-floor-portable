@@ -1,4 +1,4 @@
-![version](https://img.shields.io/badge/Version-7.0-yellow?style=flat-square) ![last_modified](https://img.shields.io/github/last-commit/vel-san/kf-portable/master?style=flat-square) ![contributers](https://img.shields.io/github/contributors/vel-san/kf-portable?style=flat-square) ![size](https://img.shields.io/github/repo-size/vel-san/kf-portable?color=violet&style=flat-square) ![platforms](https://img.shields.io/badge/Platforms-Windows-blue?style=flat-square)
+![version](https://img.shields.io/badge/Version-7.1-yellow?style=flat-square) ![last_modified](https://img.shields.io/github/last-commit/vel-san/kf-portable/master?style=flat-square) ![contributers](https://img.shields.io/github/contributors/vel-san/kf-portable?style=flat-square) ![size](https://img.shields.io/github/repo-size/vel-san/kf-portable?color=violet&style=flat-square) ![platforms](https://img.shields.io/badge/Platforms-Windows-blue?style=flat-square)
 
 - [KF-PORTABLE](#kf-portable)
   - [What is included](#what-is-included)
@@ -101,6 +101,12 @@ Below, you can see the currently installed (**And configured**) mods if you are 
 >**NFN** | Nanu Fucking Nanu GameType + Mut; Increased Difficulty
 >
 >**StartLoadout** | Change starting loadout for all perks
+>
+>**MutLoaderV2** | Load mutators without MapVote or Server Launch Command
+>
+>**PatriachScoreBoard** | Show detailed stats to damage dealt on the Patty
+>
+>**ZedKillCount** | Show detailed stats for every wave about player kills
 
 All of these mutators are pre-configured for the optimal experience. If you want to manually change the values and configuration of them, you can find the original files here:
 

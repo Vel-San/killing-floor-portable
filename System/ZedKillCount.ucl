@@ -1,0 +1,1 @@
+Mutator=(ClassName=ZedKillCount.ZedKillCount,GroupName=KF-ZedKillCount,IconMaterialName=MutatorArt.nosym,FriendlyName=ZedKillCount.ZedKillCount.FriendlyName,Description=ZedKillCount.ZedKillCount.Description,FriendlyName=ZedKillCount.ZedKillCount.FriendlyName,FallbackName="Zed Kill Count",FallbackDesc="This mutator displays the number of each zeds killed after wave ends.")

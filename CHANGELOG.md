@@ -1,4 +1,13 @@
-# v7.0 [Nov 12th, 2020]
+# v7.1 [Nov 14th, 2020]
+
+- [add] MutLoader Mut
+- [misc] Updated Sprint Boost Message
+- [add] PatriachScoreBoard Mut
+- [add] ZedKillCount Mut
+- [fix] Faked Plus Mut | Now we can dynamically change Fakes in-game
+- [add] Re-Testing Loadout mut for server lags/freezes
+
+## v7.0 [Nov 12th, 2020]
 
 - [major] Server Cleanup (1)
 
