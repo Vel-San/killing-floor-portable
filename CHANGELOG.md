@@ -4,6 +4,7 @@
 - [misc] Updated Sprint Boost Message
 - [add] PatriachScoreBoard Mut
 - [add] ZedKillCount Mut
+- [add] AlarmTrader Mut
 - [fix] Faked Plus Mut | Now we can dynamically change Fakes in-game
 - [add] Re-Testing Loadout mut for server lags/freezes
 

@@ -107,6 +107,8 @@ Below, you can see the currently installed (**And configured**) mods if you are 
 >**PatriachScoreBoard** | Show detailed stats to damage dealt on the Patty
 >
 >**ZedKillCount** | Show detailed stats for every wave about player kills
+>
+>**AlarmTrader** | Silent Hill alarm before trader ends
 
 All of these mutators are pre-configured for the optimal experience. If you want to manually change the values and configuration of them, you can find the original files here:
 
