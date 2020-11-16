@@ -109,6 +109,8 @@ Below, you can see the currently installed (**And configured**) mods if you are 
 >**ZedKillCount** | Show detailed stats for every wave about player kills
 >
 >**AlarmTrader** | Silent Hill alarm before trader ends
+>
+>**SoundBoard** | Play custom sounds via mutate commands
 
 All of these mutators are pre-configured for the optimal experience. If you want to manually change the values and configuration of them, you can find the original files here:
 
