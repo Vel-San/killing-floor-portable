@@ -1,6 +1,7 @@
 # v7.2 [Nov 18th, 2020]
 
-- [misc] Updated SoundBoard to v1.1
+- [add] AllTraders Mut
+- [misc] Updated SoundBoard to v1.1 [critical-fix]
 - [misc] Updated FakedPlus to Custom Version with admin only
 
 ## v7.1 [Nov 14th, 2020]
