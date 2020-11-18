@@ -1,4 +1,9 @@
-# v7.1 [Nov 14th, 2020]
+# v7.2 [Nov 18th, 2020]
+
+- [misc] Updated SoundBoard to v1.1
+- [misc] Updated FakedPlus to Custom Version with admin only
+
+## v7.1 [Nov 14th, 2020]
 
 - [add] MutLoader Mut
 - [misc] Updated Sprint Boost Message
@@ -6,6 +11,7 @@
 - [add] ZedKillCount Mut
 - [add] AlarmTrader Mut
 - [add] SoundBoard Mut
+- [misc] Updated NFN to v1.2
 - [fix] Faked Plus Mut | Now we can dynamically change Fakes in-game
 - [add] Re-Testing Loadout mut for server lags/freezes
 
