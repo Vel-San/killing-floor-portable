@@ -1,4 +1,8 @@
-# v7.2 [Nov 18th, 2020]
+# v7.3 [Nov 25th, 2020]
+
+- [misc] Update WeaponStatConfig to v2.3
+
+## v7.2 [Nov 18th, 2020]
 
 - [add] AllTraders Mut
 - [misc] Updated ServerTools to v1.4.1 [critical]
