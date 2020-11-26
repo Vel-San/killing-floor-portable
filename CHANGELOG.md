@@ -1,6 +1,6 @@
 # v7.3 [Nov 25th, 2020]
 
-- [misc] Update WeaponStatConfig to v2.3
+- [misc] Update WeaponStatConfig to v2.4
 
 ## v7.2 [Nov 18th, 2020]
 
