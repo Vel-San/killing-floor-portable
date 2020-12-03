@@ -1,4 +1,8 @@
-# v7.3 [Nov 25th, 2020]
+# v7.4 [Dec 3rd, 2020]
+
+- [misc] All MapVotes are now 2F instead of 3F (To make the serve more enjoyable for new players)
+
+## v7.3 [Nov 25th, 2020]
 
 - [misc] Update WeaponStatConfig to v2.4
 
