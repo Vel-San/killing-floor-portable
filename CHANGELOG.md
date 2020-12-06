@@ -1,5 +1,6 @@
 # v7.5 [Dec 6th, 2020]
 
+- [balance] GunBalance Phase 2 - Support
 - [misc] Updated MapVotes with several options (1, 2, 3, 4, 5, 6 Fakes)
 - [misc] Updated MutLoader to v2.1
 - [misc] Updated FakedPlus (No more mutate commands | Reserved Slots on all fakes, not just custom)
