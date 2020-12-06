@@ -3,6 +3,7 @@
 - [balance] GunBalance Phase 2 - Support
 - [misc] Updated MapVotes with several options (1, 2, 3, 4, 5, 6 Fakes)
 - [misc] Updated MutLoader to v2.1
+- [misc] Updated WeaponStatConfig to v2.4.1
 - [misc] Updated FakedPlus (No more mutate commands | Reserved Slots on all fakes, not just custom)
 
 ## v7.4 [Dec 3rd, 2020]
