@@ -1,4 +1,10 @@
-# v7.4 [Dec 3rd, 2020]
+# v7.5 [Dec 6th, 2020]
+
+- [misc] Updated MapVotes with several options (1, 2, 3, 4, 5, 6 Fakes)
+- [misc] Updated MutLoader to v2.1
+- [misc] Updated FakedPlus (No more mutate commands | Reserved Slots on all fakes, not just custom)
+
+## v7.4 [Dec 3rd, 2020]
 
 - [misc] All MapVotes are now 2F instead of 3F (To make the serve more enjoyable for new players)
 
