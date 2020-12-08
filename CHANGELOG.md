@@ -1,7 +1,12 @@
-# v7.5 [Dec 6th, 2020]
+# v7.6 [Dec 7th, 2020]
+
+- [misc] Loadout start with vanilla musket
+- [del] 3 Maps
+
+## v7.5 [Dec 6th, 2020]
 
 - [balance] GunBalance Phase 2 - Support
-- [misc] Updated MapVotes with several options (1, 2, 3, 4, 5, 6 Fakes)
+- [misc] Updated MapVotes with several options (0, 1, 2, 3)
 - [misc] Updated MutLoader to v2.1
 - [misc] Updated WeaponStatConfig to v2.4.1
 - [misc] Updated FakedPlus (No more mutate commands | Reserved Slots on all fakes, not just custom)
