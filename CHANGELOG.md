@@ -1,4 +1,8 @@
-# v7.6 [Dec 7th, 2020]
+# v7.7 [Dec 8th, 2020]
+
+- [balance] Gun Balance Phase 3 - Commando
+
+## v7.6 [Dec 7th, 2020]
 
 - [misc] Loadout start with vanilla musket
 - [del] 3 Maps
