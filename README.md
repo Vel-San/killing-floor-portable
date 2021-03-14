@@ -1,4 +1,4 @@
-![version](https://img.shields.io/badge/Version-7.7-yellow?style=flat-square) ![last_modified](https://img.shields.io/github/last-commit/vel-san/kf-portable/master?style=flat-square) ![contributers](https://img.shields.io/github/contributors/vel-san/kf-portable?style=flat-square) ![size](https://img.shields.io/github/repo-size/vel-san/kf-portable?color=violet&style=flat-square) ![platforms](https://img.shields.io/badge/Platforms-Windows-blue?style=flat-square)
+![version](https://img.shields.io/badge/Version-7.8-yellow?style=flat-square) ![last_modified](https://img.shields.io/github/last-commit/vel-san/kf-portable/master?style=flat-square) ![contributers](https://img.shields.io/github/contributors/vel-san/kf-portable?style=flat-square) ![size](https://img.shields.io/github/repo-size/vel-san/kf-portable?color=violet&style=flat-square) ![platforms](https://img.shields.io/badge/Platforms-Windows-blue?style=flat-square)
 
 - [KF-PORTABLE](#kf-portable)
   - [What is included](#what-is-included)
@@ -124,7 +124,7 @@ All of these mutators are pre-configured for the optimal experience. If you want
 Alright. So, assuming you already downloaded the Repo and you have Killing Floor installed via **steamCMD** as a dedicated server.
 
 - Navigate to your local KF-Dedicated Server directory
-- Replace all files when prompted
+- Replace all files when prompted (Except `Killingfloor.ini`)
 
 Now we need to update the '*Vanilla*' Settings to what **YOU** want
 
@@ -132,8 +132,17 @@ Now we need to update the '*Vanilla*' Settings to what **YOU** want
 - Press Cntrl+F (To Find a keyword)
 - Search for '**Change_me**' (Without the quotes)
   - Whenever you find a Change_me keyword, replace it when what you want :)
+  - Replace all other values that are present in the `Killingfloor.ini` from this repo, into the default `Killingfloor.ini`
 - Now look for **KF_Server_Launcher.bat** in **\System**
   - Right click and create a desktop shortcut for it
+
+### Disabling/Enabling Mutators
+
+Navigate to `MutLoader.ini`:
+
+- Change the configs to whatever you want. Each config works according to the GameDifficulty votes from your MapVotes
+  - Here you can enable/disable mutators
+  - Here you can change your ServerName with every MapVote you do. For more, check [MutLoader v2.1](https://steamcommunity.com/sharedfiles/filedetails/?id=2286683680)
 
 You are done! Launch Killing Floor from steam, once it loads, go to Open the newly created KF_Server_Launcher shortcut from your desktop. You should be able to view the server once it starts inside the game (Multiplayer > Lan)
 
@@ -177,3 +186,6 @@ You can join your own server, and if you have all ports properly forwarded in yo
 
 - Can I run AND play on the server?
   - Yep! Just launch Killing floor from steam first, then launch the Shortcut mentioned in the instructions above
+
+- Does this config work on Steam's Killingfloor (and not steamCMD)
+  - Yep. Just do the same steps!

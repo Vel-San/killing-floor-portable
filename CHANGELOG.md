@@ -1,4 +1,9 @@
-# v7.7 [Dec 8th, 2020]
+# v7.8 [Mar 14th, 2021]
+
+- [misc] Repo cleanup and updated some configs
+- [misc] README Update
+
+## v7.7 [Dec 8th, 2020]
 
 - [balance] Gun Balance Phase 3 - Commando
 
