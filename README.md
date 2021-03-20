@@ -1,6 +1,7 @@
 ![version](https://img.shields.io/badge/Version-7.9-yellow?style=flat-square) ![last_modified](https://img.shields.io/github/last-commit/vel-san/kf-portable/master?style=flat-square) ![contributers](https://img.shields.io/github/contributors/vel-san/kf-portable?style=flat-square) ![size](https://img.shields.io/github/repo-size/vel-san/kf-portable?color=violet&style=flat-square) ![platforms](https://img.shields.io/badge/Platforms-Windows-blue?style=flat-square)
 
 - [KF-PORTABLE](#kf-portable)
+  - [IMPORTANT NOTE FOR CLONING](#important-note-for-cloning)
   - [What is included](#what-is-included)
     - [Vanilla Changes/Optmisations](#vanilla-changesoptmisations)
     - [Mutator Changes](#mutator-changes)
@@ -18,6 +19,14 @@ This guide assumes that you are already familiar with setting up a dedicated ser
 - Discord: **.Vel-San.#7468**
 - [Twitter](https://twitter.com/Vel__San)
 - [Other Guides](https://steamcommunity.com/id/Vel-San/myworkshopfiles/?section=guides&appid=1250)
+
+## IMPORTANT NOTE FOR CLONING
+
+Use the following command in case you want to clone the repo (to avoid cloning it's history, which is about ~600mbs)
+
+```
+git clone git@github.com:Vel-San/kf_Portable.git --bare
+```
 
 ## What is included
 
