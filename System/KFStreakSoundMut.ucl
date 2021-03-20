@@ -1,1 +1,0 @@
-Mutator=(ClassName=KFStreakSoundMut.StreakSoundMut,GroupName=KF-StreakSound,IconMaterialName=MutatorArt.nosym,FriendlyName=KFStreakSoundMut.StreakSoundMut.FriendlyName,Description=KFStreakSoundMut.StreakSoundMut.Description,FriendlyName=KFStreakSoundMut.StreakSoundMut.FriendlyName,FallbackName="Killing Streak Sounds",FallbackDesc="Plays sounds for killing streaks")

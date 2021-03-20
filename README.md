@@ -1,10 +1,11 @@
-![version](https://img.shields.io/badge/Version-7.8-yellow?style=flat-square) ![last_modified](https://img.shields.io/github/last-commit/vel-san/kf-portable/master?style=flat-square) ![contributers](https://img.shields.io/github/contributors/vel-san/kf-portable?style=flat-square) ![size](https://img.shields.io/github/repo-size/vel-san/kf-portable?color=violet&style=flat-square) ![platforms](https://img.shields.io/badge/Platforms-Windows-blue?style=flat-square)
+![version](https://img.shields.io/badge/Version-7.9-yellow?style=flat-square) ![last_modified](https://img.shields.io/github/last-commit/vel-san/kf-portable/master?style=flat-square) ![contributers](https://img.shields.io/github/contributors/vel-san/kf-portable?style=flat-square) ![size](https://img.shields.io/github/repo-size/vel-san/kf-portable?color=violet&style=flat-square) ![platforms](https://img.shields.io/badge/Platforms-Windows-blue?style=flat-square)
 
 - [KF-PORTABLE](#kf-portable)
   - [What is included](#what-is-included)
     - [Vanilla Changes/Optmisations](#vanilla-changesoptmisations)
     - [Mutator Changes](#mutator-changes)
   - [Usage](#usage)
+    - [Disabling/Enabling Mutators](#disablingenabling-mutators)
   - [FAQ](#faq)
 
 # KF-PORTABLE
@@ -58,7 +59,7 @@ Below, you can see the currently installed (**And configured**) mods if you are 
 >
 >**ShareCash** | Shares the cash of disconnected or players who crashed
 >
->**CleanAppIDmut** | DLC Unlocker; you can have all weapons!
+>**CleanAppID** | DLC Unlocker; you can have all weapons!
 >
 >**ServerPerks** | A Mut that adds several optimisations to the gameplay, also, makes every Max Rank (6)
 >
@@ -72,8 +73,6 @@ Below, you can see the currently installed (**And configured**) mods if you are 
 >
 >**WhispColorChanger** | Change colors of the trader whisp
 >
->**ZedVoiceChanger** | Adds custom ZED Sounds
->
 >**ServerAdsKF** | Allows you to send Ad & Broadcast messages to all players in-game
 >
 >**AutoCallOut** | Show how many FPs & SCs are currently 'Spawned'
@@ -85,8 +84,6 @@ Below, you can see the currently installed (**And configured**) mods if you are 
 >**HardPatty** | Harder & Smarter Patty!
 >
 >**PattyHpBar** | Shows HP of Patty as a bar
->
->**KillStreakSounds** | Kill Streak Sounds
 >
 >**FleshPoundSpinFix** | Fixes critical Fleshpound bugs
 >
@@ -103,10 +100,6 @@ Below, you can see the currently installed (**And configured**) mods if you are 
 >**StartLoadout** | Change starting loadout for all perks
 >
 >**MutLoaderV2** | Load mutators without MapVote or Server Launch Command
->
->**PatriachScoreBoard** | Show detailed stats to damage dealt on the Patty
->
->**ZedKillCount** | Show detailed stats for every wave about player kills
 >
 >**AlarmTrader** | Silent Hill alarm before trader ends
 >
@@ -185,7 +178,7 @@ You can join your own server, and if you have all ports properly forwarded in yo
   - [Check this out](https://wiki.tripwireinteractive.com/index.php/Dedicated_Server_%28KillingFloor%29)
 
 - Can I run AND play on the server?
-  - Yep! Just launch Killing floor from steam first, then launch the Shortcut mentioned in the instructions above
+  - Yep! Just launch Killing floor from steam first, then launch the Shortcut mentioned in the instructions above.
 
 - Does this config work on Steam's Killingfloor (and not steamCMD)
-  - Yep. Just do the same steps!
+  - Yep! Just do the same steps.

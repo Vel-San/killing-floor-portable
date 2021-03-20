@@ -1,4 +1,14 @@
-# v7.8 [Mar 14th, 2021]
+# v7.9 [Mar 20th, 2021]
+
+- [del] All custom skins except bloody doll
+- [del] Shephard Dog
+- [del] StreakSounds Mut
+- [del] ZedKillCount Mut
+- [del] Patty ScoreBoard Mut
+- [del] ZedVoiceChanger Mut
+- [fix] Decreased HardPat HP to base 4500 (from 5500)
+
+## v7.8 [Mar 14th, 2021]
 
 - [misc] Repo cleanup and updated some configs
 - [misc] README Update
