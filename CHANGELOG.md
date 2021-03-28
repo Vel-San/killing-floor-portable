@@ -1,4 +1,9 @@
-# v7.9 [Mar 20th, 2021]
+# v8.0 [Mar 28th, 2021]
+
+- [misc] Updated ServerTools Mut to v1.4.3
+- [misc] Updated Mutload, Mapvote & ServerAds configs
+
+## v7.9 [Mar 20th, 2021]
 
 - [del] All custom skins except bloody doll
 - [del] Shephard Dog
