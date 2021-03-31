@@ -1,6 +1,12 @@
-# v8.0 [Mar 28th, 2021]
+# v8.1 [Mar 30th, 2021]
 
-- [misc] Updated ServerTools Mut to v1.4.3
+- [add] WhispColorChanger (New Version) & removed old one
+- [misc] Updated ServerTools Mut to v1.4.3 (with fixed trader boost)
+- [misc] Updated MutLoader, MapVote
+
+## v8.0 [Mar 28th, 2021]
+
+- [misc] Updated ServerTools Mut to v1.4.2
 - [misc] Updated Mutload, Mapvote & ServerAds configs
 
 ## v7.9 [Mar 20th, 2021]
