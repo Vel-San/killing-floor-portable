@@ -1,4 +1,8 @@
-# v8.2 [Apr 2nd, 2021]
+# v8.3 [Apr 3rd, 2021]
+
+- [add] AutoCallOut mut v1.1
+
+## v8.2 [Apr 2nd, 2021]
 
 - [misc] Updated WhispColorChanger to v3.2
 - [misc] Updated ServerTools to v 1.4.4
