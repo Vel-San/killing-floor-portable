@@ -1,4 +1,9 @@
-# v8.1 [Mar 30th, 2021]
+# v8.2 [Apr 2nd, 2021]
+
+- [misc] Updated WhispColorChanger to v3.2
+- [misc] Updated ServerTools to v 1.4.4
+
+## v8.1 [Mar 30th, 2021]
 
 - [add] WhispColorChanger (New Version) & removed old one
 - [misc] Updated ServerTools Mut to v1.4.3 (with fixed trader boost)
