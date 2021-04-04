@@ -1,4 +1,8 @@
-# v8.3 [Apr 3rd, 2021]
+# v8.4 [Apr 4th, 2021]
+
+- [add] HUDEffects mut v1.0
+
+## v8.3 [Apr 3rd, 2021]
 
 - [add] AutoCallOut mut v1.1
 - [misc] Updated AreYouVip to v1.4
