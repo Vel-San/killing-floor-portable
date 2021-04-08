@@ -1,4 +1,21 @@
-# v8.4 [Apr 4th, 2021]
+# v8.5 [Apr 8th, 2021]
+
+- [del] SoundBoard mut
+- [del] Weight Mut
+- [del] ColorfulHUD Mut
+- [del] AlarmTrader Mut
+- [misc] Removed LoadOut mut from all votes except NFN
+- [misc] Updated HUDEffects to v1.1
+- [misc] Removed FireBug perk
+- [misc] Updated MutLoader config
+- [del] Bloody Doll skin
+
+> TODO: Disable GUI Servertools and revert back both ServerPerks.u & ServerPerksP.u to original ones
+> TODO: Clean-up and upate redirect Directory
+> TODO: Reflect changes to my server
+> TODO: Add Maps
+
+## v8.4 [Apr 4th, 2021]
 
 - [add] HUDEffects mut v1.0
 

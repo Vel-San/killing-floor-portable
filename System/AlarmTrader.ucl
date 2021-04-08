@@ -1,1 +1,0 @@
-Mutator=(ClassName=AlarmTrader.AlarmTrader,GroupName=KFAlarmTrader,IconMaterialName=MutatorArt.nosym,FriendlyName=AlarmTrader.AlarmTrader.FriendlyName,Description=AlarmTrader.AlarmTrader.Description,FriendlyName=AlarmTrader.AlarmTrader.FriendlyName,FallbackName="Alarm Trader",FallbackDesc="Add sound in last NN seconds trader time. Simple for Atmosphere :)")

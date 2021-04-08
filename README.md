@@ -1,4 +1,4 @@
-![version](https://img.shields.io/badge/Version-8.4-yellow?style=flat-square) ![last_modified](https://img.shields.io/github/last-commit/vel-san/kf-portable/master?style=flat-square) ![contributers](https://img.shields.io/github/contributors/vel-san/kf-portable?style=flat-square) ![size](https://img.shields.io/github/repo-size/vel-san/kf-portable?color=violet&style=flat-square) ![platforms](https://img.shields.io/badge/Platforms-Windows-blue?style=flat-square)
+![version](https://img.shields.io/badge/Version-8.5-yellow?style=flat-square) ![last_modified](https://img.shields.io/github/last-commit/vel-san/kf-portable/master?style=flat-square) ![contributers](https://img.shields.io/github/contributors/vel-san/kf-portable?style=flat-square) ![size](https://img.shields.io/github/repo-size/vel-san/kf-portable?color=violet&style=flat-square) ![platforms](https://img.shields.io/badge/Platforms-Windows-blue?style=flat-square)
 
 - [KF-PORTABLE](#kf-portable)
   - [IMPORTANT NOTE FOR CLONING](#important-note-for-cloning)
@@ -56,8 +56,6 @@ Below, you can see the currently installed (**And configured**) mods if you are 
 >
 >**MedicAlert** | Shows a message to the medic **ONLY** if someone needs healing
 >
->**ESWWeightMut** | Customize the inventory weight so you can buy more weapons
->
 >**CountryTags** | Shows country TAG next to names in ScoreBoard
 >
 >**ChatIcon** | Shows a small Chat-icon if someone is typing something
@@ -88,8 +86,6 @@ Below, you can see the currently installed (**And configured**) mods if you are 
 >
 >**AreYouVIP** | Mark players as ViP or special in your server
 >
->**ColorfulHUD** | Changes the game's HUD to a colorful fresh HUD
->
 >**HardPatty** | Harder & Smarter Patty!
 >
 >**PattyHpBar** | Shows HP of Patty as a bar
@@ -109,10 +105,6 @@ Below, you can see the currently installed (**And configured**) mods if you are 
 >**StartLoadout** | Change starting loadout for all perks
 >
 >**MutLoaderV2** | Load mutators without MapVote or Server Launch Command
->
->**AlarmTrader** | Silent Hill alarm before trader ends
->
->**SoundBoard** | Play custom sounds via mutate commands
 >
 >**AllTraders** | Opens all traders up instead of 1
 >

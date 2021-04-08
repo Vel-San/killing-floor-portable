@@ -1,1 +1,0 @@
-Mutator=(ClassName=KFSoundBoard.KFSoundBoard,GroupName=KF-SoundBoard,IconMaterialName=MutatorArt.nosym,FriendlyName=KFSoundBoard.KFSoundBoard.FriendlyName,Description=KFSoundBoard.KFSoundBoard.Description,FriendlyName=KFSoundBoard.KFSoundBoard.FriendlyName,FallbackName="Sound Board - v1.1",FallbackDesc="Play custom sounds with key binds / mutate commands; Made by Vel-San")
