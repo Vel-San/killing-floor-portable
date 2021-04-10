@@ -1,4 +1,8 @@
-# v8.5 [Apr 8th, 2021]
+# v8.6 [Apr 10th, 2021]
+
+- [misc] Updated HUDEffects to v1.2
+
+## v8.5 [Apr 8th, 2021]
 
 - [del] SoundBoard mut
 - [del] Weight Mut
