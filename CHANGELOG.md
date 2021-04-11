@@ -1,4 +1,8 @@
-# v8.6 [Apr 10th, 2021]
+# v8.7 [Apr 11th, 2021]
+
+- [misc] Updated HUDEffects to v1.3
+
+## v8.6 [Apr 10th, 2021]
 
 - [misc] Updated HUDEffects to v1.2
 
