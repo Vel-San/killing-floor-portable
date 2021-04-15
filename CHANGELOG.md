@@ -1,4 +1,8 @@
-# v8.7 [Apr 11th, 2021]
+# v8.8 [Apr 11th, 2021]
+
+- [misc] Updated ServerTools to v1.5
+
+## v8.7 [Apr 11th, 2021]
 
 - [misc] Updated HUDEffects to v1.3
 
