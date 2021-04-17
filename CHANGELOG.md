@@ -1,6 +1,12 @@
-# v8.9 [Apr 16th, 2021]
+# v9.0 [Apr 17th, 2021]
+
+- [misc] Updated ServerTools to v1.5.1
+- [misc] Replaced ReloadOptionsMut with ReloadOptionsSP (ServerPerks support)
+
+## v8.9 [Apr 16th, 2021]
 
 - [misc] Updated HUDEffects to v1.4
+- [add] Server Achievements (If server crashes for any reason, this will be removed)
 
 ## v8.8 [Apr 11th, 2021]
 

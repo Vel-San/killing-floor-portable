@@ -1,0 +1,17 @@
+[AchievementPackPartImpl]
+achvUnlockedMsg="Achievement Unlocked!"
+achvInProgressMsg="Achievement In Progress"
+
+[AchievementPanel]
+BGStats.Caption="Achievements"
+packComboBox.Caption="Achievement Packs"
+packComboBox.Hint="View achievement list for selected achievement pack"
+
+[SAInteraction]
+AchievementPanel.Caption="Achievements"
+AchievementPanel.Hint="View custom achievement progress"
+
+[SAMutator]
+FriendlyName="Server Achievements"
+Description="Loads custom achievements into the game.  Version 1.3"
+
