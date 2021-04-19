@@ -1,4 +1,11 @@
-# v9.0 [Apr 17th, 2021]
+# v9.1 [Apr 18th, 2021]
+
+- [misc] Replaced MapVoteV2 with MapVoteV3
+- [misc] Updated all ServerAds messages/colors
+- [misc] Updated ServerPerks config
+- [del] FlameThrower has been removed; All my homies hate the flamethrower
+
+## v9.0 [Apr 17th, 2021]
 
 - [misc] Updated ServerTools to v1.5.1
 - [misc] Replaced ReloadOptionsMut with ReloadOptionsSP (ServerPerks support)
