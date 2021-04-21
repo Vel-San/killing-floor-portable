@@ -1,4 +1,9 @@
-# v9.1 [Apr 18th, 2021]
+# v9.1.1 [Apr 21st, 2021]
+
+- [misc] Updated Votings
+- [misc] Updated MutLoader to v2.2
+
+## v9.1 [Apr 18th, 2021]
 
 - [misc] Replaced MapVoteV2 with MapVoteV3
 - [misc] Updated all ServerAds messages/colors
