@@ -1,4 +1,8 @@
-# v9.1.1 [Apr 21st, 2021]
+# v9.2 [Apr 22st, 2021]
+
+- [add] PlayerLoggin Mut
+
+## v9.1.1 [Apr 21st, 2021]
 
 - [misc] Updated Votings
 - [misc] Updated MutLoader to v2.2

@@ -1,0 +1,1 @@
+Mutator=(ClassName=PlayerDataStoreMut.PlayerDataStoreMut,GroupName=KF-PlayerDataStore,IconMaterialName=MutatorArt.nosym,FriendlyName=PlayerDataStoreMut.PlayerDataStoreMut.FriendlyName,Description=PlayerDataStoreMut.PlayerDataStoreMut.Description,FriendlyName=PlayerDataStoreMut.PlayerDataStoreMut.FriendlyName,FallbackName="PlayerDataStoreMut",FallbackDesc="PlayerDataStoreMut")
