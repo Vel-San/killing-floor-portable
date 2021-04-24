@@ -1,4 +1,10 @@
-# v9.2 [Apr 22st, 2021]
+# v9.3 [Apr 23rd, 2021]
+
+- [perk] Re-added Firebug
+- [misc] Slightly changed AutoCallOut config
+- [skin] BloodyDoll
+
+## v9.2 [Apr 22st, 2021]
 
 - [add] PlayerLoggin Mut
 
