@@ -1,4 +1,10 @@
-# v9.3 [Apr 23rd, 2021]
+# v9.4 [Apr 23rd, 2021]
+
+- [add] Custom server details
+- [misc] Disabled WeaponViewShake
+- [misc] Updated ServerAds messages
+
+## v9.3 [Apr 23rd, 2021]
 
 - [perk] Re-added Firebug
 - [misc] Slightly changed AutoCallOut config
