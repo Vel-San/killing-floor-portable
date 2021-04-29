@@ -1,4 +1,8 @@
-# v9.4 [Apr 23rd, 2021]
+# v9.5 [Apr 29th, 2021]
+
+- [misc] Updated ServerTools to v1.5.2
+
+## v9.4 [Apr 23rd, 2021]
 
 - [add] Custom server details
 - [misc] Disabled WeaponViewShake
