@@ -1,4 +1,8 @@
-# v9.5 [Apr 29th, 2021]
+# v9.6 [May 5th, 2021]
+
+- [misc] Updated WeaponStatConfig to v2.5
+
+## v9.5 [Apr 29th, 2021]
 
 - [misc] Updated ServerTools to v1.5.2
 
