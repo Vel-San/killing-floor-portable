@@ -25,7 +25,7 @@ This guide assumes that you are already familiar with setting up a dedicated ser
 Use the following command in case you want to clone the repo (to avoid cloning it's history, which is about ~600mbs)
 
 ```
-git clone git@github.com:Vel-San/kf_Portable.git --bare
+git clone --depth 1 git@github.com:Vel-San/kf_Portable.git
 ```
 
 ## What is included
