@@ -1,3 +1,8 @@
+# v9.8 [Jul 23d, 2021]
+
+- [misc] Updated HUD Effects to v1.5
+- [misc] Updated MutLoader config
+
 # v9.7 [Jul 23d, 2021]
 
 - [misc] Fixed WeaponStatsConfig Config
