@@ -1,4 +1,4 @@
-![version](https://img.shields.io/badge/Version-9.6-yellow?style=flat-square) ![last_modified](https://img.shields.io/github/last-commit/vel-san/kf-portable/master?style=flat-square) ![contributers](https://img.shields.io/github/contributors/vel-san/kf-portable?style=flat-square) ![size](https://img.shields.io/github/repo-size/vel-san/kf-portable?color=violet&style=flat-square) ![platforms](https://img.shields.io/badge/Platforms-Windows-blue?style=flat-square)
+![version](https://img.shields.io/badge/Version-9.7-yellow?style=flat-square) ![last_modified](https://img.shields.io/github/last-commit/vel-san/kf-portable/master?style=flat-square) ![contributers](https://img.shields.io/github/contributors/vel-san/kf-portable?style=flat-square) ![size](https://img.shields.io/github/repo-size/vel-san/kf-portable?color=violet&style=flat-square) ![platforms](https://img.shields.io/badge/Platforms-Windows-blue?style=flat-square)
 
 - [KF-PORTABLE](#kf-portable)
   - [IMPORTANT NOTE FOR CLONING](#important-note-for-cloning)
@@ -110,7 +110,9 @@ Below, you can see the currently installed (**And configured**) mods if you are 
 >
 >**HUDEffects** | Removes some annoying HUD Effects for all clients
 >
->**ServerAcheivments** | Read the mutator name ;)
+>**ServerAcheivments** | Adds custom & vanilla achievments support ;)
+>
+>**ColorfulHUD** | Pretty HUD ;)
 
 All of these mutators are pre-configured for the optimal experience. If you want to manually change the values and configuration of them, you can find the original files here:
 

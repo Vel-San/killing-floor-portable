@@ -1,3 +1,8 @@
+# v9.7 [Jul 23d, 2021]
+
+- [misc] Fixed WeaponStatsConfig Config
+- [add] ColorfulHUD Mut v1.8
+
 # v9.6 [May 5th, 2021]
 
 - [misc] Updated WeaponStatConfig to v2.5
