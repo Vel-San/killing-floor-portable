@@ -1,3 +1,7 @@
+# v9.9 [Jul 24d, 2021]
+
+- [perk] Re-Disabled Flamethrower | Xbow
+
 # v9.8 [Jul 23d, 2021]
 
 - [misc] Updated HUD Effects to v1.5
