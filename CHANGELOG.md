@@ -2,6 +2,7 @@
 
 - [perk] Re-Disabled Flamethrower | Xbow
 - [misc] Updated HUD Effects to v1.6
+- [misc] Updated Whisp Color Changer to v3.2.1
 - [misc] Updated ServerAdsKF Config
 
 # v9.8 [Jul 23d, 2021]
