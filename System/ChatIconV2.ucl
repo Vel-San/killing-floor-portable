@@ -1,0 +1,1 @@
+Mutator=(ClassName=ChatIconV2.ChatIconV2,GroupName=KF-ChatIconV2,IconMaterialName=MutatorArt.nosym,FriendlyName=ChatIconV2.ChatIconV2.FriendlyName,Description=ChatIconV2.ChatIconV2.Description,FriendlyName=ChatIconV2.ChatIconV2.FriendlyName,FallbackName="Chat Icon - v2.0",FallbackDesc="Shows an icon on top of a player when he is using chat")

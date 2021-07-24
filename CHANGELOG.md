@@ -1,6 +1,8 @@
 # v9.9 [Jul 24d, 2021]
 
 - [perk] Re-Disabled Flamethrower | Xbow
+- [del] KFArgChat Mutator
+- [add] Chat Icon v2 Mut
 - [misc] Updated HUD Effects to v1.6
 - [misc] Updated Whisp Color Changer to v3.2.1
 - [misc] Updated ServerAdsKF Config

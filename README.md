@@ -58,8 +58,6 @@ Below, you can see the currently installed (**And configured**) mods if you are 
 >
 >**CountryTags** | Shows country TAG next to names in ScoreBoard
 >
->**ChatIcon** | Shows a small Chat-icon if someone is typing something
->
 >**DamagePopup** | Shows damage popups when you hit a ZED
 >
 >**MutKillMessage** | Shows damage dealt to ZEDs
@@ -110,9 +108,11 @@ Below, you can see the currently installed (**And configured**) mods if you are 
 >
 >**HUDEffects** | Removes some annoying HUD Effects for all clients
 >
->**ServerAcheivments** | Adds custom & vanilla achievments support ;)
+>**ServerAcheivments** | Adds custom & vanilla achievments support
 >
->**ColorfulHUD** | Pretty HUD ;)
+>**ColorfulHUD** | Pretty HUD ;D
+>
+>**Chat Icons** | Pretty, animated chat icons when a player is typing
 
 All of these mutators are pre-configured for the optimal experience. If you want to manually change the values and configuration of them, you can find the original files here:
 
