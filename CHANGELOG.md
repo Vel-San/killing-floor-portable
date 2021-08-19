@@ -1,3 +1,9 @@
+# v10.0 [Aug 19th, 2021]
+
+- [misc] Replaced Old PatHpBar mut with new one (MultiplePatHPBar.MultiplePatHPBarMut)
+- [misc] Updated WhispColorChanger to v3.2.2
+- [misc] Fixed CustomServerDetails wrong color tagging syntax
+
 # v9.9 [Jul 24d, 2021]
 
 - [perk] Re-Disabled Flamethrower | Xbow
