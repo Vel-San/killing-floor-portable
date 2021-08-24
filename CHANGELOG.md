@@ -1,6 +1,6 @@
 # v10.0 [Aug 19th, 2021]
 
-- [add] MaxPlayers Mut (Default 12 slots)
+- [add] MaxPlayers Mut (Default 15 slots)
 - [misc] Replaced Old PatHpBar mut with new one (MultiplePatHPBar.MultiplePatHPBarMut)
 - [misc] Updated WhispColorChanger to v3.2.2
 - [misc] Fixed CustomServerDetails wrong color tagging syntax
