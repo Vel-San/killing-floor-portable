@@ -18,16 +18,13 @@ A pre-configured, Grey-listed *dedicated-server* **configuration** directory for
 This guide assumes that you are already familiar with setting up a dedicated server via '**steamCMD**', if not, then you can simply contact me using the following:
 
 - [Steam](https://steamcommunity.com/id/Vel-San/)
-- Discord: **.Vel-San.#7468**
-- [Twitter](https://twitter.com/Vel__San)
-- [Other Guides](https://steamcommunity.com/id/Vel-San/myworkshopfiles/?section=guides&appid=1250)
 
 ## IMPORTANT NOTE FOR CLONING
 
 Use the following command in case you want to clone the repo (to avoid cloning it's history, which is about ~600mbs)
 
 ```
-git clone --depth 1 git@github.com:Vel-San/kf_Portable.git
+git clone --depth 1 https://github.com/Vel-San/killing-floor-portable.git
 ```
 
 ## What is included
