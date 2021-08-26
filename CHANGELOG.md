@@ -1,6 +1,6 @@
 # v10.1 [Aug 26th, 2021]
 
-- [misc] Updated AutoCallOut to v1.3
+- [misc] Updated AutoCallOut to v1.3.1
 
 ## v10.0 [Aug 19th, 2021]
 
