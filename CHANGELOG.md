@@ -1,4 +1,8 @@
-# v10.0 [Aug 19th, 2021]
+# v10.1 [Aug 26th, 2021]
+
+- [misc] Updated AutoCallOut to v1.3
+
+## v10.0 [Aug 19th, 2021]
 
 - [add] MaxPlayers Mut (Defaults to 15 slots)
 - [misc] Replaced Old PatHpBar mut with new one (MultiplePatHPBar.MultiplePatHPBarMut)
