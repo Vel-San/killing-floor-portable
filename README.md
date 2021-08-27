@@ -103,8 +103,6 @@ Below, you can see the currently installed (**And configured**) mods if you are 
 >
 >**MutLoaderV2** | Load mutators without MapVote or Server Launch Command
 >
->**AllTraders** | Opens all traders up instead of 1
->
 >**HUDEffects** | Removes some annoying HUD Effects for all clients
 >
 >**ServerAcheivments** | Adds custom & vanilla achievments support

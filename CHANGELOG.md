@@ -1,6 +1,7 @@
 # v10.2 [Aug 27th, 2021]
 
 - [misc] Updated AutoCallOut to v1.3.3
+- [del] AllTraders Mut
 
 ## v10.1 [Aug 26th, 2021]
 
