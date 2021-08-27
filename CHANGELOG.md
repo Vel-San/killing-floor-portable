@@ -1,4 +1,8 @@
-# v10.1 [Aug 26th, 2021]
+# v10.2 [Aug 27th, 2021]
+
+- [misc] Updated AutoCallOut to v1.3.3
+
+## v10.1 [Aug 26th, 2021]
 
 - [misc] Updated WeaponStatConfig to v2.6
 - [misc] Updated AutoCallOut to v1.3.2
