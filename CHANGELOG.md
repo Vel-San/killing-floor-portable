@@ -1,3 +1,8 @@
+# v10.3 [Aug 27th, 2021]
+
+- [misc] Updated AutoCallOut to v1.3.4
+- [feature] MaxSpectators increased to 10
+
 # v10.2 [Aug 27th, 2021]
 
 - [misc] Updated AutoCallOut to v1.3.3
