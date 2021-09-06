@@ -1,3 +1,5 @@
 # Files
 *.log
+*.DS_Store
+
 # Folders
