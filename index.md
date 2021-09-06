@@ -6,7 +6,7 @@
 
 ## ⚙️ Nanu Nanu #1 • Hell On Earth
 
-| [Quick Join](steam://run/1250/connect/nn.h4ck.me:7707){:target="_blank"} | [WebAdmin](http://nn.h4ck.me:8075/){:target="_blank"} |
+| [Quick Join](steam://run/1250/connect/nn.h4ck.me:7707){:target="_blank"} | [WebAdmin](http://nn.h4ck.me:8075/){:target="_blank"} | [![Version](https://img.shields.io/github/v/release/Vel-San/killing-floor-portable?label=Release&style=flat-square)](https://github.com/Vel-San/killing-floor-portable/releases) |
 
 [![](https://cache.gametracker.com/server_info/nn.h4ck.me:7707/b_560_95_1.png)](https://www.gametracker.com/server_info/nn.h4ck.me:7707/){:target="_blank"}
 
