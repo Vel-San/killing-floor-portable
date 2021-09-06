@@ -1,4 +1,15 @@
-# v10.3 [Aug 27th, 2021]
+# v10.4 [Sep 6th, 2021]
+
+- [del] Faked Mut
+- [del] Enhanced Syringe Mut
+- [del] Enhanced Musket Mut
+- [del] MGP (Healing Grenade Launcher) Weapon
+- [misc] Changed SP's Enhanced Shoulder View to FALSE
+- [misc] Updated WeaponStatConfig to reflect above changes
+- [repo] Added new Github Pages link
+- [repo] Started with tagging mechanism instead of manually updating README's badge
+
+## v10.3 [Aug 27th, 2021]
 
 - [misc] Updated AutoCallOut to v1.3.4
 - [feature] MaxSpectators increased to 10
