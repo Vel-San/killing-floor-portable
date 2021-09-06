@@ -71,8 +71,6 @@ Below, you can see the currently installed (**And configured**) mods if you are 
 >
 >**CuteCustomes** | Adds custom outfits in the Trader
 >
->**EnhancedSyringe** | A Modded version of the Medical Syringe, with sprint boost
->
 >**WeaponStatConfig** | Configure default stats of any weapon on-the-fly from a config file
 >
 >**WhispColorChanger** | Change colors of the trader whisp
@@ -88,8 +86,6 @@ Below, you can see the currently installed (**And configured**) mods if you are 
 >**PattyHpBar** | Shows HP of Patty as a bar
 >
 >**FleshPoundSpinFix** | Fixes critical Fleshpound bugs
->
->**FakedPlayersPlus** | Simulates players for HoE GameDiff Modes
 >
 >**VisibleSpecX** | Spectators can shoot & heal enemies and players
 >
