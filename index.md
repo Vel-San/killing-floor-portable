@@ -1,5 +1,3 @@
-# ⚙️ Servers Overview
-
 ## 📡 Servers Portal
 
 ### Nanu Nanu **#1** • Hell On Earth + **NFN**
