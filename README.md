@@ -83,8 +83,6 @@ Below, you can see the currently installed (**And configured**) mods if you are 
 >
 >**AreYouVIP** | Mark players as ViP or special in your server
 >
->**HardPatty** | Harder & Smarter Patty!
->
 >**PattyHpBar** | Shows HP of Patty as a bar
 >
 >**FleshPoundSpinFix** | Fixes critical Fleshpound bugs
