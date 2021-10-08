@@ -2,8 +2,6 @@
 
 [![](https://cache.gametracker.com/server_info/nn.h4ck.me:7707/b_350_20_692108_381007_ffffff_000000.png)](https://www.gametracker.com/server_info/nn.h4ck.me:7707/)
 
-[![](https://cache.gametracker.com/server_info/nn.h4ck.me:7709/b_350_20_692108_381007_ffffff_000000.png)](https://www.gametracker.com/server_info/nn.h4ck.me:7709/)
-
 - [KF-PORTABLE](#kf-portable)
   - [IMPORTANT NOTE FOR CLONING](#important-note-for-cloning)
   - [What is included](#what-is-included)
