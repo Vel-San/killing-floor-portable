@@ -4,8 +4,6 @@
 
 | [Quick Join](steam://run/1250/connect/nn.h4ck.me:7707){:target="_blank"} | [WebAdmin](http://nn.h4ck.me:8075/){:target="_blank"} |
 
-[![](https://cache.gametracker.com/server_info/nn.h4ck.me:7707/b_560_95_1.png)](https://www.gametracker.com/server_info/nn.h4ck.me:7707/){:target="_blank"}
-
 ___
 
 ## ⚓️ Quick Links & Info
