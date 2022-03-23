@@ -1,0 +1,16 @@
+name: Communication:Greetings
+
+on: [pull_request, issues]
+
+jobs:
+  greeting:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+    steps:
+    - uses: actions/first-interaction@v1
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        issue-message: 'Oh, an issue? `Vel` will try and check your changes ASAP; make sure you have perma-links for codes/snippets if it is code related!'
+        pr-message: 'Awesome! Thankyou for your interest in this project & creating a new PR. `Vel` will try and check your changes ASAP.'
