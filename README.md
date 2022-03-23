@@ -12,7 +12,7 @@
 
 # KF-PORTABLE
 
-A pre-configured, Grey-listed *dedicated-server* **configuration** directory for Killing Floor 1
+> A pre-configured, Grey-listed *dedicated-server* **configuration** directory for Killing Floor 1
 
 This guide assumes that you are already familiar with setting up a dedicated server via '**steamCMD**', if not, then you can simply contact me using the following:
 
@@ -39,14 +39,7 @@ This directory is tailored according to my own taste of mutators.
 
 ### Mutator Changes
 
-I currently have 2 lists of mutators in my Steam Collections:
-
-- Grey-Listed, Minimal must-have muts that will improve player experience (Affects gameplay in several ways)
-  - [Found Here](https://steamcommunity.com/sharedfiles/filedetails/?id=1913521033)
-- White-listed, Minimal must-have muts that do not affect your gameplay, rather just imrpove Quality of the game
-  - [Found Here](https://steamcommunity.com/sharedfiles/filedetails/?id=1490172785)
-
-Below, you can see the currently installed (**And configured**) mods if you are using this repo:
+Below, you can see the currently installed (**And configured**) mods if you are using this setup:
 
 >**WeaponPickupMessage** | Shows a message on weapon pickup, visible to all players
 >
@@ -108,12 +101,9 @@ Below, you can see the currently installed (**And configured**) mods if you are 
 
 All of these mutators are pre-configured for the optimal experience. If you want to manually change the values and configuration of them, you can find the original files here:
 
-- [MEGA - Default Mutators](https://mega.nz/folder/YDoEmKiC#s6FGAtgh40-TvB4bHsLaMQ)
-  - If you want to upload these files to your own FTP host, you have to use **Compresser.bat** to convert them into .uz2 format - you can find the bat also in **\System**
-
 ## Usage
 
-Alright. So, assuming you already downloaded the Repo and you have Killing Floor installed via **steamCMD** as a dedicated server.
+Alright. So, assuming you already cloned/downloaded the Repo and you have Killing Floor installed via **steamCMD** as a dedicated server.
 
 - Navigate to your local KF-Dedicated Server directory
 - Replace all files when prompted (Except `Killingfloor.ini`)
@@ -123,8 +113,8 @@ Now we need to update the '*Vanilla*' Settings to what **YOU** want
 - Open **Killingfloor.ini** with a file editor (Preferably *VSCode* or *NotePad++*)
 - Press Cntrl+F (To Find a keyword)
 - Search for '**Change_me**' (Without the quotes)
-  - Whenever you find a Change_me keyword, replace it when what you want :)
-  - Replace all other values that are present in the `Killingfloor.ini` from this repo, into the default `Killingfloor.ini`
+  - Whenever you find a Change_me keyword, replace it with what you want :)
+  - Replace *or* add all other values that are present in `Killingfloor.ini` from this repo, into the default `Killingfloor.ini`
 - Now look for **KF_Server_Launcher.bat** in **\System**
   - Right click and create a desktop shortcut for it
 
@@ -136,9 +126,7 @@ Navigate to `MutLoader.ini`:
   - Here you can enable/disable mutators
   - Here you can change your ServerName with every MapVote you do. For more, check [MutLoader v2.1](https://steamcommunity.com/sharedfiles/filedetails/?id=2286683680)
 
-You are done! Launch Killing Floor from steam, once it loads, go to Open the newly created KF_Server_Launcher shortcut from your desktop. You should be able to view the server once it starts inside the game (Multiplayer > Lan)
-
-NOTE: The default config is the Modded, grey-listed mode. If you want to switch your config to Vanilla KF with no Mods at all, press ESC in-game and change the Game Mode in the Map Vote settings. You can find several pre-configured modes that i've made for you
+You are done! Launch Killing Floor from steam, once it loads, launch the newly created **KF_Server_Launcher** shortcut from your desktop. You should be able to view the server once it starts inside the game.
 
 You can join your own server, and if you have all ports properly forwarded in your router, anyone can join you!
 
