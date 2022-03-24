@@ -16,7 +16,7 @@ jobs:
     - uses: actions/stale@v4
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
-        stale-issue-message: 'Stale issue message'
-        stale-pr-message: 'Stale pull request message'
+        stale-issue-message: 'Marking issue as stale'
+        stale-pr-message: 'Marking PR as stale'
         stale-issue-label: 'no-issue-activity'
         stale-pr-label: 'no-pr-activity'
