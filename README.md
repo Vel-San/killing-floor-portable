@@ -171,3 +171,6 @@ You can join your own server, and if you have all ports properly forwarded in yo
 
 - Does this config work on Steam's Killingfloor (and not steamCMD)
   - Yep! Just do the same steps.
+
+- Where can I get the compressed (.uz2) files from?
+  - You can find everything (as long as it is hosted by me) in this [Redirect-URL](https://kf-server.000webhostapp.com/redirect/)
