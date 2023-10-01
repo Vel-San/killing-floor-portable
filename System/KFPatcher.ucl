@@ -1,0 +1,1 @@
+Mutator=(ClassName=KFPatcher.mut,GroupName=KF-DarkMagic,IconMaterialName=MutatorArt.nosym,FriendlyName=KFPatcher.mut.FriendlyName,Description=KFPatcher.mut.Description,FriendlyName=KFPatcher.mut.FriendlyName,FallbackName="KF1 Patcher",FallbackDesc="Directly replace TWI's bullshit functions for easy fixes (or trolls).")
