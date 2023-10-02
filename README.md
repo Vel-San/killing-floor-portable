@@ -100,6 +100,8 @@ Below, you can see the currently installed (**And configured**) mods if you are 
 >**MaxPlayers** | Increases server slots
 >
 >**SoundBoard** | Play various sound effects in-game, can be set as keybinds for inputs
+>
+>**KFPatcher** | Fix most gamebreaking bugs and ads some QoL tweaks
 
 All of these mutators are pre-configured for the optimal experience. If you want to manually change the values and configuration of them, you can find the original files here:
 
