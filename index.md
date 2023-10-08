@@ -11,5 +11,3 @@ ___
 | [Steam Group](https://steamcommunity.com/groups/Nanu-Nanu){:target="_blank"} |
 
 [![version](https://img.shields.io/github/v/release/Vel-San/killing-floor-portable?label=version&style=flat-square)](https://github.com/Vel-San/killing-floor-portable/releases){:target="_blank"} ![last_modified](https://img.shields.io/github/last-commit/vel-san/kf-portable/master?style=flat-square){:target="_blank"}
-
-<img src="https://raw.githubusercontent.com/Vel-San/killing-floor-portable/gh-pages/_assets/Server_Details.png" width="650" height="300"/>
